@@ -7,7 +7,7 @@ authors: 'Janine Scholefield, Ricardo Henriques, Anca F Savulescu, Elisabeth Fon
 paperurl: https://www.nature.com/articles/ncomms12629
 doi: 10.1038/ncomms12629
 tagline: '- Paper, Co-first author'
-type: 'cell signalling'
+type: 'structural biology, cell signalling'
 ---
 
 <h2> Abstract </h2>
