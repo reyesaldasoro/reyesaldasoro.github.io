@@ -132,9 +132,9 @@
           {% endif %}
 
           {% if post.doi %}
-          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="https://doi.org/{{ post.doi }}"> <u>publication</u></a>  ) </cite></b></span><br>
+          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="https://doi.org/{{ post.doi }}"> <u>publication</u></a>)</cite></b></span><br>
           {% elsif post.paperurl %}
-          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="{{ post.paperurl }}"> <u>publication</u></a>  ) </cite></b></span><br>
+          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="{{ post.paperurl }}"> <u>publication</u></a>)</cite></b></span><br>
           {% else %}
           <br>
           {% endif %}
@@ -169,7 +169,9 @@
           <span style="font-size:0.85em; line-height: 0.5;"><b>Type: </b><i>{{ post.type }}</i></span><br>
           {% endif %}
 
-
+          {% if post.resource-software %}
+          <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.resource-software }}</i></span><br>
+          {% endif %}
 
     </td>
     {% if post.doi %}
