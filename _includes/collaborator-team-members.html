@@ -2,16 +2,44 @@
 <div class="grid">
   <div class="wrapper">
     {% for member in site.team %}
-      {% assign post = member %}
-      {% if member.supervisors contains page.authorname or member.collaborators contains page.authorname %}
-        {% include archive-single-proj.html type="grid" %}
-      {% else %}
-        {% for pub in site.publications %}
-          {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
-            {% include archive-single-proj.html type="grid" %}
-            {% break %}
-          {% endif %}
-        {% endfor %}
+      {% assign alumni = false %}
+      {% if member.tags contains "alumni" %}
+        {% assign alumni = true %}
+      {% endif %}
+
+      {% if alumni == false %}
+        {% assign post = member %}
+        {% if member.supervisors contains page.authorname or member.collaborators contains page.authorname %}
+          {% include archive-single-proj.html type="grid" %}
+        {% else %}
+          {% for pub in site.publications %}
+            {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
+              {% include archive-single-proj.html type="grid" %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+
+    {% for member in site.team %}
+      {% assign alumni = false %}
+      {% if member.tags contains "alumni" %}
+        {% assign alumni = true %}
+      {% endif %}
+
+      {% if alumni == true %}
+        {% assign post = member %}
+        {% if member.supervisors contains page.authorname or member.collaborators contains page.authorname %}
+          {% include archive-single-proj.html type="grid" %}
+        {% else %}
+          {% for pub in site.publications %}
+            {% if pub.authors contains page.authorname and pub.authors contains member.authorname %}
+              {% include archive-single-proj.html type="grid" %}
+              {% break %}
+            {% endif %}
+          {% endfor %}
+        {% endif %}
       {% endif %}
     {% endfor %}
   </div>

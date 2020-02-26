@@ -1,13 +1,22 @@
 {% if page.authorname %}
-  <p align= "justify">
-  {% if page.googlescholar %}
-  <h2> Publications with our group (see more on <a href="{{ page.googlescholar }}"><span style="color:gray">Google Scholar</span></a>)</h2>
-  {% else %}
-  <h2> Publications with our group </h2>
-  {% endif %}
+  {% assign published = false %}
   {% for post in site.publications reversed %}
     {% if post.authors contains page.authorname %}
-      {% include archive-single-pub-associate.html %}
+      {% assign published = true %}
     {% endif %}
   {% endfor %}
+
+  {% if published %}
+    <p align= "justify">
+    {% if page.googlescholar %}
+    <h2> Publications with our group (see more on <a href="{{ page.googlescholar }}"><span style="color:gray">Google Scholar</span></a>)</h2>
+    {% else %}
+    <h2> Publications with our group </h2>
+    {% endif %}
+    {% for post in site.publications reversed %}
+      {% if post.authors contains page.authorname %}
+        {% include archive-single-pub-associate.html %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
 {% endif %}
