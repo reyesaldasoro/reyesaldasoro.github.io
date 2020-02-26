@@ -16,5 +16,6 @@ twitter: uschmidt83
 <p align= "justify">
 
 {% include author-research-themes.html %}
+{% include author-research-resources.html %}
 {% include collaborator-team-members.html %}
 {% include publication-list.html %}

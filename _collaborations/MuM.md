@@ -17,5 +17,6 @@ twitter: mhlangalab
 Note: Musa was the PhD supervisor of Ricardo Henriques.
 
 {% include author-research-themes.html %}
+{% include author-research-resources.html %}
 {% include collaborator-team-members.html %}
 {% include publication-list.html %}
