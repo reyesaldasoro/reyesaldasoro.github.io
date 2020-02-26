@@ -6,7 +6,7 @@ venue: 'EMBO reports'
 authors: 'Andrea Sirianni, Sina Krokowski, Damián Lobato‐Márquez, Stephen Buranyi, Julia Pfanzelter, Dieter Galea, Alexandra Willis, Siân Culley, Ricardo Henriques, Gerald Larrouy‐Maumus, Michael Hollinshead, Vanessa Sancho‐Shimizu, Michael Way, Serge Mostowy'
 paperurl: https://www.embopress.org/doi/full/10.15252/embr.201541832
 doi: 10.15252/embr.201541832
-tagline: '- Paper'
+type: 'Paper'
 theme: 'host-pathogen'
 ---
 

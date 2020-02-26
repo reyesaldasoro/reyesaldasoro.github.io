@@ -6,7 +6,7 @@ venue: 'The Journal of Immunology'
 authors: 'Joana G Silva, Nuno P Martins, Ricardo Henriques, Helena Soares'
 paperurl: https://www.jimmunol.org/content/197/10/4042.short
 doi: 10.4049/jimmunol.1601132
-tagline: '- Paper'
+type: 'Paper'
 theme: 'host-pathogen, microbiology'
 ---
 

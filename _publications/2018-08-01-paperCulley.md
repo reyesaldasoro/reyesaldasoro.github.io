@@ -6,7 +6,7 @@ venue: 'The international journal of biochemistry & cell biology'
 authors: 'Siân Culley, Kalina L Tosheva, Pedro Matos Pereira, Ricardo Henriques'
 paperurl: https://www.sciencedirect.com/science/article/pii/S1357272518301262
 doi: 10.1016/j.biocel.2018.05.014
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: 'software, methods'
 
 ---

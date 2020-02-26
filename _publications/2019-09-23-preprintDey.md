@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 authors: 'Gautam Dey, Siân Culley, Scott Curran, Ricardo Henriques, Wanda Kukulski, Buzz Baum'
 paperurl: https://www.biorxiv.org/content/10.1101/779769v1.abstract
 doi: 10.1101/779769
-tagline: '- Preprint'
+type: 'Preprint'
 theme: "cell division, microbiology"
 ---
 

@@ -6,9 +6,10 @@ venue: 'Scientific reports'
 authors: 'Robert DM Gray, Corina Beerli, Pedro Matos Pereira, Kathrin Maria Scherer, Jerzy Samolej, Christopher Karl Ernst Bleck, Jason Mercer, Ricardo Henriques'
 paperurl: https://www.nature.com/articles/srep29132
 doi: 10.1038/srep29132
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: 'software, methods'
-
+resource-software: 'NanoJ-VirusMapper'
+resource-repository: https://bitbucket.org/rhenriqueslab/nanoj-virusmapper/wiki/Home
 ---
 
 <h2> Abstract </h2>

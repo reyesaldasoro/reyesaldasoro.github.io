@@ -6,7 +6,7 @@ venue: 'Nature methods'
 authors: 'Jervis Vermal Thevathasan, Maurice Kahnwald, Konstanty Cieśliński, Philipp Hoess, Sudheer Kumar Peneti, Manuel Reitberger, Daniel Heid, Krishna Chaitanya Kasuba, Sarah Janice Hoerner, Yiming Li, Yu-Le Wu, Markus Mund, Ulf Matti, Pedro Matos Pereira, Ricardo Henriques, Bianca Nijmeijer, Moritz Kueblbeck, Vilma Jimenez Sabinina, Jan Ellenberg, Jonas Ries'
 paperurl: https://www.nature.com/articles/s41592-019-0574-9.pdf?origin=ppub
 doi: 10.1038/s41592-019-0574-9
-tagline: '- Paper'
+type: 'Paper'
 theme: "methods, structural biology"
 ---
 

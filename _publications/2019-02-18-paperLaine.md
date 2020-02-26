@@ -6,7 +6,7 @@ venue: 'Journal of Physics D: Applied Physics'
 authors: 'Romain F Laine, Kalina L Tosheva, Nils Gustafsson, Robert DM Gray, Pedro Almada, David Albrecht, Gabriel T Risa, Fredrik Hurtig, Ann-Christin Lindås, Buzz Baum, Jason Mercer, Christophe Leterrier, Pedro M Pereira, Siân Culley, Ricardo Henriques'
 paperurl: https://iopscience.iop.org/article/10.1088/1361-6463/ab0261/meta
 doi: 10.1088/1361-6463/ab0261
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: 'software, methods'
 
 ---

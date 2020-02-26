@@ -6,7 +6,7 @@ venue: 'The annals of applied statistics'
 authors: 'Lekha Patel, Nils Gustafsson, Yu Lin, Raimund Ober, Ricardo Henriques, Edward Cohen'
 paperurl: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957128/
 doi: 10.1214/19-AOAS1240
-tagline: '- Paper'
+type: 'Paper'
 theme: 'software, methods'
 ---
 

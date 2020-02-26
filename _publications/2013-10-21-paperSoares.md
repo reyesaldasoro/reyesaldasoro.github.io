@@ -6,7 +6,7 @@ venue: 'Journal of Experimental Medicine'
 authors: 'Helena Soares, Ricardo Henriques, Martin Sachse, Leandro Ventimiglia, Miguel A Alonso, Christophe Zimmer, Maria-Isabel Thoulouze, Andrés Alcover'
 paperurl: https://rupress.org/jem/article/210/11/2415/41541/Regulated-vesicle-fusion-generates-signaling
 doi: 10.1084/jem.20130150
-tagline: '- Paper'
+type: 'Paper'
 theme: 'cell signalling'
 ---
 

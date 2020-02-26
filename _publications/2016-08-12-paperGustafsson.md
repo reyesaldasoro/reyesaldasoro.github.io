@@ -6,7 +6,7 @@ venue: 'Nature communications'
 authors: 'Nils Gustafsson, Siân Culley, George Ashdown, Dylan M Owen, Pedro Matos Pereira, Ricardo Henriques'
 paperurl: https://www.nature.com/articles/ncomms12471?origin=ppub
 doi: 10.1038/ncomms12471
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: 'software, methods'
 
 ---

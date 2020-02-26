@@ -139,9 +139,37 @@
           <br>
           {% endif %}
 
-          {% if post.tagline %}
-          <span style="font-size:0.85em; line-height: 0.5;"><i>{{ post.tagline }}</i></span><br>
+          {% assign pubthemes = post.theme | split: ", " %}
+          {% assign counter1 = 0 %}
+          {% assign counter2 = 0 %}
+          {% for theme in site.research %}
+            {% for pubtheme in pubthemes %}
+              {% if pubtheme == theme.type %}
+                {% assign counter1 = counter1 | plus: 1 %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+          {% capture pub_themes %}
+            {% for theme in site.research %}
+              {% for pubtheme in pubthemes %}
+                {% if pubtheme == theme.type %}
+                  {% assign counter2 = counter2 | plus: 1 %}
+                  {% if counter1!=counter2 %}
+                      <a href="{{ theme.url }}">{{ theme.title }}</a>,
+                  {% else %}
+                      <a href="{{ theme.url }}">{{ theme.title }}</a>
+                  {% endif %}
+                {% endif %}
+              {% endfor %}
+            {% endfor %}
+          {% endcapture %}
+          <span style="font-size:0.85em; line-height: 0.5;"><b>Research themes:</b> {{ pub_themes }}</span><br>
+
+          {% if post.type %}
+          <span style="font-size:0.85em; line-height: 0.5;"><b>Type: </b><i>{{ post.type }}</i></span><br>
           {% endif %}
+
+
 
     </td>
     {% if post.doi %}

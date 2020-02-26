@@ -6,7 +6,7 @@ venue: 'Cell host & microbe'
 authors: 'Sina Krokowski, Damián Lobato-Márquez, Arnaud Chastanet, Pedro Matos Pereira, Dimitrios Angelis, Dieter Galea, Gerald Larrouy-Maumus, Ricardo Henriques, Elias T Spiliotis, Rut Carballido-López, Serge Mostowy'
 paperurl: https://www.sciencedirect.com/science/article/pii/S1931312818305626
 doi: 10.1016/j.chom.2018.11.005
-tagline: '- Paper'
+type: 'Paper'
 theme: "host-pathogen, microbiology"
 ---
 

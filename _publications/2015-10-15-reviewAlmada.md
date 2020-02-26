@@ -6,7 +6,7 @@ venue: 'Methods'
 authors: 'Pedro Almada, Siân Culley, Ricardo Henriques'
 paperurl: https://www.sciencedirect.com/science/article/pii/S1046202315002455
 doi: 10.1016/j.ymeth.2015.06.004
-tagline: '- Review, Corresponding author'
+type: 'Review, Corresponding author'
 theme: 'hardware, methods'
 ---
 

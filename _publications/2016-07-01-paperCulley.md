@@ -6,7 +6,7 @@ venue: 'Viruses'
 authors: 'Siân Culley, Greg J Towers, David L Selwood, Ricardo Henriques, Joe Grove'
 paperurl: https://www.mdpi.com/1999-4915/8/7/201
 doi: 10.3390/v8070201
-tagline: '- Paper'
+type: 'Paper'
 theme: 'software, methods'
 ---
 

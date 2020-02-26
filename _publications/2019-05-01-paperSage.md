@@ -6,7 +6,7 @@ venue: 'Nature methods'
 authors: 'Daniel Sage, Thanh-An Pham, Hazen Babcock, Tomas Lukes, Thomas Pengo, Jerry Chao, Ramraj Velmurugan, Alex Herbert, Anurag Agrawal, Silvia Colabrese, Ann Wheeler, Anna Archetti, Bernd Rieger, Raimund Ober, Guy M Hagen, Jean-Baptiste Sibarita, Jonas Ries, Ricardo Henriques, Michael Unser, Seamus Holden'
 paperurl: https://www.nature.com/articles/s41564-019-0488-4
 doi: 10.1038/s41592-019-0364-4
-tagline: '- Paper'
+type: 'Paper'
 theme: 'software, methods'
 
 ---

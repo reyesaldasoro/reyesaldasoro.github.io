@@ -5,7 +5,7 @@ date: 2019-8-30
 venue: 'Biochemical Society Transactions'
 authors: 'Lucas von Chamier, Romain F Laine, Ricardo Henriques'
 paperurl: https://portlandpress.com/biochemsoctrans/article/47/4/1029/219665/Artificial-intelligence-for-microscopy-what-you
-tagline: '- Review, Corresponding author'
+type: 'Review, Corresponding author'
 doi: 10.1042/BST20180391
 theme: 'software, methods'
 ---

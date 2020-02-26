@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 authors: 'Aki Stubb, Romain F Laine, Camilo Guzmán, Ricardo Henriques, Guillaume Jacquemet, Johanna Ivaska'
 paperurl: https://www.biorxiv.org/content/10.1101/772947v1.abstract
 doi: 10.1101/772947
-tagline: '- Preprint'
+type: 'Preprint'
 theme: "methods, software"
 ---
 

@@ -6,7 +6,7 @@ venue: 'Nature methods'
 authors: 'Martin Weigert, Uwe Schmidt, Tobias Boothe, Andreas Müller, Alexandr Dibrov, Akanksha Jain, Benjamin Wilhelm, Deborah Schmidt, Coleman Broaddus, Siân Culley, Mauricio Rocha-Martins, Fabián Segovia-Miranda, Caren Norden, Ricardo Henriques, Marino Zerial, Michele Solimena, Jochen Rink, Pavel Tomancak, Loic Royer, Florian Jug, Eugene W Myers'
 paperurl: https://www.nature.com/articles/s41592-018-0216-7
 doi: 10.1038/s41592-018-0216-7
-tagline: '- Paper'
+type: 'Paper'
 theme: 'software, methods'
 
 ---

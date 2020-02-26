@@ -6,7 +6,7 @@ venue: 'Nature communications'
 authors: 'Pedro Almada, Pedro M Pereira, Siân Culley, Ghislaine Caillol, Fanny Boroni-Rueda, Christina L Dix, Guillaume Charras, Buzz Baum, Romain F Laine, Christophe Leterrier, Ricardo Henriques'
 paperurl: https://www.nature.com/articles/s41467-019-09231-9
 doi: 10.1038/s41467-019-09231-9
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: 'hardware, methods'
 
 ---

@@ -6,7 +6,7 @@ venue: 'Nature microbiology'
 authors: 'Robert DM Gray, David Albrecht, Corina Beerli, Moona Huttunen, Gary H Cohen, Ian J White, Jemima J Burden, Ricardo Henriques, Jason Mercer'
 paperurl: https://www.nature.com/articles/s41564-019-0488-4
 doi: 10.1038/s41564-019-0488-4
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: "structural biology, host-pathogen, microbiology"
 ---
 

@@ -5,7 +5,7 @@ date: 2020-01-20
 venue: 'bioRxiv'
 authors: 'Pedro M Pereira, Nils Gustafsson, Mark Marsh, Musa M Mhlanga, Ricardo Henriques'
 paperurl: https://www.biorxiv.org/content/10.1101/2020.01.20.912311v2.abstract
-tagline: '- Preprint, Corresponding author'
+type: 'Preprint, Corresponding author'
 doi: 10.1101/2020.01.20.912311
 theme: 'probes, methods'
 ---

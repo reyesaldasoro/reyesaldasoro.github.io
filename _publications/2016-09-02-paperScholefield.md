@@ -6,7 +6,7 @@ venue: 'Nature communications'
 authors: 'Janine Scholefield, Ricardo Henriques, Anca F Savulescu, Elisabeth Fontan, Alix Boucharlat, Emmanuel Laplantine, Asma Smahi, Alain Israël, Fabrice Agou, Musa M Mhlanga'
 paperurl: https://www.nature.com/articles/ncomms12629
 doi: 10.1038/ncomms12629
-tagline: '- Paper, Co-first author'
+type: 'Paper, Co-first author'
 theme: 'structural biology, cell signalling'
 ---
 

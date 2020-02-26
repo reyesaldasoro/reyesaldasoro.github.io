@@ -6,7 +6,7 @@ venue: 'Frontiers in immunology'
 authors: 'Pedro M Pereira, David Albrecht, Siân Culley, Caron Jacobs, Mark Marsh, Jason Mercer, Ricardo Henriques'
 paperurl: https://www.frontiersin.org/articles/10.3389/fimmu.2019.00675/full?report=reader
 doi: 10.3389/fimmu.2019.00675
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: "cell signalling, methods"
 ---
 

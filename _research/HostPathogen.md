@@ -2,7 +2,7 @@
 title: "Host-Pathogen Interactions"
 type: "host-pathogen"
 collection: research
-date: 2016-08-01
+date: 2013-09-04
 author_profile: false
 sidebar:
   nav: "Tech"

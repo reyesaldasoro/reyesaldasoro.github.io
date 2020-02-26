@@ -6,7 +6,7 @@ venue: 'Nature methods'
 authors: 'Siân Culley, David Albrecht, Caron Jacobs, Pedro Matos Pereira, Christophe Leterrier, Jason Mercer, Ricardo Henriques'
 paperurl: https://www.nature.com/articles/nmeth.4605
 doi: 10.1038/nmeth.4605
-tagline: '- Paper, Corresponding author'
+type: 'Paper, Corresponding author'
 theme: 'software, methods'
 
 ---

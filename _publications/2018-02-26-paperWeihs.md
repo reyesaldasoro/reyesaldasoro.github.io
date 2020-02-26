@@ -6,7 +6,7 @@ venue: 'Scientific reports'
 authors: 'Felix Weihs, Katarzyna Wacnik, Robert D Turner, Siân Culley, Ricardo Henriques, Simon J Foster'
 paperurl: https://www.nature.com/articles/s41598-018-21750-x?report=reader
 doi: 10.1038/s41598-018-21750-x
-tagline: '- Paper'
+type: 'Paper'
 theme: 'microbiology'
 ---
 

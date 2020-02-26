@@ -6,7 +6,7 @@ venue: 'Journal of Cell Biology'
 authors: 'Nadine Tarantino, Jean-Yves Tinevez, Elizabeth Faris Crowell, Bertrand Boisson, Ricardo Henriques, Musa Mhlanga, Fabrice Agou, Alain Israël, Emmanuel Laplantine'
 paperurl: https://rupress.org/jcb/article/204/2/231/37431/TNF-and-IL-1-exhibit-distinct-ubiquitin
 doi: 10.1083/jcb.201307172
-tagline: '- Paper'
+type: 'Paper'
 theme: 'cell signalling'
 ---
 

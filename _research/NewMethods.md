@@ -2,7 +2,7 @@
 title: "New Methods"
 type: "methods"
 collection: research
-date: 2016-08-01
+date: 2013-09-07
 author_profile: false
 sidebar:
   nav: "Tech"

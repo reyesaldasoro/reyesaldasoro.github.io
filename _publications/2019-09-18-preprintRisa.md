@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 authors: 'Gabriel Tarrason Risa, Fredrik Hurtig, Sian Bray, Anne E Hafner, Lena Harker-Kirschneck, Peter Faull, Colin Davis, Dimitra Papatziamou, Delyan R Mutavchiev, Catherine Fan, Leticia Meneguello, Andre Arashiro Pulschen, Gautam Dey, Siân Culley, Mairi Kilkenny, Luca Pellegrini, Robertus AM de Bruin, Ricardo Henriques, Ambrosius P Snijders, Anđela Šarić, Ann-Christin Lindås, Nick Robinson, Buzz Baum'
 paperurl: https://www.biorxiv.org/content/10.1101/774273v1.abstract
 doi: 10.1101/774273
-tagline: '- Preprint'
+type: 'Preprint'
 theme: "cell division"
 ---
 

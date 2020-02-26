@@ -2,7 +2,7 @@
 title: "Cell Division"
 type: "cell division"
 collection: research
-date: 2016-08-01
+date: 2013-09-01
 author_profile: false
 sidebar:
   nav: "Tech"
