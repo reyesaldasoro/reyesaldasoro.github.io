@@ -7,7 +7,7 @@ authors: 'Robert DM Gray, Corina Beerli, Pedro Matos Pereira, Kathrin Maria Sche
 paperurl: https://www.nature.com/articles/srep29132
 doi: 10.1038/srep29132
 tagline: '- Paper, Corresponding author'
-type: 'software, methods'
+theme: 'software, methods'
 
 ---
 

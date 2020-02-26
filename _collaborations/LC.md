@@ -13,7 +13,7 @@ googlescholar: https://scholar.google.co.uk/citations?user=Giy1VX4AAAAJ&hl=en
 orcid: https://orcid.org/0000-0003-0260-613X
 uri: https://www.crick.ac.uk/research/find-a-researcher/lucy-collinson
 twitter: EM_STP
-theme: "structural biology, new methods, software"
+theme: "structural biology, methods, software"
 ---
 <p align= "justify">
 

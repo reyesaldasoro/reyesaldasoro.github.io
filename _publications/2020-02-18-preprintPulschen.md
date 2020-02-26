@@ -7,7 +7,7 @@ authors: 'Andre Arashiro Pulschen, Delyan R. Mutavchiev, Kim Nadine Sebastian, J
 paperurl: https://www.biorxiv.org/content/10.1101/2020.02.18.953042v1.abstract
 tagline: '- Preprint'
 doi: 10.1101/2020.02.18.953042
-type: "cell division, methods, microbiology, hardware"
+theme: "cell division, methods, microbiology, hardware"
 ---
 
 <h2> Abstract </h2>

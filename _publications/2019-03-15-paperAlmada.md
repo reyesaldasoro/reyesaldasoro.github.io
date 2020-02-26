@@ -7,7 +7,7 @@ authors: 'Pedro Almada, Pedro M Pereira, Siân Culley, Ghislaine Caillol, Fanny
 paperurl: https://www.nature.com/articles/s41467-019-09231-9
 doi: 10.1038/s41467-019-09231-9
 tagline: '- Paper, Corresponding author'
-type: 'hardware, methods'
+theme: 'hardware, methods'
 
 ---
 

@@ -7,7 +7,7 @@ authors: 'Andrea Sirianni, Sina Krokowski, Damián Lobato‐Márquez, Stephen Bu
 paperurl: https://www.embopress.org/doi/full/10.15252/embr.201541832
 doi: 10.15252/embr.201541832
 tagline: '- Paper'
-type: 'host-pathogen'
+theme: 'host-pathogen'
 ---
 
 <h2> Abstract </h2>

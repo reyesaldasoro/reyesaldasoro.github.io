@@ -7,7 +7,7 @@ authors: 'Jervis Vermal Thevathasan, Maurice Kahnwald, Konstanty Cieśliński, P
 paperurl: https://www.nature.com/articles/s41592-019-0574-9.pdf?origin=ppub
 doi: 10.1038/s41592-019-0574-9
 tagline: '- Paper'
-type: "methods"
+theme: "methods, structural biology"
 ---
 
 <h2> Abstract </h2>

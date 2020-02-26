@@ -7,7 +7,7 @@ authors: 'Pedro M Pereira, Nils Gustafsson, Mark Marsh, Musa M Mhlanga, Ricardo 
 paperurl: https://www.biorxiv.org/content/10.1101/2020.01.20.912311v2.abstract
 tagline: '- Preprint, Corresponding author'
 doi: 10.1101/2020.01.20.912311
-type: 'probes, methods'
+theme: 'probes, methods'
 ---
 
 <h2> Abstract </h2>

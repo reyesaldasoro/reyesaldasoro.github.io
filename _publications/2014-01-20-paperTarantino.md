@@ -7,7 +7,7 @@ authors: 'Nadine Tarantino, Jean-Yves Tinevez, Elizabeth Faris Crowell, Bertrand
 paperurl: https://rupress.org/jcb/article/204/2/231/37431/TNF-and-IL-1-exhibit-distinct-ubiquitin
 doi: 10.1083/jcb.201307172
 tagline: '- Paper'
-type: 'cell signalling'
+theme: 'cell signalling'
 ---
 
 <h2> Abstract </h2>

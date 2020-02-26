@@ -7,7 +7,7 @@ authors: 'Robert DM Gray, Jason Mercer, Ricardo Henriques'
 paperurl: https://www.jove.com/video/55471/open-source-single-particle-analysis-for-super-resolution-microscopy?status=a57477k
 doi: 10.3791/55471
 tagline: '- Paper, Corresponding author'
-type: 'structural biology, software, methods, microbiology'
+theme: 'structural biology, software, methods, microbiology'
 
 ---
 

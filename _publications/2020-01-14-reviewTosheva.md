@@ -7,7 +7,7 @@ authors: 'Kalina L Tosheva, Yue Yuan, Pedro Matos Pereira, Siân Culley, Ricardo
 paperurl: https://iopscience.iop.org/article/10.1088/1361-6463/ab6b95/meta
 tagline: '- Review, Corresponding author'
 doi: 10.1088/1361-6463/ab6b95
-type: "methods, cell division"
+theme: "methods, cell division"
 ---
 
 <h2> Abstract </h2>

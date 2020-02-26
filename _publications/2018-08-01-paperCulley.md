@@ -7,7 +7,7 @@ authors: 'Siân Culley, Kalina L Tosheva, Pedro Matos Pereira, Ricardo Henriques
 paperurl: https://www.sciencedirect.com/science/article/pii/S1357272518301262
 doi: 10.1016/j.biocel.2018.05.014
 tagline: '- Paper, Corresponding author'
-type: 'software, methods'
+theme: 'software, methods'
 
 ---
 

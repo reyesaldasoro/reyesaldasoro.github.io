@@ -7,7 +7,7 @@ authors: 'Lekha Patel, Nils Gustafsson, Yu Lin, Raimund Ober, Ricardo Henriques,
 paperurl: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6957128/
 doi: 10.1214/19-AOAS1240
 tagline: '- Paper'
-type: 'software, methods'
+theme: 'software, methods'
 ---
 
 <h2> Abstract </h2>

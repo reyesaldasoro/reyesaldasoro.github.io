@@ -12,7 +12,7 @@ email: 'bassam.hajj@curie.fr'
 googlescholar: https://scholar.google.com/citations?user=u60keJQAAAAJ&hl=en
 orcid: https://orcid.org/0000-0003-4691-2323
 uri: https://science.curie.fr/members/bassam-hajj/
-theme: "new methods, hardware, software"
+theme: "methods, hardware, software"
 ---
 <p align= "justify">
 

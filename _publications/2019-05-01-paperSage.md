@@ -7,7 +7,7 @@ authors: 'Daniel Sage, Thanh-An Pham, Hazen Babcock, Tomas Lukes, Thomas Pengo, 
 paperurl: https://www.nature.com/articles/s41564-019-0488-4
 doi: 10.1038/s41592-019-0364-4
 tagline: '- Paper'
-type: 'software, methods'
+theme: 'software, methods'
 
 ---
 

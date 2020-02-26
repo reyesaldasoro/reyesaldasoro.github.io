@@ -7,7 +7,7 @@ authors: 'Martin Weigert, Uwe Schmidt, Tobias Boothe, Andreas Müller, Alexandr 
 paperurl: https://www.nature.com/articles/s41592-018-0216-7
 doi: 10.1038/s41592-018-0216-7
 tagline: '- Paper'
-type: 'software, methods'
+theme: 'software, methods'
 
 ---
 

@@ -7,7 +7,7 @@ authors: 'Pedro M Pereira, David Albrecht, Siân Culley, Caron Jacobs, Mark Mars
 paperurl: https://www.frontiersin.org/articles/10.3389/fimmu.2019.00675/full?report=reader
 doi: 10.3389/fimmu.2019.00675
 tagline: '- Paper, Corresponding author'
-type: "cell signalling, methods"
+theme: "cell signalling, methods"
 ---
 
 <h2> Abstract </h2>

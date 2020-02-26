@@ -7,7 +7,7 @@ authors: 'Nils Gustafsson, Siân Culley, George Ashdown, Dylan M Owen, Pedro Mat
 paperurl: https://www.nature.com/articles/ncomms12471?origin=ppub
 doi: 10.1038/ncomms12471
 tagline: '- Paper, Corresponding author'
-type: 'software, methods'
+theme: 'software, methods'
 
 ---
 

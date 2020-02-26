@@ -7,7 +7,7 @@ authors: 'Christopher Bricogne, Michael Fine, Pedro M Pereira, Julia Sung, Maha 
 paperurl: https://www.nature.com/articles/s41598-018-37056-x
 doi: 10.1038/s41598-018-37056-x
 tagline: '- Paper'
-type: "cell signalling"
+theme: "cell signalling"
 ---
 
 <h2> Abstract </h2>

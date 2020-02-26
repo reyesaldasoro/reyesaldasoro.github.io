@@ -7,7 +7,7 @@ authors: 'Justin Cooper, Mark Browne, Hugh Gribben, Martin Catney, Colin Coates,
 paperurl: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/10884/1088418/Real-time-multi-modal-super-resolution-microscopy-through-Super-Resolution/10.1117/12.2510761.short?SSO=1
 doi: 10.1117/12.2510761
 tagline: '- Conference Paper, Corresponding author'
-type: "methods"
+theme: "methods"
 ---
 
 <h2> Abstract </h2>

@@ -7,7 +7,7 @@ authors: 'Pedro M Pereira, Pedro Almada, Ricardo Henriques'
 paperurl: https://www.sciencedirect.com/science/article/pii/S0091679X14000053
 doi: 10.1016/bs.mcb.2014.10.004
 tagline: '- Bookchapter, Corresponding author'
-type: "methods"
+theme: "methods"
 ---
 
 <h2> Abstract </h2>

@@ -7,7 +7,7 @@ authors: 'Sina Krokowski, Damián Lobato-Márquez, Arnaud Chastanet, Pedro Matos
 paperurl: https://www.sciencedirect.com/science/article/pii/S1931312818305626
 doi: 10.1016/j.chom.2018.11.005
 tagline: '- Paper'
-type: "host-pathogen, microbiology"
+theme: "host-pathogen, microbiology"
 ---
 
 <h2> Abstract </h2>

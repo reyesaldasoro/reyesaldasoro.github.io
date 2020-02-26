@@ -13,7 +13,7 @@ googlescholar: https://scholar.google.com/citations?user=PYN3ifgAAAAJ&hl=en
 orcid: https://orcid.org/0000-0003-4691-2323
 uri: https://www.ucl.ac.uk/lmcb/users/ewa-paluch
 twitter: PaluchLab
-theme: "cell division, new methods"
+theme: "cell division, methods"
 ---
 <p align= "justify">
 

@@ -7,7 +7,7 @@ authors: 'Aki Stubb, Romain F Laine, Camilo Guzmán, Ricardo Henriques, Guillaum
 paperurl: https://www.biorxiv.org/content/10.1101/772947v1.abstract
 doi: 10.1101/772947
 tagline: '- Preprint'
-type: "methods, software"
+theme: "methods, software"
 ---
 
 <h2> Abstract </h2>

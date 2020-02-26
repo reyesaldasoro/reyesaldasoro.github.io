@@ -13,6 +13,7 @@ twitter: LaineBioImaging
 googlescholar: "https://scholar.google.co.uk/citations?hl=en&user=eNRcCNEAAAAJ"
 orcid: "https://orcid.org/0000-0002-2151-4487"
 collaborators: "Christophe Leterrier, Bassam Hajj, Mark Marsh, Loïc Royer, Joe Grove"
+theme: "host-pathogen, microbiology, structural biology"
 ---
 
 <p> <b>Overview:</b>

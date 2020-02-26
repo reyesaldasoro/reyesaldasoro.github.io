@@ -7,7 +7,7 @@ authors: 'Ann Wheeler, Ricardo Henriques'
 paperurl: https://onlinelibrary.wiley.com/doi/book/10.1002/9781119096948
 doi: 10.1002/9781119096948
 tagline: '- Book, Editor'
-type: 'methods'
+theme: 'methods'
 
 ---
 

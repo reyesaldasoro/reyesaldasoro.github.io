@@ -7,7 +7,7 @@ authors: 'David Tomaz, Pedro Matos Pereira, Nadia Guerra, Julian Dyson, Ricardo 
 paperurl: https://www.biorxiv.org/content/10.1101/266429v3
 tagline: '- Preprint'
 doi: 10.1101/266429
-type: "cell signalling"
+theme: "cell signalling"
 ---
 
 <h2> Abstract </h2>

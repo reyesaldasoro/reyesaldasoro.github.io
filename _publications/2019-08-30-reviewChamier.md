@@ -7,7 +7,7 @@ authors: 'Lucas von Chamier, Romain F Laine, Ricardo Henriques'
 paperurl: https://portlandpress.com/biochemsoctrans/article/47/4/1029/219665/Artificial-intelligence-for-microscopy-what-you
 tagline: '- Review, Corresponding author'
 doi: 10.1042/BST20180391
-type: 'software, methods'
+theme: 'software, methods'
 ---
 
 <h2> Abstract </h2>

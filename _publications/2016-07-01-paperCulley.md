@@ -7,7 +7,7 @@ authors: 'Siân Culley, Greg J Towers, David L Selwood, Ricardo Henriques, Joe G
 paperurl: https://www.mdpi.com/1999-4915/8/7/201
 doi: 10.3390/v8070201
 tagline: '- Paper'
-type: 'software, methods'
+theme: 'software, methods'
 ---
 
 <h2> Abstract </h2>

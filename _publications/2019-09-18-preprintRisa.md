@@ -7,7 +7,7 @@ authors: 'Gabriel Tarrason Risa, Fredrik Hurtig, Sian Bray, Anne E Hafner, Lena 
 paperurl: https://www.biorxiv.org/content/10.1101/774273v1.abstract
 doi: 10.1101/774273
 tagline: '- Preprint'
-type: "cell division"
+theme: "cell division"
 ---
 
 <h2> Abstract </h2>

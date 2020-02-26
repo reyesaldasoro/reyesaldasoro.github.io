@@ -7,7 +7,7 @@ authors: 'Siân Culley, David Albrecht, Caron Jacobs, Pedro Matos Pereira, Chris
 paperurl: https://www.nature.com/articles/nmeth.4605
 doi: 10.1038/nmeth.4605
 tagline: '- Paper, Corresponding author'
-type: 'software, methods'
+theme: 'software, methods'
 
 ---
 

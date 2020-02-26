@@ -7,7 +7,7 @@ authors: 'Gautam Dey, Siân Culley, Scott Curran, Ricardo Henriques, Wanda Kukul
 paperurl: https://www.biorxiv.org/content/10.1101/779769v1.abstract
 doi: 10.1101/779769
 tagline: '- Preprint'
-type: "cell division, microbiology"
+theme: "cell division, microbiology"
 ---
 
 <h2> Abstract </h2>

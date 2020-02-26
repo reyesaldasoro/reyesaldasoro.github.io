@@ -7,7 +7,7 @@ authors: 'Helena Soares, Ricardo Henriques, Martin Sachse, Leandro Ventimiglia, 
 paperurl: https://rupress.org/jem/article/210/11/2415/41541/Regulated-vesicle-fusion-generates-signaling
 doi: 10.1084/jem.20130150
 tagline: '- Paper'
-type: 'cell signalling'
+theme: 'cell signalling'
 ---
 
 <h2> Abstract </h2>
