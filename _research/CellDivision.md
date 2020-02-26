@@ -3,9 +3,7 @@ title: "Cell Division"
 type: "cell division"
 collection: research
 date: 2013-09-01
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
   teaser: division.jpg
 layout: archive

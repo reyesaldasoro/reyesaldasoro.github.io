@@ -8,7 +8,7 @@ paperurl: https://www.nature.com/articles/s41467-019-09231-9
 doi: 10.1038/s41467-019-09231-9
 type: 'Paper, Corresponding author'
 theme: 'hardware, methods'
-
+resources: 'pumpy, srrf, squirrel, nanoj'
 ---
 
 <h2> Abstract </h2>

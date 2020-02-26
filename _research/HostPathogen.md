@@ -3,9 +3,7 @@ title: "Host-Pathogen Interactions"
 type: "host-pathogen"
 collection: research
 date: 2013-09-04
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
   teaser: hiv.jpg
 layout: archive

@@ -3,9 +3,7 @@ title: "Cell Signalling"
 type: "cell signalling"
 collection: research
 date: 2013-09-02
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
   teaser: signalling.jpg
 layout: archive

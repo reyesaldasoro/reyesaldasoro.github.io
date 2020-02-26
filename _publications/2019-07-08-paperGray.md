@@ -8,6 +8,7 @@ paperurl: https://www.nature.com/articles/s41564-019-0488-4
 doi: 10.1038/s41564-019-0488-4
 type: 'Paper, Corresponding author'
 theme: "structural biology, host-pathogen, microbiology"
+resources: "virusmapper, nanoj"
 ---
 
 <h2> Abstract </h2>

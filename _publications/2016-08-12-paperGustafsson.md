@@ -8,7 +8,7 @@ paperurl: https://www.nature.com/articles/ncomms12471?origin=ppub
 doi: 10.1038/ncomms12471
 type: 'Paper, Corresponding author'
 theme: 'software, methods'
-
+resources: "srrf"
 ---
 
 <h2> Abstract </h2>

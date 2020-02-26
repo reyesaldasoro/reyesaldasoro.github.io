@@ -8,6 +8,7 @@ paperurl: https://www.biorxiv.org/content/10.1101/772947v1.abstract
 doi: 10.1101/772947
 type: 'Preprint'
 theme: "methods, software"
+resources: "srrf, squirrel, fbsrtfm"
 ---
 
 <h2> Abstract </h2>

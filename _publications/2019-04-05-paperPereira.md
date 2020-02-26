@@ -8,6 +8,7 @@ paperurl: https://www.frontiersin.org/articles/10.3389/fimmu.2019.00675/full?rep
 doi: 10.3389/fimmu.2019.00675
 type: 'Paper, Corresponding author'
 theme: "cell signalling, methods"
+resources: "nanoj, srrf, squirrel"
 ---
 
 <h2> Abstract </h2>

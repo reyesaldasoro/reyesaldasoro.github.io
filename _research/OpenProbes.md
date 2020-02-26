@@ -3,11 +3,9 @@ title: "Probes"
 type: probes
 collection: research
 date: 2013-09-10
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
-  teaser: beacons.jpg
+  teaser: probes.jpg
 layout: archive
 ---
 

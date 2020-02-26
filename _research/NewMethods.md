@@ -3,11 +3,9 @@ title: "New Methods"
 type: "methods"
 collection: research
 date: 2013-09-07
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
-  teaser: software.jpg
+  teaser: lattice.jpg
 layout: archive
 ---
 

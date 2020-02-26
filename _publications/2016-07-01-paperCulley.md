@@ -8,6 +8,7 @@ paperurl: https://www.mdpi.com/1999-4915/8/7/201
 doi: 10.3390/v8070201
 type: 'Paper'
 theme: 'software, methods'
+resources: infectioncounter
 ---
 
 <h2> Abstract </h2>

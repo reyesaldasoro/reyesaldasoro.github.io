@@ -8,7 +8,7 @@ paperurl: https://www.nature.com/articles/nmeth.4605
 doi: 10.1038/nmeth.4605
 type: 'Paper, Corresponding author'
 theme: 'software, methods'
-
+resources: "squirrel"
 ---
 
 <h2> Abstract </h2>

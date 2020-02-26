@@ -8,6 +8,7 @@ paperurl: https://www.nature.com/articles/ncomms12629
 doi: 10.1038/ncomms12629
 type: 'Paper, Co-first author'
 theme: 'structural biology, cell signalling'
+resources: quickpalm
 ---
 
 <h2> Abstract </h2>

@@ -8,7 +8,7 @@ paperurl: https://www.jove.com/video/55471/open-source-single-particle-analysis-
 doi: 10.3791/55471
 type: 'Paper, Corresponding author'
 theme: 'structural biology, software, methods, microbiology'
-
+resources: "virusmapper"
 ---
 
 <h2> Abstract </h2>

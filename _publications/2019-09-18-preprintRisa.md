@@ -8,6 +8,7 @@ paperurl: https://www.biorxiv.org/content/10.1101/774273v1.abstract
 doi: 10.1101/774273
 type: 'Preprint'
 theme: "cell division"
+resources: "srrf, virusmapper"
 ---
 
 <h2> Abstract </h2>

@@ -8,6 +8,7 @@ paperurl: https://www.biorxiv.org/content/10.1101/2020.01.20.912311v2.abstract
 type: 'Preprint, Corresponding author'
 doi: 10.1101/2020.01.20.912311
 theme: 'probes, methods'
+resources: "beacons"
 ---
 
 <h2> Abstract </h2>

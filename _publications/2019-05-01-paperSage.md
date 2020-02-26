@@ -8,6 +8,7 @@ paperurl: https://www.nature.com/articles/s41564-019-0488-4
 doi: 10.1038/s41592-019-0364-4
 type: 'Paper'
 theme: 'software, methods'
+resources: "quickpalm"
 
 ---
 

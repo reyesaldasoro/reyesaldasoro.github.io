@@ -8,6 +8,7 @@ paperurl: https://www.nature.com/articles/s41598-018-21750-x?report=reader
 doi: 10.1038/s41598-018-21750-x
 type: 'Paper'
 theme: 'microbiology'
+resources: "srrf"
 ---
 
 <h2> Abstract </h2>

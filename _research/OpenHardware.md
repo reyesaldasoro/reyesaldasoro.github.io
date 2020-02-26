@@ -3,9 +3,7 @@ title: "Hardware"
 type: "hardware"
 collection: research
 date: 2013-09-09
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
   teaser: hardware.jpg
 layout: archive

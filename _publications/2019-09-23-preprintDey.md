@@ -8,6 +8,7 @@ paperurl: https://www.biorxiv.org/content/10.1101/779769v1.abstract
 doi: 10.1101/779769
 type: 'Preprint'
 theme: "cell division, microbiology"
+resources: srrf
 ---
 
 <h2> Abstract </h2>

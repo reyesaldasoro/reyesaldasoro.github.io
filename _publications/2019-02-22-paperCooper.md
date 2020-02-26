@@ -8,6 +8,7 @@ paperurl: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/1088
 doi: 10.1117/12.2510761
 type: 'Conference Paper, Corresponding author'
 theme: "methods"
+resources: srrf
 ---
 
 <h2> Abstract </h2>

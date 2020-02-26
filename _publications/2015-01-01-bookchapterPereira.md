@@ -8,6 +8,7 @@ paperurl: https://www.sciencedirect.com/science/article/pii/S0091679X14000053
 doi: 10.1016/bs.mcb.2014.10.004
 type: 'Bookchapter, Corresponding author'
 theme: "methods"
+resources: quickpalm
 ---
 
 <h2> Abstract </h2>

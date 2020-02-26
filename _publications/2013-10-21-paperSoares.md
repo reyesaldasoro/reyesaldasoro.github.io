@@ -8,6 +8,7 @@ paperurl: https://rupress.org/jem/article/210/11/2415/41541/Regulated-vesicle-fu
 doi: 10.1084/jem.20130150
 type: 'Paper'
 theme: 'cell signalling'
+resources: quickpalm
 ---
 
 <h2> Abstract </h2>

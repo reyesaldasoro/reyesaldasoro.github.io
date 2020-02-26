@@ -8,6 +8,7 @@ paperurl: https://www.sciencedirect.com/science/article/pii/S1357272518301262
 doi: 10.1016/j.biocel.2018.05.014
 type: 'Paper, Corresponding author'
 theme: 'software, methods'
+resources: 'srrf, squirrel'
 
 ---
 

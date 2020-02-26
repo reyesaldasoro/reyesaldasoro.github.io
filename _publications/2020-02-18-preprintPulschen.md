@@ -8,6 +8,7 @@ paperurl: https://www.biorxiv.org/content/10.1101/2020.02.18.953042v1.abstract
 type: 'Preprint'
 doi: 10.1101/2020.02.18.953042
 theme: "cell division, methods, microbiology, hardware"
+resources: "sulfoscope"
 ---
 
 <h2> Abstract </h2>

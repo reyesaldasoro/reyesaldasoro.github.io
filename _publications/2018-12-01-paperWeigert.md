@@ -8,6 +8,7 @@ paperurl: https://www.nature.com/articles/s41592-018-0216-7
 doi: 10.1038/s41592-018-0216-7
 type: 'Paper'
 theme: 'software, methods'
+resources: care, srrf, squirrel
 
 ---
 

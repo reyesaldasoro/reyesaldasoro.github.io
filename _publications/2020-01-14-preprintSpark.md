@@ -8,6 +8,7 @@ paperurl: https://www.biorxiv.org/content/10.1101/2020.01.20.912733v1.abstract
 type: 'Preprint'
 doi: 10.1101/2020.01.20.912733
 theme: 'software, methods'
+resources: "vlume"
 ---
 
 <h2> Abstract </h2>

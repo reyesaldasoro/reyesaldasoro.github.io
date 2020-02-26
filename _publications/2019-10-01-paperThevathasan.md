@@ -8,6 +8,7 @@ paperurl: https://www.nature.com/articles/s41592-019-0574-9.pdf?origin=ppub
 doi: 10.1038/s41592-019-0574-9
 type: 'Paper'
 theme: "methods, structural biology"
+resources: "srrf, npcs"
 ---
 
 <h2> Abstract </h2>

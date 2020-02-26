@@ -3,11 +3,9 @@ title: "Software"
 type: software
 collection: research
 date: 2013-09-08
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
-  teaser: NanoJ.jpg
+  teaser: tracking.jpg
 layout: archive
 ---
 

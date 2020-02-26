@@ -3,11 +3,9 @@ title: "Microbiology"
 type: "microbiology"
 collection: research
 date: 2013-09-05
-author_profile: false
-sidebar:
-  nav: "Tech"
+author_profile: true
 header:
-  teaser: virusmapper.jpg
+  teaser: tesselation.jpg
 layout: archive
 ---
 

@@ -8,6 +8,7 @@ paperurl: https://www.embopress.org/doi/full/10.15252/embr.201541832
 doi: 10.15252/embr.201541832
 type: 'Paper'
 theme: 'host-pathogen'
+resources: srrf
 ---
 
 <h2> Abstract </h2>

@@ -8,8 +8,7 @@ paperurl: https://www.nature.com/articles/srep29132
 doi: 10.1038/srep29132
 type: 'Paper, Corresponding author'
 theme: 'software, methods'
-resource-software: 'NanoJ-VirusMapper'
-resource-repository: https://bitbucket.org/rhenriqueslab/nanoj-virusmapper/wiki/Home
+resources: "virusmapper"
 ---
 
 <h2> Abstract </h2>
