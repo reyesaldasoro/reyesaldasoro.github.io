@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: MW.jpg
 tags: collaborator
-date: 2018-12-01
+date-start: 2018-12-01
 tagline: "Weigert Lab, EPFL, Switzerland"
 subject: "Co-development of numerical microscopy approaches"
 email: 'martin.weigert@epfl.ch'

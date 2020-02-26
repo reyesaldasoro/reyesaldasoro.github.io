@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: GD.jpg
 tags: collaborator
-date: 2018-04-01
+date-start: 2018-04-01
 tagline: "Cell Morphogenesis Lab, University College London, UK"
 subject: "Study of fundamental biology through advanced imaging"
 email: 'g.dey@ucl.ac.uk'

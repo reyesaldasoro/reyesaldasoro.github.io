@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: JG.jpg
 tags: collaborator
-date: 2016-07-01
+date-start: 2016-07-01
 tagline: "Grove Lab, University College London, UK"
 subject: "Study of viral host-pathogen interactions through advanced imaging"
 email: 'j.grove@ucl.ac.uk'

@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: SH.jpg
 tags: collaborator
-date: 2019-05-01
+date-start: 2019-05-01
 tagline: "Holden Lab, Newcastle University, UK"
 subject: "Co-development of super-resolution microscopy approaches"
 email: 'Seamus.Holden@newcastle.ac.uk'

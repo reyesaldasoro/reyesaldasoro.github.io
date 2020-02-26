@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: SF.jpg
 tags: collaborator
-date: 2018-04-01
+date-start: 2018-04-01
 tagline: "Foster Lab, University of Sheffield, UK"
 subject: "Super-resolution imaging of Staphylococcus aureus"
 email: 'S.Foster@sheffield.ac.uk'

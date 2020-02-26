@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: person.png
 tags: collaborator
-date: 2013-09-01
+start-date: 2013-09-01
 tagline: "Artificial Intelligence for Quantitative Biology Lab, University College London, UK"
 subject: "Co-development of super-resolution microscopy approaches"
 email: 'a.lowe@ucl.ac.uk'

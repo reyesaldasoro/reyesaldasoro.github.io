@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: BH.jpg
 tags: collaborator
-date: 2018-10-01
+date-start: 2018-10-01
 tagline: "Cell Organization Imaging and Control Lab, Institut Curie, France"
 subject: "Co-development of super-resolution microscopy approaches"
 email: 'bassam.hajj@curie.fr'

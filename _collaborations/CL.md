@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: CL.jpg
 tags: collaborator
-date: 2018-04-01
+date-start: 2018-04-01
 tagline: "NeuroCyto Lab, INP, CNRS, Aix-Marseille University, France"
 subject: "Co-development of super-resolution microscopy approaches"
 email: 'christophe.leterrier@univ-amu.fr'

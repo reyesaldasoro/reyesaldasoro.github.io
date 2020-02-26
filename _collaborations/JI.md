@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: JI.jpg
 tags: collaborator
-date: 2019-09-01
+date-start: 2019-09-01
 tagline: "Cell Adhesion and Cancer Adhesion Lab, University of Turku, Finland"
 subject: "Co-development of advanced imaging approaches"
 email: 'joivaska@utu.fi'

@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: MusaM.jpg
 tags: collaborator
-date: 2008-01-01
+date-start: 2008-01-01
 tagline: "Gene Expression & Biophysics Lab, University of Cape Town, South Africa"
 subject: "Study of fundamental biology through advanced imaging"
 email: 'musa@mhlangalab.org'

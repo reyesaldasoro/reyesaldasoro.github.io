@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: EP.jpg
 tags: collaborator
-date: 2017-09-01
+date-start: 2017-09-01
 tagline: "Paluch Lab, Trinity College, University of Cambridge, UK"
 subject: "Study of fundamental biology through advanced imaging"
 email: 'e.paluch@ucl.ac.uk'

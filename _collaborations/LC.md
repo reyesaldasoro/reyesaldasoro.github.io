@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: LC.jpg
 tags: collaborator
-date: 2019-05-01
+date-start: 2019-05-01
 tagline: "Electron Microscopy Science Technology Platform, Francis Crick Institute, UK"
 subject: "Development of numerical approaches for correlative super-resolution and electron microscopy"
 email: 'Lucy.Collinson@crick.ac.uk'

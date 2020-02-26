@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: FJ.jpg
 tags: collaborator
-date: 2018-12-01
+date-start: 2018-12-01
 tagline: "Jug Lab, MPI-CBG, Germany"
 subject: "Co-development of numerical microscopy approaches"
 email: 'loic.royer@czbiohub.org'

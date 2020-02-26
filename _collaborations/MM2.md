@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: MM.jpg
 tags: collaborator
-date: 2013-07-01
+date-start: 2013-07-01
 tagline: "Cellular Mechanisms of Virus Entry and Assembly Lab, University College London, UK"
 subject: "Study of fundamental biology through advanced imaging"
 email: 'm.marsh@ucl.ac.uk'

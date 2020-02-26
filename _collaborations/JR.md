@@ -5,7 +5,7 @@ collection: collaborations
 header:
   teaser: JR.jpg
 tags: collaborator
-date: 2019-05-01
+date-start: 2019-05-01
 tagline: "Ries Lab, EMBL Heidelberg, Germany"
 subject: "Co-development of super-resolution microscopy approaches"
 email: 'jonas.ries@embl.de'
