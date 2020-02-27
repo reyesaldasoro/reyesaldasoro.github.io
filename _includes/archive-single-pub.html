@@ -17,9 +17,9 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-  {% if post.tagline contains 'Paper, Corresponding author' %}
+  {% if post.type contains 'Paper, Corresponding author' %}
   <table style="border:1px dotted black;">
-  {% elsif post.tagline contains 'Preprint, Corresponding author' %}
+  {% elsif post.type contains 'Preprint, Corresponding author' %}
   <table style="border:1px dotted black;">
   {% else %}
   <table style="border: none;">
