@@ -3,8 +3,7 @@ main:
   - title: "News"
     url: /news/
 
-  # - title: "Outreach"
-  #   url: /outreach/
+
 
   - title: "Team"
     url: /team/
@@ -22,6 +21,9 @@ main:
 
   - title: "Resources"
     url: /resources/
+
+  - title: "Outreach"
+    url: /outreach/
 
   # - title: "Talks & Posters"
   #   url: /talks/

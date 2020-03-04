@@ -1,21 +1,28 @@
 ---
 layout: archive
-title: "Science Outreach"
+title: "Science Outreach and Public Engagement"
 permalink: /outreach/
 author_profile: true
 ---
 
 <p align= "justify">
 
-In our research group we use nanotechnology and cutting-edge microscopy techniques to understand life at the molecular scale.
-<br>
-How do cells form an organ? How do they communicate with each other?<br>
-Can we develop new (and hopefully better) ways to treat cancer?<br>
-How can we improve our health by looking at single molecules?<br>
-<br>
+Public engagement and outreach is a major focus of our research laboratory. We particularly engage projects tackling gender equality and helping students from disadvantaged backgrounds. We are also extremely present in social media, using platforms such as <u><a href="https://twitter.com/HenriquesLab">Twitter</a></u> and Public Press to promote our scientific research and engage a global audience.
 
-<div class="grid__wrapper">
-  {% for post in site.mainoutreach %}
-    {% include archive-single-proj.html type="grid" %}
-  {% endfor %}
-</div>
+<br><br>
+
+We're particularly proud to be members of the <u><a href="https://in2scienceuk.org/">in2scienceUK</a></u> initiative - a charity which empowers students from disadvantaged backgrounds to achieve their potential and progress to STEM and research careers through high quality work placements and careers guidance. Please visit their website and consider volunteering to help.
+
+<h2>Outreach and Public Engagement News:</h2>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We were recently surprised by the results of the <a href="https://twitter.com/wellcometrust?ref_src=twsrc%5Etfw">@wellcometrust</a> survey on research culture. 61% of researchers have witnessed bullying, 37% said they would not feel comfortable speaking out. Here&#39;s my opinion on it and on what we need to do to be better: <a href="https://t.co/D5abkPB0N3">https://t.co/D5abkPB0N3</a></p>&mdash; Ricardo Henriques (@HenriquesLab) <a href="https://twitter.com/HenriquesLab/status/1235194058861096962?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;ve been very proud to be a hosting lab for a few years. Consider being one too! <a href="https://t.co/xziE6zDgxN">https://t.co/xziE6zDgxN</a></p>&mdash; Ricardo Henriques (@HenriquesLab) <a href="https://twitter.com/HenriquesLab/status/1235205722935308290?ref_src=twsrc%5Etfw">March 4, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We&#39;re highlighted today in an article <a href="https://twitter.com/thetimes?ref_src=twsrc%5Etfw">@thetimes</a> discussing the use of <a href="https://twitter.com/hashtag/LEGO?src=hash&amp;ref_src=twsrc%5Etfw">#LEGO</a> in scientific research. It showcases <a href="https://twitter.com/hashtag/Pumpy?src=hash&amp;ref_src=twsrc%5Etfw">#Pumpy</a> (developed with <a href="https://twitter.com/christlet?ref_src=twsrc%5Etfw">@christlet</a>) and other researchers using LEGO devices for their research. Check it out: <a href="https://t.co/ZO4173RKkJ">https://t.co/ZO4173RKkJ</a><a href="https://twitter.com/MRC_LMCB?ref_src=twsrc%5Etfw">@MRC_LMCB</a> <a href="https://twitter.com/UCLpress?ref_src=twsrc%5Etfw">@UCLpress</a></p>&mdash; Ricardo Henriques (@HenriquesLab) <a href="https://twitter.com/HenriquesLab/status/1012977485728886789?ref_src=twsrc%5Etfw">June 30, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/Pumpy?src=hash&amp;ref_src=twsrc%5Etfw">#Pumpy</a> hits the news in <a href="https://twitter.com/TheScientistLLC?ref_src=twsrc%5Etfw">@TheScientistLLC</a>, an article highlighting our recent pre-print: <a href="https://t.co/9SAtLTRIB2">https://t.co/9SAtLTRIB2</a> <a href="https://t.co/5r71nFG7z8">https://t.co/5r71nFG7z8</a> <a href="https://twitter.com/christlet?ref_src=twsrc%5Etfw">@christlet</a> <a href="https://twitter.com/MRC_LMCB?ref_src=twsrc%5Etfw">@MRC_LMCB</a> <a href="https://t.co/RMhi0HRuz1">pic.twitter.com/RMhi0HRuz1</a></p>&mdash; Ricardo Henriques (@HenriquesLab) <a href="https://twitter.com/HenriquesLab/status/996756535576588289?ref_src=twsrc%5Etfw">May 16, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">And here&#39;s the dope title for my <a href="https://twitter.com/pintofscience?ref_src=twsrc%5Etfw">@pintofscience</a> talk on Tuesday: &quot;I can see clearly now the diffraction limit is gone - observing living cell at unprecedented resolutions.&quot; <a href="https://t.co/ItKC3XYyZs">https://t.co/ItKC3XYyZs</a></p>&mdash; Ricardo Henriques (@HenriquesLab) <a href="https://twitter.com/HenriquesLab/status/994592120831963138?ref_src=twsrc%5Etfw">May 10, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Prof Simon Lucas, head of <a href="https://twitter.com/QMEECS?ref_src=twsrc%5Etfw">@QMEECS</a>, is giving a talk on game AI <a href="https://twitter.com/pintofscience?ref_src=twsrc%5Etfw">@pintofscience</a> on Tue 15 May <a href="https://t.co/y1YFe8lgTW">https://t.co/y1YFe8lgTW</a> (along w Dr Ricardo Henriques on super-resolution microscopy) <a href="https://t.co/Mj1FjcczOG">pic.twitter.com/Mj1FjcczOG</a></p>&mdash; Jo Brodie (@JoBrodie) <a href="https://twitter.com/JoBrodie/status/986926758510387200?ref_src=twsrc%5Etfw">April 19, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
