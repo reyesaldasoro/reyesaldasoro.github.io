@@ -3,8 +3,6 @@ main:
   - title: "News"
     url: /news/
 
-
-
   - title: "Team"
     url: /team/
 
@@ -25,8 +23,8 @@ main:
   - title: "Outreach"
     url: /outreach/
 
-  # - title: "Talks & Posters"
-  #   url: /talks/
+  - title: "Talks"
+    url: /talks/
 
   #- title: "Gallery"
   #  url: /gallery/
