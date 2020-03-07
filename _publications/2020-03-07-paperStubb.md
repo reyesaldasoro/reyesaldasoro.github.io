@@ -1,7 +1,7 @@
 ---
 title: "Fluctuation-Based Super-Resolution Traction Force Microscopy"
 collection: publications
-date: 2019-09-18
+date: 2020-03-07
 venue: 'Nano Letters'
 authors: 'Aki Stubb, Romain F Laine, Camilo Guzmán, Ricardo Henriques, Guillaume Jacquemet, Johanna Ivaska'
 paperurl: https://pubs.acs.org/doi/10.1021/acs.nanolett.9b04083
