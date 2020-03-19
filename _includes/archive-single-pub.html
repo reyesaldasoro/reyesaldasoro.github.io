@@ -71,6 +71,8 @@
         <img src="{{ "cover_primer.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Nano Letters" %}
         <img src="{{ "cover_nanoletters.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Traffic" %}
+        <img src="{{ "cover_traffic.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
