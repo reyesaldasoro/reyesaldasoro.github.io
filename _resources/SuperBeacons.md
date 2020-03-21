@@ -8,7 +8,7 @@ date: 2013-01-06
 header:
   teaser: beacons.jpg
 layout: archive
-doi: 10.1101/2020.01.20.912311
+doi: 10.1111/tra.12728
 contributors: "Gustafsson, Henriques, Pereira"
 ---
 <p align= "justify">

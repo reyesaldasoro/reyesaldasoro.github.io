@@ -8,7 +8,7 @@ date: 2014-01-01
 header:
   teaser: fbsrtfm.jpg
 layout: archive
-doi: 10.1101/772947
+doi: 10.1021/acs.nanolett.9b04083
 contributors: "Henriques, Jacquemet, Laine"
 ---
 <p align= "justify">
