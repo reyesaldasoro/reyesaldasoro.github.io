@@ -6,7 +6,7 @@ author_profile: false
 ---
 {% include base_path %}
 
-Back to the #ZeroCostDL4Mic <a href="https://github.com/HenriquesLab/ZeroCostDL4Mic">Wiki</a> 
+<a href="https://github.com/HenriquesLab/ZeroCostDL4Mic">Back to the <u><b>#ZeroCostDL4Mic</b></u> wiki</a>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Delighted to finally share what we have been working on for the last few months: <a href="https://twitter.com/hashtag/ZeroCostDL4Mic?src=hash&amp;ref_src=twsrc%5Etfw">#ZeroCostDL4Mic</a>, a platform that simplifies access and use of <a href="https://twitter.com/hashtag/DeepLearning?src=hash&amp;ref_src=twsrc%5Etfw">#DeepLearning</a> in microscopy using <a href="https://twitter.com/GoogleColab?ref_src=twsrc%5Etfw">@GoogleColab</a>. Available on <a href="https://twitter.com/biorxivpreprint?ref_src=twsrc%5Etfw">@biorxivpreprint</a> <a href="https://t.co/JP91GY05oC">https://t.co/JP91GY05oC</a> and <a href="https://twitter.com/github?ref_src=twsrc%5Etfw">@github</a> <a href="https://t.co/7OOfmtWjvU">https://t.co/7OOfmtWjvU</a> <a href="https://t.co/tlz6w98wSK">pic.twitter.com/tlz6w98wSK</a></p>&mdash; Guillaume Jacquemet (@guijacquemet) <a href="https://twitter.com/guijacquemet/status/1241029627528851458?ref_src=twsrc%5Etfw">March 20, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
