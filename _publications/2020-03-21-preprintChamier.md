@@ -6,6 +6,7 @@ venue: 'bioRxiv'
 authors: 'Lucas von Chamier, Johanna Jukkala, Christoph Spahn, Martina Lerche, Sara Hernández-pérez, Pieta Mattila, Eleni Karinou, Seamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Florian Jug, Loïc Alain Royer, Mike Heilemann, Romain F. Laine, Guillaume Jacquemet, Ricardo Henriques'
 paperurl: https://www.biorxiv.org/content/10.1101/2020.03.20.000133v1
 type: 'Preprint, Corresponding author'
+doi: 10.1101/2020.03.20.000133
 preprint: 10.1101/2020.03.20.000133
 theme: "methods, software"
 resources: "ZeroCostDL4Mic"
