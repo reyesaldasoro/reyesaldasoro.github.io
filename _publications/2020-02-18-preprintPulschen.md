@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 authors: 'Andre Arashiro Pulschen, Delyan R. Mutavchiev, Kim Nadine Sebastian, Jacques Roubinet, Marc Roubinet, Gabriel Tarrason Risa, Marleen van Wolferen, Chantal Roubinet, Siân Culley, Gautam Dey, Sonja-Verena Albers, Ricardo Henriques, Buzz Baum'
 paperurl: https://www.biorxiv.org/content/10.1101/2020.02.18.953042v1.abstract
 type: 'Preprint'
-doi: 10.1101/2020.02.18.953042
+preprint: 10.1101/2020.02.18.953042
 theme: "cell division, methods, microbiology, hardware"
 resources: "sulfoscope"
 ---

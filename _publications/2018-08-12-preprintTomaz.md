@@ -6,7 +6,7 @@ venue: 'bioRxiv'
 authors: 'David Tomaz, Pedro Matos Pereira, Nadia Guerra, Julian Dyson, Ricardo Henriques, Keith Gould'
 paperurl: https://www.biorxiv.org/content/10.1101/266429v3
 type: 'Preprint'
-doi: 10.1101/266429
+preprint: 10.1101/266429
 theme: "cell signalling"
 ---
 

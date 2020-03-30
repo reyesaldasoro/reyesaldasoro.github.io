@@ -135,7 +135,11 @@
           <span style="font-size:0.8em; line-height: 0.5;"><b>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%B %Y" }}</b></span>
           {% endif %}
 
-          {% if post.doi %}
+          {% if post.preprint and post.doi %}
+          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="https://doi.org/{{ post.doi }}"> <u>publication</u></a> or <a href="https://doi.org/{{ post.preprint }}"> <u>preprint</u></a>)</cite></b></span><br>
+          {% elsif post.preprint %}
+          <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="https://doi.org/{{ post.preprint }}"> <u>preprint</u></a>)</cite></b></span><br>
+          {% elsif post.doi %}
           <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="https://doi.org/{{ post.doi }}"> <u>publication</u></a>)</cite></b></span><br>
           {% elsif post.paperurl %}
           <span style="font-size:0.8em; line-height: 0.5;"><b><cite>(see <a href="{{ post.paperurl }}"> <u>publication</u></a>)</cite></b></span><br>
