@@ -178,7 +178,13 @@
           {% endif %}
 
     </td>
-    {% if post.doi %}
+    {% if post.preprint %}
+      <td style="border: none;">
+      <!-- <div data-badge-details="right" data-badge-type="donut" data-doi="{{ post.doi }}" data-condensed="true" class="altmetric-embed"></div> -->
+      <div class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi="{{ post.preprint }}"></div>
+      <span class="__dimensions_badge_embed__" data-doi="{{ post.doi }}" data-hide-zero-citations="false" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+      </td>
+    {% elsif post.doi %}
       <td style="border: none;">
       <!-- <div data-badge-details="right" data-badge-type="donut" data-doi="{{ post.doi }}" data-condensed="true" class="altmetric-embed"></div> -->
       <div class='altmetric-embed' data-badge-type='donut' data-badge-popover='left' data-doi="{{ post.doi }}"></div>
