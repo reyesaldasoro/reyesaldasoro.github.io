@@ -18,7 +18,7 @@ image_sliders:
 
 <body align="justify">
 ### News about the laboratory
-We'll be opening a new laboratory at __**[Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/)**__ this summer.
+We'll be opening a new laboratory at <b>[Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/)</b> this summer.
 
 ### Who are we
 
