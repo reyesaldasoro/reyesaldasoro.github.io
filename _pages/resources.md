@@ -20,7 +20,7 @@ author_profile: true
 <div class="grid">
   <div class="wrapper">
     {% for post in site.resources %}
-      {% if post.type contains "from_others" %}
+      {% if post.type == "from_others" %}
         {% include archive-single-proj.html type="grid" %}
       {% endif %}
     {% endfor %}
@@ -31,7 +31,7 @@ author_profile: true
 <div class="grid">
   <div class="wrapper">
     {% for post in site.resources %}
-      {% if post.type contains "other" %}
+      {% if post.type == "other" %}
         {% include archive-single-proj.html type="grid" %}
       {% endif %}
     {% endfor %}
