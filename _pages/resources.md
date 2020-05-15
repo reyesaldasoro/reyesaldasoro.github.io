@@ -9,7 +9,7 @@ author_profile: true
 <div class="grid">
   <div class="wrapper">
     {% for post in site.resources %}
-      {% if post.type != "from_lab" and post.type != "other" %}
+      {% if post.type != "from_others" and post.type != "other" %}
         {% include archive-single-proj.html type="grid" %}
       {% endif %}
     {% endfor %}
