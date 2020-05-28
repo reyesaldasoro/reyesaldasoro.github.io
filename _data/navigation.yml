@@ -17,6 +17,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Positions"
+    url: /positions/
+
   - title: "Resources"
     url: /resources/
 
@@ -28,9 +31,6 @@ main:
 
   #- title: "Gallery"
   #  url: /gallery/
-
-  #- title: "Positions"
-  #  url: /positions/
 
   - title: "Contact"
     url: /contact/
