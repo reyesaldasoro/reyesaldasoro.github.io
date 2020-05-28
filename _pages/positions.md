@@ -6,7 +6,9 @@ author_profile: true
 ---
 
 <br>
-We are currently looking for:
+We are currently looking for researchers to join our new laboratory at <b><u><a href="https://gulbenkian.pt/ciencia/">Instituto Gulbenkian de Ciência</a></b></u>:
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Hi everyone. It&#39;s with pleasure that we&#39;ll be opening a laboratory <a href="https://twitter.com/IGCiencia?ref_src=twsrc%5Etfw">@IGCiencia</a> this summer. Honoured to join the outstanding research community of IGC. There I will help further understudied fields in my home country, and keep our focus on biology driven technology development <a href="https://t.co/8NcueXRLES">pic.twitter.com/8NcueXRLES</a></p>&mdash; Ricardo Henriques @🏠 (@HenriquesLab) <a href="https://twitter.com/HenriquesLab/status/1244980569768951809?ref_src=twsrc%5Etfw">March 31, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <h2>Postdoctoral Researcher: Viral Host-Pathogen Interactions and Cell Biology</h2>
 
