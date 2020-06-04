@@ -8,8 +8,6 @@ author_profile: true
 <br>
 We are currently looking for researchers to join our new laboratory at <b><u><a href="https://gulbenkian.pt/ciencia/">Instituto Gulbenkian de Ciência</a></u></b>:
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">🚨🤩 If you&#39;re a <a href="https://twitter.com/hashtag/CellBiologist?src=hash&amp;ref_src=twsrc%5Etfw">#CellBiologist</a> wanting to study infection with next-gen computational and optical methods, or a <a href="https://twitter.com/hashtag/Technologist?src=hash&amp;ref_src=twsrc%5Etfw">#Technologist</a> interested in developing tech many will want to use in the next years - come join our new lab at <a href="https://twitter.com/IGCiencia?ref_src=twsrc%5Etfw">@IGCiencia</a> - checkout <a href="https://t.co/LFfABqyHWR">https://t.co/LFfABqyHWR</a>. Please RT <a href="https://t.co/NuxzPjfIBR">pic.twitter.com/NuxzPjfIBR</a></p>&mdash; Ricardo Henriques @🏠 (@HenriquesLab) <a href="https://twitter.com/HenriquesLab/status/1266011795770298368?ref_src=twsrc%5Etfw">May 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <h2>Postdoctoral Researcher: Viral Host-Pathogen Interactions and Cell Biology</h2>
 
 <h3>ROLE:</h3>
