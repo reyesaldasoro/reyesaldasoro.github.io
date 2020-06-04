@@ -35,8 +35,8 @@ We're dominantly based at the [MRC Laboratory for Molecular Cell Biology](https:
 Check this preview video for a recent talk in our laboratory or our [publication portfolio](https://scholar.google.co.uk/citations?hl=en&user=-peQ4ZsAAAAJ&view_op=list_works&sortby=pubdate).
 
 <div style="text-align: center">
-  <a href="http://www.youtube.com/watch?v=a-YDHVm9Y1s">
-    <img src='/images/TalkScreenshot.png' style='width: 75%'>
+  <a href="https://youtu.be/ob0Xu6rXx8k">
+    <img src='http://img.youtube.com/vi/ob0Xu6rXx8k/0.jpg' style='width: 75%'>
   </a>
 </div>
 
