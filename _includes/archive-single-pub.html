@@ -17,9 +17,7 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-  {% if post.type contains 'Paper, Corresponding author' %}
-  <table style="border:1px dotted black;">
-  {% elsif post.type contains 'Preprint, Corresponding author' %}
+  {% if post.type contains 'Corresponding author' %}
   <table style="border:1px dotted black;">
   {% else %}
   <table style="border: none;">
@@ -74,7 +72,9 @@
       {% elsif post.venue == "Traffic" %}
         <img src="{{ "cover_traffic.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Current Biology" %}
-        <img src="{{ "cover_currentbiology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">        
+        <img src="{{ "cover_currentbiology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Cell Science" %}
+        <img src="{{ "cover_jcs.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
