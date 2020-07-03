@@ -10,7 +10,7 @@ header:
 layout: archive
 uri: https://github.com/HoldenLab/DeepAutoFocus
 contributors: "Kevin D Whitley, Calum Jukes, Nicholas Tregidgo, Eleni Karinou, Pedro Almada, Ricardo Henriques, Cees Dekker, Séamus Holden"
-doi: 10.1038/s41592-018-0216-7
+doi: 10.1101/2020.07.01.182006
 ---
 <p align= "justify">
 
