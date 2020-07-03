@@ -13,3 +13,5 @@ resources: quickpalm
 
 <p align= "justify">
 QuickPALM is a highly popular software for Super-Resolution based on Single-Molecule Localization Microscopy. It was the first 3D open-source software in the field and still today one of the most highly cited. Developed by Ricardo Henriques during his PhD.
+
+{% include paper-research-resources.html %}

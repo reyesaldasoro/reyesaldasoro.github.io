@@ -21,3 +21,5 @@ cell lines in which we endogenously labeled the nucleoporin Nup96 with mEGFP, SN
 fluorescent protein mMaple. We demonstrate their use (1) as three-dimensional resolution standards for calibration and quality control, (2) to quantify absolute labeling efficiencies and (3) as precise reference standards for molecular counting. These
 cell lines will enable the broader community to assess the quality of their microscopes and labels, and to perform quantitative,
 absolute measurements.
+
+{% include paper-research-resources.html %}

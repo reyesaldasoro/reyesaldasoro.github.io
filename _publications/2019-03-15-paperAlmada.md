@@ -14,3 +14,5 @@ resources: 'pumpy, srrf, squirrel, nanoj'
 <h2> Abstract </h2>
 <p align= "justify">
 Combining and multiplexing microscopy approaches is crucial to understand cellular events, but requires elaborate workflows. Here, we present a robust, open-source approach for treating, labelling and imaging live or fixed cells in automated sequences. NanoJ-Fluidics is based on low-cost Lego hardware controlled by ImageJ-based software, making high-content, multimodal imaging easy to implement on any microscope with high reproducibility. We demonstrate its capacity on event-driven, super-resolved live-to-fixed and multiplexed STORM/DNA-PAINT experiments.
+
+{% include paper-research-resources.html %}

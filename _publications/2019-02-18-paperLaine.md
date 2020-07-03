@@ -15,3 +15,5 @@ resources: 'nanoj, srrf, squirrel, pumpy, virusmapper'
 <h2> Abstract </h2>
 <p align= "justify">
 Super-resolution microscopy (SRM) has become essential for the study of nanoscale biological processes. This theme of imaging often requires the use of specialised image analysis tools to process a large volume of recorded data and extract quantitative information. In recent years, our team has built an open-source image analysis framework for SRM designed to combine high performance and ease of use. We named it NanoJ—a reference to the popular ImageJ software it was developed for. In this paper, we highlight the current capabilities of NanoJ for several essential processing steps: spatio-temporal alignment of raw data (NanoJ-Core), super-resolution image reconstruction (NanoJ-SRRF), image quality assessment (NanoJ-SQUIRREL), structural modelling (NanoJ-VirusMapper) and control of the sample environment (NanoJ-Fluidics). We expect to expand NanoJ in the future through the development of new tools designed to improve quantitative data analysis and measure the reliability of fluorescent microscopy studies.
+
+{% include paper-research-resources.html %}
