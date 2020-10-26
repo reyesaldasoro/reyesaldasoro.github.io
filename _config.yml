@@ -11,7 +11,7 @@ title                    : "Henriques Laboratory"
 title2                    : "Start page"
 title_separator          : "-"
 name                     : &name "Ricardo Henriques's Lab"
-description              : &description "Quantitative Imaging and NanoBioPhysics"
+description              : &description "Optical Cell Biology"
 url                      : https://henriqueslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,11 +77,11 @@ social:
 author:
   name             : "Ricardo Henriques"
   avatar           : "RH.jpg"
-  bio              : "Professor of Computational and Optical Biophysics, University College London and Francis Crick Institute"
-  location         : "London, UK"
+  bio              : "Group Leader at Instituto Gulbenkian de Ciência, Honorary Professor at University College London and Francis Crick Institute"
+  location         : "Lisbon, PT"
   employer         :
   googlescholar    : "https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en"
-  email            : "r.henriques@ucl.ac.uk"
+  email            : "rjhenriques@igc.gulbenkian.pt"
   uri              :
   bitbucket        :
   codepen          :
@@ -181,9 +181,6 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
-    output: true
-    permalink: /:collection/:path/
-  talks:
     output: true
     permalink: /:collection/:path/
   team:
