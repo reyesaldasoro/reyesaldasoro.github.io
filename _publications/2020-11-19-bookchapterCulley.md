@@ -5,6 +5,7 @@ date: 2020-11-19
 venue: 'Imaging from Cells to Animals In Vivo'
 authors: 'Siân Culley, Pedro M Pereira, Romain F Laine, Ricardo Henriques'
 paperurl: https://books.google.pt/books?hl=en&lr=&id=fIkIEAAAQBAJ&oi=fnd&pg=PA35&dq=info:vQj-f_YS-X0J:scholar.google.com&ots=eAf14N6ffo&sig=Z6RQHu3PDCd38H9j9dy5HM9A5Sg&redir_esc=y#v=onepage&q&f=false
+doi: none
 type: 'Book Chapter'
 theme: "methods"
 resources: srrf
