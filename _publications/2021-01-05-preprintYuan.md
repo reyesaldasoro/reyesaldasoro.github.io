@@ -5,7 +5,7 @@ date: 2021-01-05
 venue: 'bioRxiv'
 authors: 'Yue Yuan, Caron Jacobs, Isabel Llorente Garcia, Pedro M Pereira, Scott P.Lawrence, Romain F Laine, Mark Marsh, Ricardo Henriques'
 paperurl: https://doi.org/10.1101/2021.01.05.425371
-type: 'Preprint'
+type: 'Preprint, Corresponding author'
 doi: 10.1101/2021.01.05.425371
 theme: "structural biology, host-pathogen, microbiology, cell signalling"
 ---
