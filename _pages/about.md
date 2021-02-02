@@ -19,7 +19,7 @@ image_sliders:
 <body align="justify">
 ### News about the laboratory
   
-We have started a new laboratory in <b>[Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/)</b> in the summer of 2021. 
+2021/09: We have started a new laboratory at <b>[Instituto Gulbenkian de Ciência](https://gulbenkian.pt/ciencia/)</b>.
 
 ### Who are we
 
