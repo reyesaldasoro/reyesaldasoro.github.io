@@ -12,6 +12,7 @@ email: 'mgpinho@itqb.unl.pt'
 orcid: https://orcid.org/0000-0002-7132-8842
 uri: https://www.itqb.unl.pt/research/biology/bacterial-cell-biology
 twitter: PinhoLab
+theme: "microbiology, new methods, software"
 
 ---
 <p align= "justify">
