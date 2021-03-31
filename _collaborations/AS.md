@@ -9,7 +9,7 @@ start-date: 2017-01-01
 tagline: "Šarić Lab, University College London, UK"
 subject: "Computational biological and soft matter physics"
 email: 'a.saric@ucl.ac.uk'
-googlescholar: https://scholar.google.com/citations?user=td7L38wAAAAJ
+googlescholar: https://scholar.google.com/citations?user=M22ZhJYAAAAJ&hl=en
 uri: https://andelasaric.com/
 twitter: SaricLab
 theme: "cell division, cell signalling, methods, software"
