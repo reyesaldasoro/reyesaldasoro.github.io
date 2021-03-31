@@ -1,17 +1,16 @@
 ---
-title: "Florian Jug"
-authorname: "Jug"
+title: "Mike Heilemann"
+authorname: "Heilemann"
 collection: collaborations
 header:
-  teaser: FJ.jpg
+  teaser: MH.jpg
 tags: collaborator
-date-start: 2018-12-01
-tagline: "Jug Lab, MPI-CBG, Germany"
-subject: "Co-development of numerical microscopy approaches"
-email: 'loic.royer@czbiohub.org'
-googlescholar: https://scholar.google.co.uk/citations?user=vYInKgwAAAAJ&hl=en
-uri: https://www.mpi-cbg.de/research-groups/current-groups/florian-jug/research-focus/
-twitter: florianjug
+date-start: 2020-01-01
+tagline: "Single Molecule Biophysics, Goethe University Frankfurt, Germany"
+subject: "Co-development of machine-learning approaches"
+email: 'heileman@chemie.uni-frankfurt.de'
+googlescholar: https://scholar.google.com/citations?user=36BEm9cAAAAJ&hl=en
+uri: https://www.uni-frankfurt.de/43272324/Welcome_to_the_homepage_of_the_Heilemann_Group
 ---
 <p align= "justify">
 
