@@ -3,7 +3,7 @@ title: "Physical mechanisms of ESCRT-III-driven cell division in archaea"
 collection: publications
 date: 2021-03-23
 venue: 'bioRxiv'
-authors: 'Lena Harker-Kirschneck, Anne E Hafner, Tina Yao, Andre Arashiro Pulschen, Fredrik Hurtig, Christian Vanhille Campos, Dawid Hryniuk, Sian Culley, Ricardo Henriques, Buzz Baum, Andela Saric'
+authors: 'Lena Harker-Kirschneck, Anne E Hafner, Tina Yao, Andre Arashiro Pulschen, Fredrik Hurtig, Christian Vanhille Campos, Dawid Hryniuk, Sian Culley, Ricardo Henriques, Buzz Baum, Andela Šarić'
 paperurl: https://www.biorxiv.org/content/10.1101/2021.03.23.436559v1.abstract
 type: 'Preprint'
 doi: https://doi.org/10.1101/2021.03.23.436559
