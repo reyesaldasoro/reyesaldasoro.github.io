@@ -2,7 +2,7 @@
 title: "Democratising deep learning for microscopy with ZeroCostDL4Mic"
 collection: publications
 date: 2021-04-15
-venue: 'Nature Communications'
+venue: 'Nature communications'
 authors: 'Lucas von Chamier, Romain F Laine, Johanna Jukkala, Christoph Spahn, Daniel Krentzel, Elias Nehme, Martina Lerche, Sara Hernández-Pérez, Pieta K Mattila, Eleni Karinou, Séamus Holden, Ahmet Can Solak, Alexander Krull, Tim-Oliver Buchholz, Martin L Jones, Loïc A Royer, Christophe Leterrier, Yoav Shechtman, Florian Jug, Mike Heilemann, Guillaume Jacquemet, Ricardo Henriques'
 paperurl: https://www.nature.com/articles/s41467-021-22518-0
 type: 'Paper, Corresponding author'
