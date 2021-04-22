@@ -8,7 +8,7 @@ paperurl: https://www.nature.com/articles/s41467-021-22518-0
 type: 'Paper, Corresponding author'
 doi: s41467-021-22518-0
 theme: 'software, methods'
-resources: "ZeroCostDL4Mic"
+resources: "CARE, ZeroCostDL4Mic"
 ---
 
 <h2> Abstract </h2>
