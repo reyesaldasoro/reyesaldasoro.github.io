@@ -3,7 +3,7 @@ title: "Robert Knight"
 authorname: "Knight"
 collection: collaborations
 header:
-  teaser: RN.jpg
+  teaser: RN.png
 tags: collaborator
 date-start: 2019-05-01
 tagline: "Dentistry, Oral & Craniofacial Sciences, King’s College London"
