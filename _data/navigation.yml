@@ -17,6 +17,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Positions"
     url: /positions/
 
@@ -37,9 +40,6 @@ main:
 
   - title: "CV"
     url: https://reyesaldasoro.github.io/files/CV_Reyes_2021_05_06.pdf
-
-  - title: "Teaching"
-    url: /teaching/
 
 
 # Projs:
