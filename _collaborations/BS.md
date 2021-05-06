@@ -3,7 +3,7 @@ title: "Brian Stramer"
 authorname: "Stramer"
 collection: collaborations
 header:
-  teaser: BS.gif
+  teaser: BS.jpg
 tags: collaborator
 date-start: 2019-05-01
 tagline: "Randall Centre for Cell & Molecular Biophysics, King’s College London"
