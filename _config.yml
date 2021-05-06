@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Henriques Laboratory"
+title                    : "Reyes-Aldasoro"
+title_separator          : "-"
+name                     : &name "Constantino Carlos Reyes-Aldasoro"
+description              : &description "Biomedical Image Analysis"
+url                      : https://reyesaldasoro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "reyesaldasoro/reyesaldasoro.github.io"
 title2                    : "Start page"
 title_separator          : "-"
-name                     : &name "Ricardo Henriques's Lab"
-description              : &description "Optical Cell Biology"
-url                      : https://henriqueslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-#url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "henriqueslab/henriqueslab.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter HenriquesLab
+  username               : &twitter C_ReyesAldasoro
 facebook:
   username               :
   app_id                 :
@@ -75,13 +75,15 @@ social:
 
 # Site Author
 author:
-  name             : "Ricardo Henriques"
-  avatar           : "RH.jpg"
-  bio              : "Group Leader at Instituto Gulbenkian de Ciência, Honorary Professor at University College London and Francis Crick Institute"
-  location         : "Lisbon, PT"
+  name             : "Constantino Carlos Reyes-Aldasoro"
+  avatar           : "profile.jpg"
+  bio              : "Senior Lecturer in Biomedical Image Analysis at City, University of London"
+  location         : "London, United Kingdom"
   employer         :
-  googlescholar    : "https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en"
-  email            : "rjhenriques@igc.gulbenkian.pt"
+  pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=reyes-aldasoro"
+  googlescholar    : "https://scholar.google.co.uk/citations?hl=en&user=DLbXRxoAAAAJ&view_op=list_works"
+  email            :
+  researchgate     :  "https://www.researchgate.net/profile/Constantino-Reyes-Aldasoro"
   uri              :
   bitbucket        :
   codepen          :
@@ -89,25 +91,25 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "HenriquesLab"
+  github           : "reyesaldasoro"
   google_plus      :
   keybase          :
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/0000-0002-2043-5234"
+  linkedin         : "https://www.linkedin.com/in/constantino-carlos-reyes-aldasoro-090b822b/"
+  orcid            : "https://orcid.org/0000-0002-9466-2018"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "HenriquesLab"
+  twitter          : "C_ReyesAldasoro"
   vine             :
   weibo            :
   xing             :
   youtube          :
   wikipedia        :
-  researchgate     :
 
 
 
