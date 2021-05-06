@@ -6,8 +6,8 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can find the complete publication list on <a href="https://scholar.google.co.uk/citations?user=-peQ4ZsAAAAJ&hl=en">
-<span style="color:gray">our Google Scholar profile</span></a>. A complete list of bio<font color="red">R</font>xiv preprints on <a href="https://rxivist.org/authors/204048">
+You can find the complete publication list on <a href="https://scholar.google.co.uk/citations?hl=en&user=DLbXRxoAAAAJ&view_op=list_works">
+<span style="color:gray">our Google Scholar profile</span></a>. A complete list of bio<font color="red">R</font>xiv preprints on <a href="https://rxivist.org/authors/317101">
 <span style="color:gray">our Rxivist profile</span></a>.
 
 <ul style="margin:0;padding:0">
@@ -20,7 +20,7 @@ You can find the complete publication list on <a href="https://scholar.google.co
     <ul style="margin:0;padding:0">
     {% assign date = currentdate %}
   {% endif %}
-  {% if post.authors contains 'Ricardo Henriques' %}
+  {% if post.authors contains 'Reyes-Aldasoro' %}
     {% include archive-single-pub.html %}
   {% endif %}
   {% if forloop.last %}</ul>{% endif %}
