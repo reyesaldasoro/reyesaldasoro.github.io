@@ -1,9 +1,9 @@
 ---
 title: "Muhammad Moazzam Jawaid"
-authorname: "MJ"
+authorname: "MMJ"
 collection: team
 header:
-  teaser: MJ.jpg
+  teaser: MMJ.jpg
 tags: alumni
 tagline: "PhD Student<br>Alumni"
 subject: " Detection, Localization and Quantification of Non-Calcified Coronary Plaques in Contrast Enhanced CTA"
@@ -20,4 +20,4 @@ cv: ''
 <p align= "justify">
 
 
-Now Associate Professor at the Department of Computer Systems Engineering of [Mehran University of Technology](https://cs.muet.edu.pk/staff-members/468/), Pakistan. 
+Now Associate Professor at the Department of Computer Systems Engineering of [Mehran University of Technology](https://cs.muet.edu.pk/staff-members/468/), Pakistan.
