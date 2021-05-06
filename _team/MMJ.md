@@ -11,7 +11,7 @@ date-start: 2017-10-01
 date-end:  2020-09-01
 twitter: ''
 supervisors: 'Dr Greg Slabaugh and Dr Constantino Carlos Reyes-Aldasoro'
-collaborators: 'Panos Liatsis'
+collaborators: ''
 email: 'moazzam.jawaid@faculty.muet.edu.pk'
 cv: ''
 ---
