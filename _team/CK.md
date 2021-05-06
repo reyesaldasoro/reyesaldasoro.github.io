@@ -1,5 +1,5 @@
 ---
-title: "Cefa Karabag"
+title: "Cefa Karabağ"
 authorname: "CK"
 collection: team
 header:
