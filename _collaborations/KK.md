@@ -6,7 +6,7 @@ header:
   teaser: KK.jpg
 tags: collaborator
 date-start: 2019-05-01
-tagline: "Associate Professor in Musculoskeletal Imaging, University of Exeter"
+tagline: "College of Medicine and Health, University of Exeter"
 subject: "Karen is an Associate Professor in Musculoskeletal Imaging at the University of Exeter and Head of Medical Imaging"
 email: 'K.M.Knapp@exeter.ac.uk'
 googlescholar: https://scholar.google.co.uk/citations?hl=en&user=_nio_tIAAAAJ
