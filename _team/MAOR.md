@@ -11,7 +11,7 @@ date-start: 2017-10-01
 date-end:  2020-09-01
 twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Edgar Roman-Rangel'
-collaborators: ''
+collaborators: 'Jakob Kather'
 email: 'mauricio.ortega@city.ac.uk'
 cv: ''
 ---
