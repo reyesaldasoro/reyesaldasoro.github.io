@@ -18,3 +18,8 @@ cv: ''
 {::options parse_block_html="true" /}
 
 <p align= "justify">
+
+{% include author-research-themes.html %}
+{% include author-research-resources.html %}
+{% include team-member-collaborators.html %}
+{% include publication-list.html %}
