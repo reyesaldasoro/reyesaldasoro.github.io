@@ -3,7 +3,7 @@ title: "Constantino Carlos Reyes-Aldasoro"
 authorname: "CCRA"
 collection: team
 header:
-  teaser: CCRA.jpg
+  teaser: CCRA.png
 tags: PI
 tagline: Senior Lecturer in Biomedical Image Analysis
 date: 2021-05-06
