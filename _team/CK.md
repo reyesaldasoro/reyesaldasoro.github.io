@@ -4,7 +4,7 @@ authorname: "CK"
 collection: team
 header:
   teaser: CK.jpg
-tags: alumni
+tags: alumni,post-doc
 tagline: "PhD Student<br>Alumni"
 subject: "Volumetric Analysis of HeLa cells observed with Electron Microscopy"
 date-start: 2017-10-01
