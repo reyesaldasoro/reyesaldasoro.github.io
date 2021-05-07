@@ -20,6 +20,12 @@ main:
   - title: "Teaching"
     url: /teaching/
 
+  - title: "Editorial Work"
+    url: /editorial/
+
+  - title: "PhD Examinations"
+    url: /phdexaminations/
+
   - title: "Positions"
     url: /positions/
 
