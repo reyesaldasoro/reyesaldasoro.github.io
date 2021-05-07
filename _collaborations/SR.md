@@ -10,7 +10,7 @@ tagline: "Department of Infection, Immunity and Cardiovascular Disease, Universi
 subject: "Professor of Respiratory Medicine"
 email: 's.a.renshaw@sheffield.ac.uk'
 orcid: https://orcid.org/0000-0003-1790-1641
-uri: https://www.sheffield.ac.uk/medicine/people/iicd/stephen-renshaw
+uri: http://renshaw.group.shef.ac.uk/
 googlescholar: https://scholar.google.co.uk/citations?user=GPcVbSEAAAAJ&hl=en
 twitter: steverenshaw
 theme: "cell migration, neutrophils, macrophages"
