@@ -1,4 +1,4 @@
---- 
+---
 title: "Homage to Professor Maria Petrou"
 collection: publications
 date: 2014-10-01
@@ -9,5 +9,5 @@ type: Paper
 doi: 10.1016/j.patrec.2014.06.008
 theme: "microbiology, methods, software, hardware"
 resources: " "
---- 
-"<h2> Abstract </h2>" 
+---
+<h2> Abstract </h2>
