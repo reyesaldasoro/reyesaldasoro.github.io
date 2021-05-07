@@ -5,7 +5,7 @@ collection: research
 date: 2013-09-01
 author_profile: true
 header:
-  teaser: migration.jpg
+  teaser: tracking.gif
 layout: archive
 ---
 
