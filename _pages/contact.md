@@ -13,9 +13,6 @@ City, University of London<br>
 280 St John St, Greater, London EC1V 4PB<br>
 UK
 
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d9928.953989636313!2d-0.1080993!3d51.5271853!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7bac0df7e2bf2009!2sCity%2C%20University%20of%20London%20College%20Building!5e0!3m2!1sen!2suk!4v1620374055263!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
 
-
-
-<iframe src="https://www.google.com/maps/place/City,+University+of+London+College+Building/@51.5271853,-0.1080993,15.75z/data=!4m5!3m4!1s0x0:0x7bac0df7e2bf2009!8m2!3d51.5272742!4d-0.1042031" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
-
-# <img src="{{ "LMCB.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+<img src="{{ "college.png" | prepend: "/images/" | prepend: base_path }}" alt="">
