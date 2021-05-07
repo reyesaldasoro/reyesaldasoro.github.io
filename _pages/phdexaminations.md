@@ -7,9 +7,6 @@ author_profile: true
 
 <br>
 
-<h2>PhD Examinations
-</h2>
-
 <h3></h3>
 
 <table>
