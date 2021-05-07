@@ -5,10 +5,10 @@ collection: team
 header:
   teaser: CK.jpg
 tags: "post-doc"
-tagline: "PhD Student<br>Alumni"
+tagline: "Honorary Research Fellow"
 subject: "Volumetric Analysis of HeLa cells observed with Electron Microscopy"
-date-start: 2017-10-01
-date-end:  2020-09-01
+date-start: 2020-10-01
+date-end:  2023-09-01
 twitter: 'KarabagCefa'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: 'Martin Jones and Lucy Collinson'
