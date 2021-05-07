@@ -1,7 +1,7 @@
 ---
 title: "Geometric semi-automatic analysis of radiographs of Colles’ fractures"
 collection: publications
-date: 2020
+date: 2020-02-01
 venue: "PLOS ONE"
 authors: "Reyes-Aldasoro, Constantino Carlos and Ngan, Kwun Ho and Ananda, Ananda and Garcez, Artur d’Avila and Appelboam, Andrew and Knapp, Karen M."
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0238926

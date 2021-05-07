@@ -1,7 +1,7 @@
 ---
 title: "A machine learning approach for Colles’ fracture treatment diagnosis"
 collection: publications
-date: 2020
+date: 2020-01-01
 venue: bioRxiv
 authors: "Ngan, Kwun Ho and Garcez, Artur d’Avila and Knapp, Karen M. and Appelboam, Andy and Reyes-Aldasoro, Constantino Carlos"
 paperurl: https://www.biorxiv.org/content/10.1101/2020.02.28.970574v1

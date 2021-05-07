@@ -1,7 +1,7 @@
 ---
 title: "Texture Segmentation: An Objective Comparison between Five Traditional Algorithms and a Deep-Learning U-Net Architecture"
 collection: publications
-date: 2019
+date: 2019-03-03
 venue: "Applied Sciences"
 authors: "Karabağ, Cefa and Verhoeven, Jo and Miller, Naomi Rachel and Reyes-Aldasoro, Constantino Carlos"
 paperurl: https://www.mdpi.com/2076-3417/9/18/3900
