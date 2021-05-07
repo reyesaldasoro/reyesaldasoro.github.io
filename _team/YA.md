@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: YA.jpg
 tags: phd
-tagline: "PhD Student"
+tagline: "PhD Student<br> City, University of London"
 subject: "Analysis of Histopathological Images"
 date-start: 2017-10-01
 date-end:  2020-09-01

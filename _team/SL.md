@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: NO.jpg
 tags: phd
-tagline: "PhD Student<br>"
+tagline: "PhD Student<br>City, University of London"
 subject: "Quantitative texture analysis on MRI in the assessment of Alzheimer’s disease"
 date-start: 2017-10-01
 date-end:  2020-09-01

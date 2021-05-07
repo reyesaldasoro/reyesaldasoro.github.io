@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: KB.jpg
 tags: alumni
-tagline: "PhD Student<br>Alumni"
+tagline: "PhD Student<br>Alumni, University of Sussex"
 subject: "Computational methods of cell motility with applications to neutrophil migration"
 date-start: 2017-10-01
 date-end:  2020-09-01
