@@ -13,6 +13,7 @@ twitter: 'KarabagCefa'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: 'Martin Jones and Lucy Collinson'
 email: 'cefa.karabag@city.ac.uk'
+theme: "cell biology, texture"
 cv: ''
 ---
 {::options parse_block_html="true" /}
