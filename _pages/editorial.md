@@ -12,7 +12,7 @@ author_profile: true
 
 <h3>Journal Editor</h3>
 Academic Editor:
-<a href="https://journals.plos.org/plosone/">PLoS ONE</a> <br>
+[PLoS ONE](https://journals.plos.org/plosone/) <br>
 Academic Editor:
 <a href="https://www.mdpi.com/journal/jimaging">Journal of Imaging </a><br>
 Associate Editor:
