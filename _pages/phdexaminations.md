@@ -28,5 +28,5 @@ author_profile: true
 <tr><td>Edinburgh </td><td>PhD </td><td>	29/10/2018</td><td>Yolanda SOURGIA-KOUTRAKI</td></tr>
 <tr><td>Durham </td><td>PhD</td><td>	30/10/2018</td><td>Cigdem SASAK</td></tr>
 <tr><td>Univ. Politècnica València</td><td>PhD</td><td>	01/03/2019</td><td>Rafael ORTIZ RAMON</td></tr>
-<tr><td>Warwick</td><td>PhD</td><td>	01/09/2020	Muhamad SHABAN</td></tr>
+<tr><td>Warwick</td><td>PhD</td><td>	01/09/2020</td><td>	Muhamad SHABAN</td></tr>
 </table>
