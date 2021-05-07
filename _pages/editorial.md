@@ -11,9 +11,12 @@ author_profile: true
 </h2>
 
 <h3>Journal Editor</h3>
-Academic Editor: PLoS ONE <br>
-Academic Editor: Journal of Imaging <br>
-Associate Editor: ImmunoInformatics <br>
+Academic Editor:
+<a href="https://journals.plos.org/plosone/">PLoS ONE</a> <br>
+Academic Editor:
+<a href="https://www.mdpi.com/journal/jimaging">Journal of Imaging </a><br>
+Associate Editor:
+<a href="https://www.journals.elsevier.com/immunoinformatics/">ImmunoInformatics </a><br>
 Assistant Editor: Oncology News (Nov 2013- Mar 2018) <br>
 
 <h3>Guest Editor</h3>
