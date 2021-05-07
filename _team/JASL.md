@@ -11,7 +11,7 @@ date-start: 2015-10-01
 date-end:  2019-09-01
 twitter: 'jsolislemus'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Greg Slabaugh'
-collaborators: 'Brian Stramer, Besaid J Sánchez-Sánchez, Stefania Marcotti, Mubarik Burki'
+collaborators: 'Brian Stramer, Besaid J Sánchez-Sánchez, Stefania Marcotti, Mubarik Burki, Greg Slabaugh'
 email: 'jose.solislemus@kcl.ac.uk'
 cv: ''
 ---
