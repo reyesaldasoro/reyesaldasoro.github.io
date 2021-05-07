@@ -11,18 +11,16 @@ author_profile: true
 </h2>
 
 <h3>Journal Editor</h3>
-
  	Academic Editor: PLoS ONE <br>
 	Academic Editor: Journal of Imaging <br>
 	Associate Editor: ImmunoInformatics <br>
 	Assistant Editor: Oncology News <br>
 
-  <h3>Guest Editor: </h3>
+  <h3>Guest Editor</h3>
 	Medical Image Analysis 2020 <br>
 	IET Computer Vision 2018 <br>
 	Annals of the British Machine Vision Association 2015 <br>
 	Comp Meth Biomechanics Biomedical Eng: Imaging & Visualization 2015 <br>
-
 
   <h3>Journal Reviewer</h3>
   American Journal of Pathology 	 <br>
