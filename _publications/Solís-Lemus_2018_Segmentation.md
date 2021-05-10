@@ -1,7 +1,7 @@
 ---
 title: "Segmentation and Shape Analysis of Macrophages Using Anglegram Analysis"
 collection: publications
-date: 2018-01-01
+date: 2017-12-21
 venue: "Journal of Imaging"
 authors: "Solís-Lemus, José Alonso and Stramer, Brian and Slabaugh, Greg and Reyes-Aldasoro, Constantino Carlos"
 paperurl: https://www.mdpi.com/2313-433X/4/1/2
