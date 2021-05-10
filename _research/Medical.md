@@ -1,11 +1,11 @@
 ---
-title: "Geotechnics"
-type: "geotechnics"
+title: "Medical Imaging"
+type: "medicalimaging"
 collection: research
 date: 2013-09-01
 author_profile: true
 header:
-  teaser: shell.jpg
+  teaser: medical.jpg
 layout: archive
 ---
 

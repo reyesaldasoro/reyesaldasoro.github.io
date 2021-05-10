@@ -7,7 +7,7 @@ authors: "Ngan, Kwun Ho and Garcez, Artur d’Avila and Knapp, Karen M. and Appe
 paperurl: https://www.biorxiv.org/content/10.1101/2020.02.28.970574v1
 type: Paper
 doi: 10.1101/2020.02.28.970574
-theme: "microbiology, methods, software, hardware"
+theme: "microbiology, methods, software, medicalimaging"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>

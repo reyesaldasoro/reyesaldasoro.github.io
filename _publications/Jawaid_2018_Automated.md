@@ -7,7 +7,7 @@ authors: "Jawaid, M. Moazzam and Narejo, Sanam and Pirzada, Nasrullah and Baloch
 paperurl: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=7&Code=IJACSA&SerialNo=31
 type: Paper
 doi: 10.14569/IJACSA.2018.090731
-theme: "microbiology, methods, software, hardware"
+theme: "microbiology, methods, software, medicalimaging"
 resources: " "
 ---
 <h2> Abstract </h2>
