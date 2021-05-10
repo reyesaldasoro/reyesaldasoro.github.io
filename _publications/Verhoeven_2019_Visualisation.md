@@ -7,7 +7,7 @@ authors: "Verhoeven, Jo and Miller, Naomi Rachel and Daems, Luc and Reyes-Aldaso
 paperurl: https://www.mdpi.com/2313-433X/5/3/40
 type: Paper
 doi: 10.3390/jimaging5030040
-theme: "microbiology, methods, software, hardware"
+theme: "phonetics, software"
 resources: " "
 ---
 

@@ -7,7 +7,7 @@ authors: "Stiff, Tom and Echegaray-Iturra, Fabio R. and Pink, Harry J. and Herbe
 paperurl:
 type: Paper
 doi: 10.1016/j.celrep.2020.107681
-theme: " cancer, methods, software, hardware"
+theme: "cancer, methods, software, hardware"
 resources: " "
 ---
 <h2> Abstract </h2>

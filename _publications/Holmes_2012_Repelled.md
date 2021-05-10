@@ -1,4 +1,4 @@
-cell migration---
+---
 title: "Repelled from the wound, or randomly dispersed? Reverse migration behaviour of neutrophils characterized by dynamic modelling"
 collection: publications
 date: 2012-12-01
