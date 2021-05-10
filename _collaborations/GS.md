@@ -12,7 +12,7 @@ email: 'g.slabaugh@qmul.ac.uk'
 orcid: https://orcid.org/0000-0003-4060-5226
 uri: http://eecs.qmul.ac.uk/profiles/slabaughgreg.html
 googlescholar: https://scholar.google.com/citations?user=oUK2gu8AAAAJ&hl=en
-theme: "computer vision, AI, software"
+theme: "computer vision, AI, medical imaging"
 ---
 <p align= "justify">
 

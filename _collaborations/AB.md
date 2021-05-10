@@ -11,7 +11,7 @@ subject: "Image analysis, computer vision, video analysis and pattern recognitio
 email: 'abhir.bhalerao@warwick.ac.uk'
 googlescholar: https://scholar.google.co.uk/citations?user=XfBoSP4AAAAJ&hl=en
 uri: https://warwick.ac.uk/fac/sci/dcs/people/abhir_bhalerao/
-theme: "texture, computer vision, software"
+theme: "texture, computer vision, medical imaging"
 ---
 <p align= "justify">
 

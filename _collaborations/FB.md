@@ -10,7 +10,7 @@ tagline: "Department of Engineering at the Università degli Studi di Perugia, I
 subject: "Image processing with particular focus on texture and colour analysis"
 email: 'bianco@ieee.org'
 uri: https://www.bianconif.net/Home.html
-theme: "computational pathology, software"
+theme: "computational pathology, cancer"
 ---
 <p align= "justify">
 

@@ -11,7 +11,7 @@ subject: "Role and regulation of cell migration in animal physiology,"
 email: 'brian.m.stramer@kcl.ac.uk'
 orcid: https://orcid.org/0000-0001-7034-3269
 uri: https://www.stramerlab.com/
-theme: "cell migration, macrophages, software"
+theme: "cell migration, macrophages"
 ---
 <p align= "justify">
 

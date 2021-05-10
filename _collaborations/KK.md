@@ -13,7 +13,7 @@ googlescholar: https://scholar.google.co.uk/citations?hl=en&user=_nio_tIAAAAJ
 orcid: https://orcid.org/0000-0002-7360-0926
 uri: https://medicine.exeter.ac.uk/people/profile/index.php?web_id=Karen_Knapp
 twitter: KarenMKnapp
-theme: "radiography, fractures, software"
+theme: "radiography, medical imaging"
 ---
 <p align= "justify">
 
