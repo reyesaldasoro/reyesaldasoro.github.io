@@ -1,6 +1,6 @@
 ---
 title: "Karen Knapp"
-authorname: "Kather"
+authorname: "Knapp"
 collection: collaborations
 header:
   teaser: KK.jpg
