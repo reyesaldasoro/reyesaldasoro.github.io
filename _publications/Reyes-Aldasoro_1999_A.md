@@ -14,3 +14,5 @@ resources: " "
 <h2> Abstract </h2>  <br>
 
 This paper proposes a new approach to minimise inventory levels and their associated costs within large geographically dispersed organisations. For such organisations, attaining a high degree of agility is becoming increasingly important. Linear regression-based tools have traditionally been employed to assist human experts in inventory optimisation; endeavours; recently, Neural Network (NN) techniques have been proposed for this domain. The objective of this paper is to create a hybrid framework that can be utilised for analysis, modelling and forecasting purposes. This framework combines two existing approaches and introduces a new associated cost parameter that serves as a surrogate for customer satisfaction. The use of this hybrid framework is described using a running example related to a large geographically dispersed organisation.
+
+{% include paper-research-resources.html %}

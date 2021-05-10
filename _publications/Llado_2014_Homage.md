@@ -11,3 +11,5 @@ theme: "microbiology, methods, software, hardware"
 resources: " "
 ---
 <h2> Abstract </h2>
+
+{% include paper-research-resources.html %}

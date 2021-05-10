@@ -11,3 +11,5 @@ theme: "microbiology, methods, software, medicalimaging"
 resources: " "
 ---
 <h2> Abstract </h2>   <br>  BACKGROUND AND OBJECTIVE: The high mortality rate associated with coronary heart disease (CHD) has driven intensive research in cardiac imaging and image analysis. The advent of computed tomography angiography (CTA) has turned non-invasive diagnosis of cardiovascular anomalies into reality as calcified coronary plaques can be easily identified due to their high intensity values. However, the detection of non-calcified plaques in CTA is still a challenging problem because of lower intensity values, which are often similar to the nearby blood and muscle tissues. In this work, we propose the use of mean radial profiles for the detection of non-calcified plaques in CTA imager"
+
+{% include paper-research-resources.html %}
