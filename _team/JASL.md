@@ -13,7 +13,7 @@ twitter: 'jsolislemus'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Greg Slabaugh'
 collaborators: 'Brian Stramer,  Greg Slabaugh'
 email: 'jose.solislemus@kcl.ac.uk'
-theme: "cell biology, cell migration"
+theme: "cell biology, cell migration, macrophages, neutrophils, software"
 cv: ''
 ---
 {::options parse_block_html="true" /}
