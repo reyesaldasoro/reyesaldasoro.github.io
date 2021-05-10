@@ -5,7 +5,7 @@ date: 2019-12-01
 venue: medRxiv
 authors: "Ngan, Kwun Ho and Garcez, Artur d’Avila and Knapp, Karen M. and Appelboam, Andy and Reyes-Aldasoro, Constantino Carlos"
 paperurl: https://www.medrxiv.org/content/10.1101/19013730v1
-type: Paper
+type: Pre-print
 doi: 10.1101/19013730
 theme: "software, medicalimaging"
 resources: " "
