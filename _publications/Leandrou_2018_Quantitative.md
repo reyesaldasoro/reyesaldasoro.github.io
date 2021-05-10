@@ -4,7 +4,7 @@ collection: publications
 date: 2018-01-01
 venue: "IEEE reviews in biomedical engineering"
 authors: "Leandrou, Stephanos and Petroudi, Styliani and Kyriacou, Panayiotis A. and Reyes-Aldasoro, Constantino Carlos and Pattichis, Constantinos S."
-paperurl:
+paperurl: https://pubmed.ncbi.nlm.nih.gov/29994606/
 type: Paper
 doi: 10.1109/RBME.2018.2796598
 theme: "microbiology, methods, software, medicalimaging"

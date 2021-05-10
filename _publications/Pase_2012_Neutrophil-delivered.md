@@ -4,7 +4,7 @@ collection: publications
 date: 2012-10-01
 venue: "Current biology: CB"
 authors: "Pase, Luke and Layton, Judith E. and Wittmann, Christine and Ellett, Felix and Nowell, Cameron J. and Reyes-Aldasoro, Constantino Carlos and Varma, Sony and Rogers, Kelly L. and Hall, Chris J. and Keightley, M. Cristina and Crosier, Philip S. and Grabher, Clemens and Heath, Joan K. and Renshaw, Stephen A. and Lieschke, Graham J."
-paperurl:
+paperurl: https://www.sciencedirect.com/science/article/pii/S0960982212009189
 type: Paper
 doi: 10.1016/j.cub.2012.07.060
 theme: "microbiology, cell migration, software, hardware"

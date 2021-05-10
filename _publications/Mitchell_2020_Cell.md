@@ -4,10 +4,10 @@ collection: publications
 date: 2020-11-01
 venue: "Journal of Cell Science"
 authors: "Mitchell, Claire and Caroff, Lauryanne and Solis-Lemus, Jose Alonso and Reyes-Aldasoro, Constantino Carlos and Vigilante, Alessandra and Warburton, Fiona and de Chaumont, Fabrice and Dufour, Alexandre and Dallongeville, Stephane and Olivo-Marin, Jean-Christophe and Knight, Robert"
-paperurl:
+paperurl: https://journals.biologists.com/jcs/article/133/22/jcs241422/226225/Cell-Tracking-Profiler-a-user-driven-analysis
 type: Paper
 doi: 10.1242/jcs.241422
-theme: "microbiology, methods, software, hardware"
+theme: "cell migration"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>cell migration

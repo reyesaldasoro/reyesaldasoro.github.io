@@ -4,7 +4,7 @@ collection: publications
 date: 2019-09-01
 venue: "PLoS biology"
 authors: "Pazhakh, Vahid and Ellett, Felix and Croker, Ben A. and O'Donnell, Joanne A. and Pase, Luke and Schulze, Keith E. and Greulich, R. Stefan and Gupta, Aakash and Reyes-Aldasoro, Constantino Carlos and Andrianopoulos, Alex and Lieschke, Graham J."
-paperurl:
+paperurl: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000113
 type: Paper
 doi: 10.1371/journal.pbio.3000113
 theme: "microbiology, cell migration, software, hardware"

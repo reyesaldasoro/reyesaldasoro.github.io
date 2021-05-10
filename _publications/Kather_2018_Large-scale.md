@@ -4,7 +4,7 @@ collection: publications
 date: 2018-01-01
 venue: Oncoimmunology
 authors: "Kather, Jakob Nikolas and Berghoff, Anna Sophie and Ferber, Dyke and Suarez-Carmona, Meggy and Reyes-Aldasoro, Constantino Carlos and Valous, Nektarios A. and Rojas-Moraleda, Rodrigo and Jäger, Dirk and Halama, Niels"
-paperurl:
+paperurl: https://www.tandfonline.com/doi/full/10.1080/2162402X.2018.1444412
 type: Paper
 doi: 10.1080/2162402X.2018.1444412
 theme: " cancer, methods, software, hardware"

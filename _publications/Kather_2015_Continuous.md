@@ -4,7 +4,7 @@ collection: publications
 date: 2015-08-01
 venue: Oncotarget
 authors: "Kather, Jakob Nikolas and Marx, Alexander and Reyes-Aldasoro, Constantino Carlos and Schad, Lothar R. and Zöllner, Frank Gerrit and Weis, Cleo-Aron"
-paperurl:
+paperurl: https://www.oncotarget.com/article/4383/text/
 type: Paper
 doi: 10.18632/oncotarget.4383
 theme: " cancer, methods, software, hardware"

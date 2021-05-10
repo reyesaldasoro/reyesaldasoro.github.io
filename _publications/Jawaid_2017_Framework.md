@@ -4,7 +4,7 @@ collection: publications
 date: 2017-10-01
 venue: "Computers in Biology and Medicine"
 authors: "Jawaid, Muhammad Moazzam and Riaz, Atif and Rajani, Ronak and Reyes-Aldasoro, Constantino Carlos and Slabaugh, Greg"
-paperurl:
+paperurl: https://pubmed.ncbi.nlm.nih.gov/28797740/
 type: Paper
 doi: 10.1016/j.compbiomed.2017.07.021
 theme: "microbiology, methods, software, medicalimaging"

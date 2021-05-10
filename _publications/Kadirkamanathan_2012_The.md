@@ -4,7 +4,7 @@ collection: publications
 date: 2012-01-01
 venue: "PloS One"
 authors: "Kadirkamanathan, Visakan and Anderson, Sean R. and Billings, Stephen A. and Zhang, Xiliang and Holmes, Geoffrey R. and Reyes-Aldasoro, Constantino C. and Elks, Philip M. and Renshaw, Stephen A."
-paperurl:
+paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035182
 type: Paper
 doi: 10.1371/journal.pone.0035182
 theme: "microbiology, cell migration, software, hardware"

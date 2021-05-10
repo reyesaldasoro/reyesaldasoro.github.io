@@ -4,7 +4,7 @@ collection: publications
 date: 2010-02-01
 venue: "Journal of Biomedical Optics"
 authors: "Lunt, Sarah Jane and Gray, Colin and Reyes-Aldasoro, Constantino Carlos and Matcher, Stephen J. and Tozer, Gillian M."
-paperurl:
+paperurl: https://pubmed.ncbi.nlm.nih.gov/20210439/
 type: Paper
 doi: 10.1117/1.3281674
 theme: " cancer, cell migration, software, hardware"
