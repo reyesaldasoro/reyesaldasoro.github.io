@@ -7,7 +7,7 @@ authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0031320305004590
 type: Paper
 doi: 10.1016/j.patcog.2005.12.003
-theme: "texture, methods, software, medicalimaging"
+theme: "texture, software, medicalimaging"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>
