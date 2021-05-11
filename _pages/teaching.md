@@ -9,7 +9,7 @@ author_profile: true
 
 <h2>
 </h2>
-<p> I have been teaching for a long long time and I have delivered many many modules. Here is a list of the modules and institutions:</p>
+<p> I have been teaching for a long *long* time and I have delivered many *many* modules. Here is a list of the modules and institutions:</p>
 
 
 
@@ -27,7 +27,13 @@ author_profile: true
  * EE3505 	Computer Systems and Networks
  * EE2425  	Object-Oriented Programming
 
+ <h3>UNAM Instituto de Investigacines Biomedicas (2016)</h3>
 
+* Biomedical Image Analysis with Matlab  
+
+<h3>BMVA Summer School</h3>
+
+* Introduction to Biomedical Imaging
 
 <h3>Sussex University (2011-13)</h3>
 
@@ -35,19 +41,14 @@ author_profile: true
  *  H5014: Computer Networks
  *  825H1: Advanced Network Technologies
 
-
 <h3>The University of Sheffield (2005-2011)</h3>
 
  * Image Analysis session for the MED6021 module Model Systems in Medical Research of the MSc Mol Med
  * Introduction to Medical Imaging and Image Analysis for Phase 1B Medical students (Open to the staff of the School of Medicine)
 
-
-
 <h3> Instituto Tecnológico Autónomo de México (2006)</h3>
 
  *   Introduction to Image Analysis
-
-
 
 <h3>Warwick University (2001-2004)</h3>
 
@@ -58,7 +59,7 @@ author_profile: true
 
 <h3>Instituto Tecnológico Autónomo de México (1998-2000)</h3>
 
- *  Electromagnetic Theory,
+ *  Electromagnetic Theory
  *  Microwaves, Satellites, Antennas
  *  Systems and Services of Telecommunications (UG)
  *  Systems and Services of Telecommunications (PG)
@@ -72,8 +73,10 @@ author_profile: true
  *    Electromagnetic Theory
  *    Microwaves
  *    Communications Laboratory
- 
 
+ <h3>UNAM Facultad de Ingeniería (1995)</h3>
+
+  *    Communications Systems
 
 <h3>UNAM Facultad de Ingeniería (1991-93)</h3>
 
