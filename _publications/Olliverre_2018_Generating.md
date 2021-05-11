@@ -1,7 +1,7 @@
 ---
 title: "Generating Magnetic Resonance Spectroscopy Imaging Data of Brain Tumours from Linear, Non-linear and Deep Learning Models"
 collection: publications
-date: 2006-05-01
+date: 2018-09-01
 venue: "Pattern Recognition"
 authors: "Nathan Olliverre, Guang Yang, Greg Slabaugh,  Constantino Carlos Reyes-Aldasoro, Eduardo Alonso"
 paperurl: https://link.springer.com/chapter/10.1007/978-3-030-00536-8_14
