@@ -7,7 +7,7 @@ authors: "Jawaid, Muhammad Moazzam and Rajani, Ronak and Liatsis, Panos and Reye
 paperurl: https://www.sciencedirect.com/science/article/pii/S0169260716314298
 type: Paper
 doi: 10.1016/j.cmpb.2017.03.020
-theme: "software, medicalimaging"
+theme: "software, medicalimaging, circulation"
 resources: " "
 ---
 <h2> Abstract </h2>   <br>  BACKGROUND AND OBJECTIVE: State-of-the-art medical imaging techniques have enabled non-invasive imaging of the internal organs. However, high volumes of imaging data make manual interpretation and delineation of abnormalities cumbersome for clinicians. These challenges have driven intensive research into efficient medical image segmentation. In this work, we propose a hybrid region-based energy formulation for effective segmentation in computed tomography angiography (CTA) imager"
