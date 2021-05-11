@@ -15,67 +15,66 @@ author_profile: true
 
 
 <h3>City, University of London (2013- )</h3>
-<ul>
-<li> INM430   Principles of Data Science</li>
-<li> IN1011   Operating Systems</li>
-<li> ET1061   Electronics</li>
-<li> EE2701   Introduction to Biomedical Engineering</li>
-<li> EEM300   Medical Imaging</li>
-<li> EE3438 	Biosignal and Image Processing</li>
-<li> EE1409   Introduction to Biomedical Engineering</li>
-<li> EE3484 	Computer Systems</li>
-<li> EE3505 	Computer Systems and Networks</li>
-<li> EE2425  	Object-Oriented Programming</li>
-</ul>  
+
+ * INM430   Principles of Data Science
+ * IN1011   Operating Systems
+ * ET1061   Electronics
+ * EE2701   Introduction to Biomedical Engineering
+ * EEM300   Medical Imaging
+ * EE3438 	Biosignal and Image Processing
+ * EE1409   Introduction to Biomedical Engineering
+ * EE3484 	Computer Systems
+ * EE3505 	Computer Systems and Networks
+ * EE2425  	Object-Oriented Programming
+
 
 
 <h3>Sussex University (2011-13)</h3>
-<ul>
-<li>  H7093: Circuits and Electronics</li>
-<li>  H5014: Computer Networks</li>
-<li>  825H1: Advanced Network Technologies</li>
-</ul>  
+
+ *  H7093: Circuits and Electronics
+ *  H5014: Computer Networks
+ *  825H1: Advanced Network Technologies
+
 
 <h3>The University of Sheffield (2005-2011)</h3>
-<ul>
-<li> Image Analysis session for the MED6021 module Model Systems in Medical Research of the MSc Mol Med</li>
-<li> Introduction to Medical Imaging and Image Analysis for Phase 1B Medical students (Open to the staff of the School of Medicine)</li>
-</ul>  
+
+ * Image Analysis session for the MED6021 module Model Systems in Medical Research of the MSc Mol Med
+ * Introduction to Medical Imaging and Image Analysis for Phase 1B Medical students (Open to the staff of the School of Medicine)
+
 
 
 <h3> Instituto Tecnológico Autónomo de México (2006)</h3>
-<ul>
-<li>   Introduction to Image Analysis</li>
-</ul>  
+
+ *   Introduction to Image Analysis
+
 
 
 <h3>Warwick University (2001-2004)</h3>
-<ul>
-<li>  Distributed Multimedia Systems</li>
-<li>  Programming for Computers Scientists</li>
-<li>  Design of Information Structures</li>
-</ul>  
+
+ *  Distributed Multimedia Systems
+ *  Programming for Computers Scientists
+ *  Design of Information Structures
+
 
 <h3>Instituto Tecnológico Autónomo de México (1998-2000)</h3>
-<ul>
-<li>  Electromagnetic Theory,</li>
-<li>  Microwaves, Satellites, Antennas</li>
-<li>  Systems and Services of Telecommunications (UG)</li>
-<li>  Systems and Services of Telecommunications (PG)</li>
-</ul>  
+
+ *  Electromagnetic Theory,
+ *  Microwaves, Satellites, Antennas
+ *  Systems and Services of Telecommunications (UG)
+ *  Systems and Services of Telecommunications (PG)
+
 
 
 <h3>Instituto Tecnológico y de Estudios Superiores de Monterrey (1996-97)</h3>
-<ul>
-<li>    Communications Systems I</li>
-<li>    Communications Systems II</li>
-<li>    Electromagnetic Theory</li>
-<li>    Microwaves</li>
-<li>    Communications Laboratory</li>
-</ul>  
+
+ *    Communications Systems I
+ *    Communications Systems II
+ *    Electromagnetic Theory
+ *    Microwaves
+ *    Communications Laboratory
+ 
 
 
 <h3>UNAM Facultad de Ingeniería (1991-93)</h3>
-<ul>
-<li>    Electricity and Magnetism Laboratory</li>
-</ul>  
+
+ *    Electricity and Magnetism Laboratory
