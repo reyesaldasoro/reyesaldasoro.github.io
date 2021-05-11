@@ -1,7 +1,7 @@
 ---
 title: "The Bhattacharyya space for feature selection and its application to texture segmentation"
 collection: publications
-date: 2007-01-01
+date: 2006-05-01
 venue: "Pattern Recognition"
 authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0031320305004590
