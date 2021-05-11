@@ -1,5 +1,5 @@
 ---
-title: "Cell Migration / Microcirculation"
+title: "Cell Migration"
 type: "cell migration"
 collection: research
 date: 2013-09-01
