@@ -5,7 +5,7 @@ date: 2003-07-01
 venue: "Information Processing in Medical Imaging: Proceedings of the ... Conference"
 authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
 paperurl:
-type: Paper
+type: Conference
 doi: 10.1007/978-3-540-45087-0_24
 theme: "texture, methods, software, medicalimaging"
 resources: " "
