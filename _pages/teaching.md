@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-<p> I have been teaching for a long *long* time and I have delivered many *many* modules. Here is a list of the modules and institutions:</p>
+I have been teaching for a long *long* time and I have delivered many *many* modules. Here is a list of the modules and institutions:
 
 <h3>City, University of London (2013- )</h3>
 
