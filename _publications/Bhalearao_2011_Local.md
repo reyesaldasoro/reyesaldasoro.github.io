@@ -1,7 +1,7 @@
 ---
 title: "Local affine texture tracking for serial registration of zebrafish images"
 collection: publications
-date: 2007-01-01
+date: 2012-05-01
 venue: "Pattern Recognition"
 authors: "Abhir Bhalerao, Luke Pase, Graham Lieschke, Stephen Renshaw, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://ieeexplore.ieee.org/abstract/document/6235577
