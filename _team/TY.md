@@ -12,6 +12,7 @@ date-end:  2020-09-01
 twitter: ''
 supervisors: 'Dr  Falah Ali and Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: ''
+theme: "medicalimaging, cancer"
 email: ''
 cv: ''
 ---

@@ -11,6 +11,7 @@ date-start: 2017-10-01
 date-end:  2020-09-01
 twitter: ''
 supervisors: 'Dr Eduardo Alonso and  Constantino Carlos Reyes-Aldasoro'
+theme: "medicalimaging"
 collaborators: ''
 email: ''
 cv: ''

@@ -13,6 +13,7 @@ twitter: ''
 supervisors: 'Dr Greg Slabaugh and Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: ''
 email: 'moazzam.jawaid@faculty.muet.edu.pk'
+theme: "medicalimaging, circulation, software"
 cv: ''
 ---
 {::options parse_block_html="true" /}

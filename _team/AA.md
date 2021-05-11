@@ -13,7 +13,7 @@ twitter: 'ananda_hidup'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro, Dr Eduardo Alonso and Dr Alex Ter-Sarkisov'
 collaborators: 'Karen Knapp'
 email: 'ananda.ananda@city.ac.uk'
-
+theme: "medicalimaging"
 ---
 {::options parse_block_html="true" /}
 

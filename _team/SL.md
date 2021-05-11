@@ -12,6 +12,7 @@ date-end:  2020-09-01
 twitter: ''
 supervisors: 'Prof Constantinos Patichis, Prof Panicos Kyriacou and  Constantino Carlos Reyes-Aldasoro'
 collaborators: ''
+theme: "medicalimaging"
 email: ''
 cv: ''
 ---
