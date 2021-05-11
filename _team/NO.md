@@ -12,7 +12,7 @@ date-end:  2020-09-01
 twitter: ''
 supervisors: 'Dr Eduardo Alonso and  Constantino Carlos Reyes-Aldasoro'
 theme: "medicalimaging"
-collaborators: ''
+collaborators: 'Greg Slabaugh'
 email: ''
 cv: ''
 ---
