@@ -6,9 +6,25 @@ author_profile: true
 ---
 {% include base_path %}
 
-You can find the complete publication list on <a href="https://scholar.google.co.uk/citations?hl=en&user=DLbXRxoAAAAJ&view_op=list_works">
-<span style="color:gray">our Google Scholar profile</span></a>. A complete list of bio<font color="red">R</font>xiv preprints on <a href="https://rxivist.org/authors/317101">
-<span style="color:gray">our Rxivist profile</span></a>.
+
+You can find the complete publication list on this <a href="https://scholar.google.co.uk/citations?hl=en&user=DLbXRxoAAAAJ&view_op=list_works">
+<span style="color:gray">Google Scholar profile</span></a>.
+
+For a list of pre-prints on   bio<font color="red">R</font>xiv and med<font color="red">R</font>xiv,    
+please check the <a href="https://rxivist.org/authors/317101"> <span style="color:gray">our Rxivist profile</span></a>.
+
+
+
+<ul style="margin:0;padding:0">
+{% for post in site.publications reversed %}
+
+  {% if post.type contains 'Book' %}
+    {% include archive-single-pub.html %}
+  {% endif %}
+  {% if forloop.last %}</ul>{% endif %}
+
+{% endfor %}
+
 
 <ul style="margin:0;padding:0">
 {% for post in site.publications reversed %}
