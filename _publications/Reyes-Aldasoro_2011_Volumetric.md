@@ -6,7 +6,7 @@ venue: "Biomedical Diagnostics and Clinical Technologies: Applying High-Performa
 authors: "Constantino Carlos Reyes-Aldasoro, Abhir Bhalerao"
 paperurl: https://www.igi-global.com/chapter/biomedical-diagnostics-clinical-technologies/46692
 type: Book Chapter
-doi: 10.4018/978-1-60566-280-0.ch007
+doi: 10.4018/978-1-60566-280-0
 theme: "texture, software, medicalimaging"
 resources: " "
 ---
