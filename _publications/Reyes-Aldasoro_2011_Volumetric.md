@@ -3,7 +3,7 @@ title: "Volumetric Texture Analysis in Biomedical Imaging"
 collection: publications
 date: 2007-01-01
 venue: "Biomedical Diagnostics and Clinical Technologies: Applying High-Performance Cluster and Grid Computing"
-authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
+authors: "Constantino Carlos Reyes-Aldasoro, Abhir Bhalerao"
 paperurl: https://www.igi-global.com/chapter/biomedical-diagnostics-clinical-technologies/46692
 type: Book Chapter
 doi: 10.4018/978-1-60566-280-0.ch007
