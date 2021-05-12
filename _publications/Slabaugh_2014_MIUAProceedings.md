@@ -2,7 +2,7 @@
 title: "Medical Image Understanding and Analysis - MIUA 2014. 18th Annual Conference"
 collection: publications
 date: 2019-01-01
-venue: ""
+venue: "miua2014"
 authors: "Greg Slabaugh, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://dblp.org/db/conf/miua/miua2014.html
 type: Book Chapter

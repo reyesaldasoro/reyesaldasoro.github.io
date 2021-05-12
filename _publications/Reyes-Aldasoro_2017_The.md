@@ -2,7 +2,7 @@
 title: "The proportion of cancer-related entries in PubMed has increased considerably; is cancer truly 'The Emperor of All Maladies'?"
 collection: publications
 date: 2017-01-01
-venue: "PlOS ONE"
+venue: "PLoS ONE"
 authors: "Reyes-Aldasoro, Constantino Carlos"
 paperurl:
 type: Paper

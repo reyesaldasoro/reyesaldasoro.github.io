@@ -2,7 +2,7 @@
 title: "Cxcl8 (IL-8) mediates neutrophil recruitment and behavior in the zebrafish inflammatory response"
 collection: publications
 date: 2013-04-01
-venue: "Journal of Immunology (Baltimore"
+venue: "Journal of Immunology"
 authors: "de Oliveira, Sofia and Reyes-Aldasoro, Constantino C. and Candel, Sergio and Renshaw, Stephen A. and Mulero, Victoriano and Calado, Angelo"
 paperurl: https://www.jimmunol.org/content/190/8/4349
 type: Paper
