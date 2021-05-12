@@ -32,7 +32,7 @@
       {% elsif post.venue == "Journal of Physics D: Applied Physics" %}
         <img src="{{ "cover_jphysd.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Nature methods" %}
-        <img src="{{ "cover_nmeth.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+        <img src="{{ "cover_nmeth.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Nature communications" %}
         <img src="{{ "cover_ncomm.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Nature microbiology" %}
@@ -91,13 +91,20 @@
         <img src="{{ "cover_ijcan.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "American Journal of Physiology. Heart and Circulatory Physiology" %}
         <img src="{{ "cover_AJP-Heart.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-
+      {% elsif post.venue == "Journal of Imaging" %}
+        <img src="{{ "cover_jimag.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "PLoS ONE" %}
+        <img src="{{ "cover_plos-one.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "PLoS Medicine" %}
+        <img src="{{ "cover_PLOS_Medicine.JPG" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Microvascular Research" %}
+        <img src="{{ "cover_microvasres.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "miua2014" %}
-          <img src="{{ "cover_miua2014.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+        <img src="{{ "cover_miua2014.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "wiley" %}
-              <img src="{{ "cover_WileyBook.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+        <img src="{{ "cover_WileyBook.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Journal of Immunology" %}
-              <img src="{{ "cover_jimmu.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+        <img src="{{ "cover_jimmu.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
