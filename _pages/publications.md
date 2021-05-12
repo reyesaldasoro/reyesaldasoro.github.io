@@ -11,9 +11,9 @@ You can find the complete publication list on this <a href="https://scholar.goog
 <span style="color:gray">Google Scholar profile</span></a>.
 
 For a list of pre-prints on   bio<font color="red">R</font>xiv and med<font color="red">R</font>xiv,    
-please check the <a href="https://rxivist.org/authors/317101"> <span style="color:gray">our Rxivist profile</span></a>.
+please check the <a href="https://rxivist.org/authors/317101"> <span style="color:gray">Rxivist profile</span></a>.
 
-
+<h2> Books, Edited Books, Book Chapters</h2>
 
 <ul style="margin:0;padding:0">
 {% for post in site.publications reversed %}
