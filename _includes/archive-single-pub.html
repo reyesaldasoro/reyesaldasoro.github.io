@@ -74,7 +74,7 @@
       {% elsif post.venue == "Traffic" %}
         <img src="{{ "cover_traffic.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Current Biology" %}
-        <img src="{{ "cover_currentbiology.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+        <img src="{{ "cover_currbio.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Journal of Cell Science" %}
         <img src="{{ "cover_jcs.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Science" %}
@@ -85,6 +85,13 @@
         <img src="{{ "cover_ImagingCells2AnimalsInVivo.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Viruses" %}
         <img src="{{ "cover_viruses.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+
+      {% elsif post.venue == "miua2014" %}
+          <img src="{{ "cover_miua2014.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "wiley" %}
+              <img src="{{ "cover_WileyBook.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Journal of Immunology" %}
+              <img src="{{ "cover_jimmu.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
