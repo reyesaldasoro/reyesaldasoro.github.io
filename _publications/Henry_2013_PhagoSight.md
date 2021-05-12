@@ -2,7 +2,7 @@
 title: "PhagoSight an open-source MATLAB® package for the analysis of fluorescent neutrophil and macrophage migration in a zebrafish model"
 collection: publications
 date: 2013-01-01
-venue: "PloS One"
+venue: "PloS ONE"
 authors: "Henry, Katherine M. and Pase, Luke and Ramos-Lopez, Carlos Fernando and Lieschke, Graham J. and Renshaw, Stephen A. and Reyes-Aldasoro, Constantino Carlos"
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0072636
 type: Paper
