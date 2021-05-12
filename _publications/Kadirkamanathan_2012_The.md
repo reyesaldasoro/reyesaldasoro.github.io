@@ -2,7 +2,7 @@
 title: "The neutrophil's eye-view inference and visualisation of the chemoattractant field driving cell chemotaxis in vivo"
 collection: publications
 date: 2012-01-01
-venue: "PloS One"
+venue: "PloS ONE"
 authors: "Kadirkamanathan, Visakan and Anderson, Sean R. and Billings, Stephen A. and Zhang, Xiliang and Holmes, Geoffrey R. and Reyes-Aldasoro, Constantino C. and Elks, Philip M. and Renshaw, Stephen A."
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035182
 type: Paper
