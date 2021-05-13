@@ -2,7 +2,7 @@
 title: "β-glucan-dependent shuttling of conidia from neutrophils to macrophages occurs during fungal infection establishment"
 collection: publications
 date: 2019-09-01
-venue: "PLoS biology"
+venue: "PLoS Biology"
 authors: "Pazhakh, Vahid and Ellett, Felix and Croker, Ben A. and O'Donnell, Joanne A. and Pase, Luke and Schulze, Keith E. and Greulich, R. Stefan and Gupta, Aakash and Reyes-Aldasoro, Constantino Carlos and Andrianopoulos, Alex and Lieschke, Graham J."
 paperurl: https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000113
 type: Paper

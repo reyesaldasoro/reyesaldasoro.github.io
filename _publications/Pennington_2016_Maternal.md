@@ -2,9 +2,9 @@
 title: "Maternal Hyperleptinemia Is Associated with Male Offspring's Altered Vascular Function and Structure in Mice"
 collection: publications
 date: 2016-01-01
-venue: "PloS ONE"
+venue: "PLoS ONE"
 authors: "Pennington, Kathleen A. and Ramirez-Perez, Francisco I. and Pollock, Kelly E. and Talton, Omonseigho O. and Foote, Christopher A. and Reyes-Aldasoro, Constantino C. and Wu, Ho-Hsiang and Ji, Tieming and Martinez-Lemus, Luis A. and Schulz, Laura C."
-paperurl:
+paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155377
 type: Paper
 doi: 10.1371/journal.pone.0155377
 theme: "software, circulation"

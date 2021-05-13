@@ -2,7 +2,7 @@
 title: "Semantic segmentation of HeLa cells An objective comparison between one traditional algorithm and four deep-learning architectures"
 collection: publications
 date: 2020-10-01
-venue: "PLOS ONE"
+venue: "PLoS ONE"
 authors: "Karabağ, Cefa and Jones, Martin L. and Peddie, Christopher J. and Weston, Anne E. and Collinson, Lucy M. and Reyes-Aldasoro, Constantino Carlos"
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230605
 type: Paper
