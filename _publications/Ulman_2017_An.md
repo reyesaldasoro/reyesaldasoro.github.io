@@ -2,7 +2,7 @@
 title: "An objective comparison of cell-tracking algorithms"
 collection: publications
 date: 2017-12-01
-venue: "Nature cell migration"
+venue: "Nature Methods"
 authors: "Ulman, Vladimír and Maška, Martin and Magnusson, Klas E. G. and Ronneberger, Olaf and Haubold, Carsten and Harder, Nathalie and Matula, Pavel and Matula, Petr and Svoboda, David and Radojevic, Miroslav and Smal, Ihor and Rohr, Karl and Jaldén, Joakim and Blau, Helen M. and Dzyubachyk, Oleh and Lelieveldt, Boudewijn and Xiao, Pengdong and Li, Yuexiang and Cho, Siu-Yeung and Dufour, Alexandre C. and Olivo-Marin, Jean-Christophe and Reyes-Aldasoro, Constantino C. and Solis-Lemus, Jose A. and Bensch, Robert and Brox, Thomas and Stegmaier, Johannes and Mikut, Ralf and Wolf, Steffen and Hamprecht, Fred A. and Esteves, Tiago and Quelhas, Pedro and Demirel, Ömer and Malmström, Lars and Jug, Florian and Tomancak, Pavel and Meijering, Erik and Muñoz-Barrutia, Arrate and Kozubek, Michal and Ortiz-de-Solorzano, Carlos"
 paperurl:
 type: Paper
