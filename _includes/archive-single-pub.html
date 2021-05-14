@@ -27,6 +27,8 @@
       <td width="10%" style="border: none;">
       {% if post.venue == "bioRxiv" %}
         <img src="{{ "cover_bioRxiv.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "IEEE reviews in biomedical engineering" %}
+        <img src="{{ "cover_ieee_revbe.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "medRxiv" %}
         <img src="{{ "cover_medRxiv.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Journal of Physics D: Applied Physics" %}
