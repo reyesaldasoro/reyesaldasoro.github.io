@@ -3,7 +3,7 @@ title: "Regional variation in arterial stiffening and dysfunction in Western die
 collection: publications
 date: 2015-08-01
 venue: "American Journal of Physiology. Heart and Circulatory Physiology"
-authors: "Bender, Shawn B. and Castorena-Gonzalez, Jorge A. and Garro, Mona and Reyes-Aldasoro, Constantino C. and Sowers, James R. and DeMarco, Vincent G. and Martinez-Lemus, Luis A."
+authors: "Bender, Shawn B. and Castorena-Gonzalez, Jorge A. and Garro, Mona and Reyes-Aldasoro, Constantino C. and Sowers, James R. and DeMarco, Vincent G., Luis A. Martinez-Lemus "
 paperurl:
 type: Paper
 doi: 10.1152/ajpheart.00155.2015
