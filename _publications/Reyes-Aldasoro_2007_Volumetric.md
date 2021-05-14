@@ -2,8 +2,8 @@
 title: "Volumetric texture segmentation by discriminant feature selection and multiresolution classification"
 collection: publications
 date: 2007-01-01
-venue: "IEEE transactions on medical imaging"
-authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
+venue: "IEEE Transactions on Medical Imaging"
+authors: "Constantino Carlos Reyes-Aldasoro, Abhir  Bhalerao "
 paperurl:
 type: Paper
 doi: 10.1109/TMI.2006.884637
