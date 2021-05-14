@@ -3,7 +3,7 @@ title: "Texture Segmentation An Objective Comparison between Five Traditional Al
 collection: publications
 date: 2019-01-01
 venue: "Applied Sciences"
-authors: "Karabağ, Cefa and Verhoeven, Jo and Miller, Naomi Rachel and Reyes-Aldasoro, Constantino Carlos"
+authors: "Cefa Karabağ, Jo Verhoeven,  Naomi Rachel  Miller,  Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2076-3417/9/18/3900
 type: Paper
 doi: 10.3390/app9183900
