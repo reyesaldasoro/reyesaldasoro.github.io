@@ -3,7 +3,7 @@ title: "Predicting survival from colorectal cancer histology slides using deep l
 collection: publications
 date: 2019-01-24
 venue: "PLoS Medicine"
-authors: "Kather, Jakob Nikolas and Krisam, Johannes and Charoentong, Pornpimol and Luedde, Tom and Herpel, Esther and Weis, Cleo-Aron and Gaiser, Timo and Marx, Alexander and Valous, Nektarios A. and Ferber, Dyke and Jansen, Lina and Reyes-Aldasoro, Constantino Carlos and Zörnig, Inka and Jäger, Dirk and Brenner, Hermann and Chang-Claude, Jenny and Hoffmeister, Michael and Halama, Niels"
+authors: "Jakob Nikolas Kather, Krisam, Johannes and Charoentong, Pornpimol and Luedde, Tom and Herpel, Esther and Weis, Cleo-Aron and Gaiser, Timo and Marx, Alexander and Valous, Nektarios A. and Ferber, Dyke and Jansen, Lina and Reyes-Aldasoro, Constantino Carlos and Zörnig, Inka and Jäger, Dirk and Brenner, Hermann and Chang-Claude, Jenny and Hoffmeister, Michael and Halama, Niels"
 paperurl: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730
 type: Paper
 doi: 10.1371/journal.pmed.1002730
