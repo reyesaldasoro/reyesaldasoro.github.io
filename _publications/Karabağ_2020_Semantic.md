@@ -3,7 +3,7 @@ title: "Semantic segmentation of HeLa cells An objective comparison between one 
 collection: publications
 date: 2020-10-01
 venue: "PLoS ONE"
-authors: "Karabağ, Cefa and Jones, Martin L. and Peddie, Christopher J. and Weston, Anne E. and Collinson, Lucy M. and Reyes-Aldasoro, Constantino Carlos"
+authors: Cefa Karabağ, Martin Jones, Christopher J. Peddie, Anne E Weston, Lucy M Collinson,  Constantino Carlos Reyes-Aldasoro"
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230605
 type: Paper
 doi: 10.1371/journal.pone.0230605
