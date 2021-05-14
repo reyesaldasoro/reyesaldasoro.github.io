@@ -2,7 +2,7 @@
 title: "Digital Pathology: 15th European Congress, ECDP 2019, Warwick, UK, April 10–13, 2019, Proceedings"
 collection: publications
 date: 2019-01-01
-venue: "Biomedical Diagnostics and Clinical Technologies: Applying High-Performance Cluster and Grid Computing"
+venue: "ECDP2019"
 authors: "Constantino Carlos Reyes-Aldasoro,  A Janowczyk, M Veta, P Bankhead, K Sirinukunwattana."
 paperurl: https://www.springer.com/gp/book/9783030239367
 type: Book Chapter
