@@ -3,7 +3,7 @@ title: "Continuous representation of tumor microvessel density and detection of 
 collection: publications
 date: 2015-08-01
 venue: Oncotarget
-authors: "Kather, Jakob Nikolas and Marx, Alexander and Reyes-Aldasoro, Constantino Carlos and Schad, Lothar R. and Zöllner, Frank Gerrit and Weis, Cleo-Aron"
+authors: "Jakob Nikolas Kather,  Alexander Marx,  Constantino Carlos Reyes-Aldasoro, Schad, Lothar R. and Zöllner, Frank Gerrit and Weis, Cleo-Aron"
 paperurl: https://www.oncotarget.com/article/4383/text/
 type: Paper
 doi: 10.18632/oncotarget.4383

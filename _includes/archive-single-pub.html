@@ -91,6 +91,8 @@
         <img src="{{ "cover_eleclett.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "ECDP2019" %}
         <img src="{{ "cover_ecdp.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Oncotarget" %}
+        <img src="{{ "cover_oncotarget.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
