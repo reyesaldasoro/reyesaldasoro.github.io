@@ -3,7 +3,7 @@ title: "An in vivo role for Rho kinase activation in the tumour vascular disrupt
 collection: publications
 date: 2014-11-01
 venue: "British Journal of Pharmacology"
-authors: "Williams, L. J. and Mukherjee, D. and Fisher, M. and Reyes-Aldasoro, C. C. and Akerman, S. and Kanthou, C. and Tozer, G. M."
+authors: "L.J. Williams, D. Mukherjee, M  Fisher,  C. C. Reyes-Aldasoro, S. Akerman, C. Kanthou, G.M. Tozer"
 paperurl:
 type: Paper
 doi: 10.1111/bph.12817
