@@ -27,6 +27,10 @@
       <td width="10%" style="border: none;">
       {% if post.venue == "bioRxiv" %}
         <img src="{{ "cover_bioRxiv.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "IEEE Transactions on Medical Imaging" %}
+        <img src="{{ "cover_ieee_tmi.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "IEEE transactions on bio-medical engineering" %}
+        <img src="{{ "cover_ieee_tbe.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "IEEE reviews in biomedical engineering" %}
         <img src="{{ "cover_ieee_revbe.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "medRxiv" %}
