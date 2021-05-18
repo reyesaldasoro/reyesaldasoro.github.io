@@ -7,7 +7,7 @@ authors: "Reyes-Aldasoro, C. C. and Ganguly, A. R. and Lemus, G. and Gupta, A."
 paperurl: https://doi.org/10.1057/palgrave.jors.2600658
 type: Paper
 doi: https://doi.org/10.1057/palgrave.jors.2600658
-theme: "microbiology, methods, software, hardware"
+theme: "datamining, software"
 resources: " "
 ---
 
