@@ -3,7 +3,7 @@ title: "Automated Quantification of Non-Calcified Coronary Plaques in Cardiac CT
 collection: publications
 date: 2018-01-01
 venue: "International Journal of Advanced Computer Science and Applications (IJACSA)"
-authors: "Jawaid, M. Moazzam and Narejo, Sanam and Pirzada, Nasrullah and Baloch, Junaid and Reyes-Aldasoro, C. C. and Slabaugh, Greg"
+authors: "M. Moazzam Jawaid, and Narejo, Sanam and Pirzada, Nasrullah and Baloch, Junaid and Reyes-Aldasoro, C. C., Greg  Slabaugh"
 paperurl: https://thesai.org/Publications/ViewPaper?Volume=9&Issue=7&Code=IJACSA&SerialNo=31
 type: Paper
 doi: 10.14569/IJACSA.2018.090731
