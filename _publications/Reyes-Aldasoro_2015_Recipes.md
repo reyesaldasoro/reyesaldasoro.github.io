@@ -7,7 +7,7 @@ authors: "Reyes-Aldasoro, C. C."
 paperurl: https://www.wiley.com/en-gb/Biomedical+Image+Analysis+Recipes+in+MATLAB:+For+Life+Scientists+and+Engineers-p-9781118657553
 type: Book
 doi: 10.1002/9781118657546
-theme: "software, medicalimaging"
+theme: "software, medicalimaging, imageprocessing"
 isbn: 978-1-118-65755-3
 ---
 <h2> Abstract </h2>  <br>
