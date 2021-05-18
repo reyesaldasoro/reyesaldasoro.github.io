@@ -7,7 +7,7 @@ authors: "Jaffari, Rabeea and Hashmani, Manzoor Ahmed and Reyes-Aldasoro, Consta
 paperurl: https://www.mdpi.com/1424-8220/21/8/2803
 type: Paper
 doi: 10.3390/s21082803
-theme: "software"
+theme: "software,  imageprocessing"
 resources: " "
 ---
 
