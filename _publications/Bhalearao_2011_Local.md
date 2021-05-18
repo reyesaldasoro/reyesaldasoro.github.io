@@ -7,7 +7,7 @@ authors: "Abhir Bhalerao, Luke Pase, Graham Lieschke, Stephen Renshaw, Constanti
 paperurl: https://ieeexplore.ieee.org/abstract/document/6235577
 type: Conference
 doi: 10.1109/ISBI.2012.6235577
-theme: "texture, software, medicalimaging"
+theme: "texture, cell migration, medicalimaging"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>
