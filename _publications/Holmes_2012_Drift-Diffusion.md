@@ -3,8 +3,8 @@ title: "Drift-Diffusion Analysis of Neutrophil Migration during Inflammation Res
 collection: publications
 date: 2012-01-01
 venue: "Advances in Hematology"
-authors: "Holmes, Geoffrey R. and Dixon, Giles and Anderson, Sean R. and Reyes-Aldasoro, Constantino Carlos and Elks, Philip M. and Billings, Stephen A. and Whyte, Moira K. B. and Kadirkamanathan, Visakan and Renshaw, Stephen A."
-paperurl:
+authors: "Holmes, Geoffrey R. and Dixon, Giles and Anderson, Sean R. and Reyes-Aldasoro, Constantino Carlos and Elks, Philip M. and Billings, Stephen A. and Whyte, Moira K. B. and Kadirkamanathan, Visakan, Stephen A. Renshaw"
+paperurl: https://www.hindawi.com/journals/ah/2012/792163/
 type: Paper
 doi: 10.1155/2012/792163
 theme: "neutrophil, cell migration"
