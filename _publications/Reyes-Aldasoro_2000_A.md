@@ -7,7 +7,7 @@ authors: "Reyes-Aldasoro, Constantino Carlos and Algorri, M. E."
 paperurl: https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=3164
 type: Paper
 doi:
-theme: "microbiology, methods, software, medicalimaging"
+theme: "software, medicalimaging"
 resources: " "
 ---
 
