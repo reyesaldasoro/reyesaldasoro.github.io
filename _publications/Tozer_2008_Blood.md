@@ -3,11 +3,11 @@ title: "Blood vessel maturation and response to vascular-disrupting therapy in s
 collection: publications
 date: 2008-04-01
 venue: "Cancer Research"
-authors: "Tozer, Gillian M. and Akerman, Simon and Cross, Neil A. and Barber, Paul R. and Björndahl, Meit A. and Greco, Olga and Harris, Sheila and Hill, Sally A. and Honess, Davina J. and Ireson, Christopher R. and Pettyjohn, Katie L. and Prise, Vivien E. and Reyes-Aldasoro, Constantino C. and Ruhrberg, Christiana and Shima, David T. and Kanthou, Chryso"
+authors: "Gillian M. Tozer,  Akerman, Simon and Cross, Neil A. and Barber, Paul R. and Björndahl, Meit A. and Greco, Olga and Harris, Sheila and Hill, Sally A. and Honess, Davina J. and Ireson, Christopher R. and Pettyjohn, Katie L. and Prise, Vivien E. and Reyes-Aldasoro, Constantino C. and Ruhrberg, Christiana and Shima, David T, Chryso Kanthou"
 paperurl:
 type: Paper
 doi: 10.1158/0008-5472.CAN-07-2011
-theme: "cancer, methods, software, circulation"
+theme: "cancer,  software, circulation"
 resources: " "
 ---
 
