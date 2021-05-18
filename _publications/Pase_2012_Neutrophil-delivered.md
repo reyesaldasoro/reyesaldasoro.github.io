@@ -2,7 +2,7 @@
 title: "Neutrophil-delivered myeloperoxidase dampens the hydrogen peroxide burst after tissue wounding in zebrafish"
 collection: publications
 date: 2012-10-01
-venue: "Current biology"
+venue: "Current Biology"
 authors: "Pase, Luke and Layton, Judith E. and Wittmann, Christine and Ellett, Felix and Nowell, Cameron J. and Reyes-Aldasoro, Constantino Carlos and Varma, Sony and Rogers, Kelly L. and Hall, Chris J. and Keightley, M. Cristina and Crosier, Philip S. and Grabher, Clemens and Heath, Joan K., Stephen A.  Renshaw, Graham J.  Lieschke"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0960982212009189
 type: Paper
