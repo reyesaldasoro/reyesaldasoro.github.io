@@ -2,9 +2,9 @@
 title: "Repelled from the wound, or randomly dispersed? Reverse migration behaviour of neutrophils characterized by dynamic modelling"
 collection: publications
 date: 2012-12-01
-venue: "Journal of the Royal Society"
-authors: "Holmes, Geoffrey R. and Anderson, Sean R. and Dixon, Giles and Robertson, Anne L. and Reyes-Aldasoro, Constantino Carlos and Billings, Stephen A. and Renshaw, Stephen A. and Kadirkamanathan, Visakan"
-paperurl:
+venue: "Journal of the Royal Society Interface"
+authors: "Holmes, Geoffrey R. and Anderson, Sean R. and Dixon, Giles and Robertson, Anne L. and Reyes-Aldasoro, Constantino Carlos, Stephen A. Billings, Stephen A. Renshaw,  and Kadirkamanathan, Visakan"
+paperurl: https://royalsocietypublishing.org/doi/10.1098/rsif.2012.0542
 type: Paper
 doi: 10.1098/rsif.2012.0542
 theme: "microbiology, methods, software, hardware"
