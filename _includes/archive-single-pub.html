@@ -111,8 +111,10 @@
         <img src="{{ "cover_jors.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Oncotarget" %}
         <img src="{{ "cover_oncotarget.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Information Processing in Medical Imaging" %}
+        <img src="{{ "cover_ipmi.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Revista Mexicana de Ingeniería Biomédica" %}
-        <img src="{{ "cover_rmib.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+        <img src="{{ "cover_rmib.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
