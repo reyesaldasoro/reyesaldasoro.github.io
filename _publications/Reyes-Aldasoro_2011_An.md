@@ -3,8 +3,8 @@ title: "An automatic algorithm for the segmentation and morphological analysis o
 collection: publications
 date: 2011-06-01
 venue: "Journal of Microscopy"
-authors: "Reyes-Aldasoro, C. C. and Williams, L. J. and Akerman, S. and Kanthou, C. and Tozer, G. M."
-paperurl:
+authors: "C. C. Reyes-Aldasoro,  L. J.  Williams,  S. Akerman,  C. Kanthou, and  G. M. Tozer"
+paperurl: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1365-2818.2010.03464.x
 type: Paper
 doi: 10.1111/j.1365-2818.2010.03464.x
 theme: "cancer, methods, software, circulation"
