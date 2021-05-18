@@ -2,7 +2,7 @@
 title: "Volumetric texture description and discriminant feature selection for MRI"
 collection: publications
 date: 2003-07-01
-venue: "Information Processing in Medical Imaging: Proceedings of the ... Conference"
+venue: "Information Processing in Medical Imaging"
 authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
 paperurl:
 type: Conference
