@@ -7,7 +7,7 @@ authors: "Llado, Xavier and Imiya, Atsushi and Mason, David and Reyes-Aldasoro, 
 paperurl: https://www.sciencedirect.com/science/article/pii/S0167865514001858
 type: Paper
 doi: 10.1016/j.patrec.2014.06.008
-theme: "microbiology, methods, software, hardware"
+theme: "imageprocessing, software"
 resources: " "
 ---
 <h2> Abstract </h2>
