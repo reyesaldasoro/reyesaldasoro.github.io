@@ -1,7 +1,7 @@
 ---
 title: "Automatic Analysis of Bees’ Waggle Dance"
 collection: publications
-date: 2020-03-01
+date: 2020-11-20
 venue: bioRxiv
 authors: "Jordan Reece, Margaret Couvillon, Christoph Grüter, Francis Ratnieks, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.biorxiv.org/content/10.1101/2020.11.21.354019v1
