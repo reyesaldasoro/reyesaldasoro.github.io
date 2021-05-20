@@ -33,6 +33,8 @@
         <img src="{{ "cover_ieee_tbe.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "IEEE reviews in biomedical engineering" %}
         <img src="{{ "cover_ieee_revbe.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "arXiv" %}
+        <img src="{{ "cover_arxiv.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "medRxiv" %}
         <img src="{{ "cover_medRxiv.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Medical Engineering & Physics" %}
