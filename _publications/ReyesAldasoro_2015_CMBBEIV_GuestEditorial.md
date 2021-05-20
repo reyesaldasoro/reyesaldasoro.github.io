@@ -1,7 +1,7 @@
 ---
 title: "Special issue: medical image understanding and analysis"
 collection: publications
-date: 2018-11-02
+date: 2015-11-15
 venue: "Computer Methods in Biomechanics and Biomedical Engineering: Imaging & Visualization"
 authors: "Constantino Carlos Reyes-Aldasoro, Greg Slabaugh"
 paperurl: https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/iet-cvi.2018.5606
