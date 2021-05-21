@@ -9,7 +9,6 @@ tagline: "Research Assistant<br>Alumni, University of Sussex"
 subject: "Behavior Analysis of Ants from Video Sequences"
 date-start: 2011-05-01
 date-end:  2011-08-01
-twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro'
 theme: "imageprocessing, software"
 collaborators: ''
