@@ -3,12 +3,11 @@ title: "A Novel Focal Phi Loss for Power Line Segmentation with Auxiliary Classi
 collection: publications
 date: 2021-04-01
 venue: "Sensors (Basel)"
-authors: "Jaffari, Rabeea and Hashmani, Manzoor Ahmed and Reyes-Aldasoro, Constantino Carlos"
+authors: "Rabeea Jaffari, Manzoor Ahmed Hashmani, and Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/1424-8220/21/8/2803
 type: Paper
 doi: 10.3390/s21082803
-theme: "software,  imageprocessing"
-resources: " "
+theme: "software, imageprocessing"
 ---
 
 <h2> Abstract </h2>  <br>
