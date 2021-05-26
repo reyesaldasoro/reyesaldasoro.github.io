@@ -2,7 +2,7 @@
 title: "Radiography Classification: A Comparison between Eleven Convolutional Neural Networks"
 collection: publications
 date: 2020-10-19
-venue: "2020 Fourth International Conference on Multimedia Computing, Networking and Applications (MCNA)"
+venue: "Fourth International Conference on Multimedia Computing, Networking and Applications (MCNA)"
 authors: "Ananda, Cefa Karabağ, Aram Ter-Sarkisov, Eduardo Alonso, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://ieeexplore.ieee.org/document/9264285
 type: Conference
