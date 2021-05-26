@@ -1,5 +1,5 @@
 ---
-title: "Shape analysis and tracking of migrating macrophages"
+title: "Segmentation And Modelling of Helanuclear Envelope"
 collection: publications
 date: 2018-04-04
 venue: "ISBI"
