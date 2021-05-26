@@ -1,16 +1,16 @@
 ---
-title: "Radiography Classification: A Comparison between Eleven Convolutional Neural Networks"
+title: "Telecommunications and Internet in the future society: myths and realities"
 collection: publications
-date: 2020-10-19
-venue: "2020 Fourth International Conference on Multimedia Computing, Networking and Applications (MCNA)"
-authors: "Ananda, Cefa Karabağ, Aram Ter-Sarkisov, Eduardo Alonso, Constantino Carlos Reyes-Aldasoro"
-paperurl: https://ieeexplore.ieee.org/document/9264285
+date: 1999-07-06
+venue: "IEEE International Symposium on Computers and Communications"
+authors: "C.C. Reyes-Aldasoro, F. Kuhlmann"
+paperurl: https://ieeexplore.ieee.org/document/780763
 type: Conference
-doi: 10.1109/MCNA50957.2020.9264285
-theme: "radiology, medicalimaging"
+doi: 10.1109/ISCC.1999.780763
+theme: "imageprocessing, datamining"
 ---
 
 <h2> Abstract </h2>  <br>
-This paper investigates the classification of normal and abnormal radiographic images. Eleven convolutional neural network architectures (GoogleNet, Vgg-19, AlexNet, SqueezeNet, ResNet-18, Inception-v3, ResNet-50, Vgg-16, ResNet-101, DenseNet-201 and Inception-ResNet-v2) were used to classify a series of x-ray images from Stanford Musculoskeletal Radiographs (MURA) dataset corresponding to the wrist images of the data base. For each architecture, the results were compared against the known labels (normal / abnormal) and then the following metrics were calculated: accuracy (labels correctly classified) and Cohen's kappa (a measure of agreement) following MURA guidelines. Numerous experiments were conducted by changing classifiers (Adam, Sgdm, RmsProp), the number of epochs, with/without data augmentation. The best results were provided by InceptionResnet-v2 (Mean accuracy = 0.723, Mean Kappa = 0.506). Interestingly, these results lower than those reported in the Leaderboard of MURA. We speculate that to improve the results from basic CNN architectures several options could be tested, for instance: pre-processing, post-processing or domain knowledge, and ensembles.
+The Internet boom has led to the image of a global village, a totally communicated planet where national borders have no meaning and where the Internet and the information highway have become the path to solve any problem. Technological and scientific research has been conducted in order to exchange information through the telephone lines, which provide a solid platform for the new services related to the Internet such as E-mail, electronic commerce and Internet telephony. Non-technical issues should be taken into account in order to notice that not all the people an Earth are aware of the Internet and the new technological society. Many persons are not educated for those new technologies that are out of their reach. Indeed, even if they should be able to access a specific communications network, the new services would not be affordable for them economically and/or intellectually. This article presents indicators that magnify the problem: the gap between the rich and the poor, the educated and non-educated, the Internet-literate and illiterate. Reflections on several important issues are presented, and ultimately, the global village is questioned as a reality or just a new myth.
 
 {% include paper-research-resources.html %}
