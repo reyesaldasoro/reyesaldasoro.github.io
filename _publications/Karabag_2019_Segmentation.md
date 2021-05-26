@@ -1,7 +1,7 @@
 ---
 title: "Segmentation And Modelling of Helanuclear Envelope"
 collection: publications
-date: 2018-04-04
+date: 2019-04-08
 venue: "ISBI"
 authors: "C. Karabağ, M.L. Jones, C.J. Peddie, A.E. Weston, L.M. Collinson, C.C. Reyes-Aldasoro"
 paperurl: https://ieeexplore.ieee.org/document/8759151
