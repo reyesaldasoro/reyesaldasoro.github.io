@@ -3,7 +3,7 @@ title: "Influence of soluble or matrix-bound isoforms of vascular endothelial gr
 collection: publications
 date: 2013-12-01
 venue: "International Journal of Cancer"
-authors: "Simon Akerman,  Matthew Fisher,  Rachel A. Daniel, and Lefley, Diane and Reyes-Aldasoro, Constantino C. and Lunt, Sarah Jane and Harris, Sheila and Bjorndahl, Meit and Williams, Leigh J. and Evans, Helen and Barber, Paul R. and Prise, Vivien E. and Vojnovic, Borivoj and Kanthou, Chryso and Tozer, Gillian M."
+authors: "Simon Akerman,  Matthew Fisher,  Rachel A. Daniel, Diane Lefley, Constantino C. Reyes-Aldasoro, Sarah Jane Lunt, Sheila Harris, Meit Bjorndahl, Leigh J. Williams, Helen Evans, Paul R. Barber, Vivien E. Prise, Borivoj Vojnovic, Chryso Kanthou, Gillian M. Tozer"
 paperurl:
 type: Paper
 doi: 10.1002/ijc.28281
