@@ -3,7 +3,7 @@ title: "Segmentation and Modelling of the Nuclear Envelope of HeLa Cells Imaged 
 collection: publications
 date: 2019-09-01
 venue: "Journal of Imaging"
-authors: "Karabağ, Cefa and Jones, Martin L. and Peddie, Christopher J. and Weston, Anne E. and Collinson, Lucy M. and Reyes-Aldasoro, Constantino Carlos"
+authors: " Cefa Karabağ,  Martin L. Jones, Christopher J. Peddie,  Anne E. Weston,  Lucy M. Collinson, Reyes-Aldasoro, Constantino Carlos"
 paperurl: https://www.mdpi.com/2313-433X/5/9/75
 type: Paper
 doi: 10.3390/jimaging5090075

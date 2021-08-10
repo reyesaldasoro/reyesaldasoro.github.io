@@ -3,7 +3,7 @@ title: "The proportion of cancer-related entries in PubMed has increased conside
 collection: publications
 date: 2017-01-01
 venue: "PLoS ONE"
-authors: "Reyes-Aldasoro, Constantino Carlos"
+authors: "Constantino Carlos Reyes-Aldasoro"
 paperurl:
 type: Paper
 doi: 10.1371/journal.pone.0173671

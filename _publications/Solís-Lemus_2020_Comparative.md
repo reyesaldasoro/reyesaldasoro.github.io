@@ -3,7 +3,7 @@ title: "Comparative Study of Contact Repulsion in Control and Mutant Macrophages
 collection: publications
 date: 2020-05-01
 venue: "Journal of Imaging"
-authors: "Solís-Lemus, José Alonso and Sánchez-Sánchez, Besaiz J. and Marcotti, Stefania and Burki, Mubarik and Stramer, Brian and Reyes-Aldasoro, Constantino Carlos"
+authors: "José Alonso Solís-Lemus,  Besaiz J. Sánchez-Sánchez, Stefania Marcotti, Mubarik Burki, Brian Stramer,  Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2313-433X/6/5/36
 type: Paper
 doi: 10.3390/jimaging6050036

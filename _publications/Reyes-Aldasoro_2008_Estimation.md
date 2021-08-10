@@ -3,7 +3,7 @@ title: "Estimation of apparent tumor vascular permeability from multiphoton fluo
 collection: publications
 date: 2008-01-01
 venue: "Microcirculation"
-authors: "Reyes-Aldasoro, Constantino Carlos and Wilson, Ian and Prise, Vivien E. and Barber, Paul R. and Ameer-Beg, M. and Vojnovic, Borivoj and Cunningham, Vincent J. and Tozer, Gillian M."
+authors: "Constantino Carlos Reyes-Aldasoro, Ian Wilson, Vivien E. Prise, Paul R. Barber,  M. Ameer-Beg, Borivoj Vojnovic, Vincent J. Cunningham, Gillian M. Tozer"
 paperurl:
 type: Paper
 doi: 10.1080/10739680701436350

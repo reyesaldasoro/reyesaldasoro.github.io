@@ -3,7 +3,7 @@ title: "Measuring cellular migration with image processing"
 collection: publications
 date: 2008-06-01
 venue: "Electronics Letters"
-authors: "Reyes-Aldasoro, C. C. and Biram, D. and Tozer, G. M. and Kanthou, C."
+authors: "C. C. Reyes-Aldasoro, D. Biram, G. M. Tozer, C. Kanthou"
 paperurl: https://digital-library.theiet.org/content/journals/10.1049/el_20080943
 type: Paper
 doi: 10.1049/el:20080943

@@ -3,7 +3,7 @@ title: "Geometric differences between nuclear envelopes of Wild-type and Chlamyd
 collection: publications
 date: 2020-04-01
 venue: bioRxiv
-authors: "Karabağ, Cefa and Jones, Martin L. and Peddie, Christopher J. and Weston, Anne E. and Collinson, Lucy M. and Reyes-Aldasoro, Constantino Carlos"
+authors: "Cefa Karabağ, Martin L. Jones, Christopher J. Peddie, Anne E. Weston, Lucy M. Collinson,  Constantino Carlos Reyes-Aldasoro,"
 paperurl: https://www.biorxiv.org/content/10.1101/2020.04.02.021733v1
 type: Pre-print
 doi: 10.1101/2020.04.02.021733

@@ -3,7 +3,7 @@ title: "Volumetric texture segmentation by discriminant feature selection and mu
 collection: publications
 date: 2007-01-01
 venue: "IEEE Transactions on Medical Imaging"
-authors: "Constantino Carlos Reyes-Aldasoro, Abhir  Bhalerao "
+authors: "Constantino Carlos Reyes-Aldasoro, Abhir  Bhalerao"
 paperurl:
 type: Paper
 doi: 10.1109/TMI.2006.884637

@@ -3,7 +3,7 @@ title: "Effect of Viscosity and Speed on Oil Cavitation Development in a Single 
 collection: publications
 date: 2019-10-01
 venue: Lubricants
-authors: "Nouri, Jamshid M. and Vasilakos, Ioannis and Yan, Youyou and Reyes-Aldasoro, Constantino-Carlos"
+authors: "Jamshid M. Nouri, Ioannis Vasilakos, Youyou Yan, Constantino-Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2075-4442/7/10/88
 type: Paper
 doi: 10.3390/lubricants7100088

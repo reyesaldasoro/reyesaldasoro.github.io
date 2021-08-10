@@ -3,7 +3,7 @@ title: "Making densenet interpretable a case study in clinical radiology"
 collection: publications
 date: 2019-12-01
 venue: medRxiv
-authors: "Ngan, Kwun Ho and Garcez, Artur d’Avila and Knapp, Karen M. and Appelboam, Andy and Reyes-Aldasoro, Constantino Carlos"
+authors: "Kwun Ho Ngan, Artur d’Avila Garcez, Karen M. Knapp, Andy Appelboam, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.medrxiv.org/content/10.1101/19013730v1
 type: Pre-print
 doi: 10.1101/19013730

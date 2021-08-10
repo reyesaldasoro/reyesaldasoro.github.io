@@ -3,7 +3,7 @@ title: "The Bhattacharyya space for feature selection and its application to tex
 collection: publications
 date: 2006-05-01
 venue: "Pattern Recognition"
-authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
+authors: "Constantino Carlos Reyes-Aldasoro, Abhir  Bhalerao"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0031320305004590
 type: Paper
 doi: 10.1016/j.patcog.2005.12.003

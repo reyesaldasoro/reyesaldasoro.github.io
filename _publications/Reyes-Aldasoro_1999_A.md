@@ -3,7 +3,7 @@ title: "A hybrid model based on dynamic programming, neural networks, and surrog
 collection: publications
 date: 1999-01-01
 venue: "Journal of the Operational Research Society"
-authors: "Reyes-Aldasoro, C. C. and Ganguly, A. R. and Lemus, G. and Gupta, A."
+authors: "C. C. Reyes-Aldasoro, A. R. Ganguly, G. Lemus, A. and Gupta"
 paperurl: https://doi.org/10.1057/palgrave.jors.2600658
 type: Paper
 doi: https://doi.org/10.1057/palgrave.jors.2600658

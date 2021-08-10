@@ -3,7 +3,7 @@ title: "Tumour cells expressing single VEGF isoforms display distinct growth, su
 collection: publications
 date: 2014-01-01
 venue: "PLoS ONE"
-authors: "Kanthou, Chryso and Dachs, Gabi U. and Lefley, Diane V. and Steele, Andrew J. and Coralli-Foxon, Claudia and Harris, Sheila and Greco, Olga and Dos Santos, Sofia A. and Reyes-Aldasoro, Constantino C. and English, William R. and Tozer, Gillian M."
+authors: "Chryso Kanthou, Gabi U. Dachs,  Diane V. Lefley, Andrew J. Steele, Claudia Coralli-Foxon, Sheila  Harris, Olga Greco, Sofia A. Dos Santos,  Constantino C. Reyes-Aldasoro, William R. English, Gillian M. Tozer"
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104015
 type: Paper
 doi: 10.1371/journal.pone.0104015

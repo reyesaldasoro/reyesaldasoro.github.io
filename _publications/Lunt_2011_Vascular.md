@@ -3,7 +3,7 @@ title: "Vascular effects dominate solid tumor response to treatment with combret
 collection: publications
 date: 2011-10-01
 venue: "International Journal of Cancer"
-authors: "Lunt, Sarah Jane and Akerman, Simon and Hill, Sally A. and Fisher, Matthew and Wright, Victoria J. and Reyes-Aldasoro, Constantino C. and Tozer, Gillian M. and Kanthou, Chryso"
+authors: "Sarah Jane Lunt, Simon Akerman, Sally A. Hill, Matthew Fisher, Victoria J. Wright,  Constantino C. Reyes-Aldasoro, Gillian M. Tozer,  and Chryso Kanthou"
 paperurl: https://onlinelibrary.wiley.com/doi/full/10.1002/ijc.25848
 type: Paper
 doi: 10.1002/ijc.25848

@@ -3,7 +3,7 @@ title: "CAIMAN an online algorithm repository for Cancer Image Analysis"
 collection: publications
 date: 2011-08-01
 venue: "Computer Methods and Programs in Biomedicine"
-authors: "Reyes-Aldasoro, Constantino Carlos and Griffiths, Michael K. and Savas, Deniz, Gillian M. Tozer"
+authors: "Constantino Carlos Reyes-Aldasoro, Michael K. Griffiths, Deniz Savas, Gillian M. Tozer"
 paperurl:
 type: Paper
 doi: 10.1016/j.cmpb.2010.07.007

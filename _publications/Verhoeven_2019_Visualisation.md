@@ -3,7 +3,7 @@ title: "Visualisation and Analysis of Speech Production with Electropalatography
 collection: publications
 date: 2019-03-01
 venue: "Journal of Imaging"
-authors: "Verhoeven, Jo and Miller, Naomi Rachel and Daems, Luc and Reyes-Aldasoro, Constantino Carlos"
+authors: "Jo Verhoeven, Naomi Rachel Miller, Luc Daems, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2313-433X/5/3/40
 type: Paper
 doi: 10.3390/jimaging5030040

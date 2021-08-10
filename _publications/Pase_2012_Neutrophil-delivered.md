@@ -3,7 +3,7 @@ title: "Neutrophil-delivered myeloperoxidase dampens the hydrogen peroxide burst
 collection: publications
 date: 2012-10-01
 venue: "Current Biology"
-authors: "Pase, Luke and Layton, Judith E. and Wittmann, Christine and Ellett, Felix and Nowell, Cameron J. and Reyes-Aldasoro, Constantino Carlos and Varma, Sony and Rogers, Kelly L. and Hall, Chris J. and Keightley, M. Cristina and Crosier, Philip S. and Grabher, Clemens and Heath, Joan K., Stephen A.  Renshaw, Graham J.  Lieschke"
+authors: "Luke Pase, Judith E. Layton, Christine Wittmann, Felix Ellett, Cameron J. Nowell, Constantino Carlos Reyes-Aldasoro, Sony Varma, Kelly L. Rogers, Chris J. Hall, M. Cristina Keightley, Philip S. Crosier, Clemens Grabher, Joan K. Heath, Stephen A.  Renshaw, Graham J.  Lieschke"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0960982212009189
 type: Paper
 doi: 10.1016/j.cub.2012.07.060

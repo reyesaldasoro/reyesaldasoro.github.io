@@ -3,7 +3,7 @@ title: "Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Eng
 collection: publications
 date: 2015-06-12
 venue: "Wiley"
-authors: "Reyes-Aldasoro, C. C."
+authors: "C. C. Reyes-Aldasoro"
 paperurl: https://www.wiley.com/en-gb/Biomedical+Image+Analysis+Recipes+in+MATLAB:+For+Life+Scientists+and+Engineers-p-9781118657553
 type: Book
 doi: 10.1002/9781118657546

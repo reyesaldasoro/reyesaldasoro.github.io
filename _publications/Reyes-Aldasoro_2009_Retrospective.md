@@ -3,7 +3,7 @@ title: "Retrospective shading correction algorithm based on signal envelope esti
 collection: publications
 date: 2009-04-01
 venue: "Electronics Letters"
-authors: "Reyes-Aldasoro, C. C."
+authors: "C.C. Reyes-Aldasoro"
 paperurl: https://digital-library.theiet.org/content/journals/10.1049/el.2009.0320
 type: Paper
 doi: 10.1049/el.2009.0320

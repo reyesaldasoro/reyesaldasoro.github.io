@@ -3,7 +3,7 @@ title: "The neutrophil's eye-view inference and visualisation of the chemoattrac
 collection: publications
 date: 2012-01-01
 venue: "PLoS ONE"
-authors: "Kadirkamanathan, Visakan and Anderson, Sean R. and Billings, Stephen A. and Zhang, Xiliang and Holmes, Geoffrey R. and Reyes-Aldasoro, Constantino C. and Elks, Philip M. and Renshaw, Stephen A."
+authors: " Visakan Kadirkamanathan,  Sean R. Anderson,  Stephen A. Billings,  Xiliang Zhang,  Geoffrey R. Holmes, Constantino C.  Reyes-Aldasoro, Philip M. Elks,  Stephen A. Renshaw,"
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0035182
 type: Paper
 doi: 10.1371/journal.pone.0035182

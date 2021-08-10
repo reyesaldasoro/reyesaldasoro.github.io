@@ -3,7 +3,7 @@ title: "Volumetric texture description and discriminant feature selection for MR
 collection: publications
 date: 2003-07-01
 venue: "Information Processing in Medical Imaging"
-authors: "Reyes-Aldasoro, Constantino Carlos and Bhalerao, Abhir"
+authors: "Constantino Carlos Reyes-Aldasoro, Abhir  Bhalerao"
 paperurl:
 type: Conference
 doi: 10.1007/978-3-540-45087-0_24

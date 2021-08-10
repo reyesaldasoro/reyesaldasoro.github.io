@@ -3,7 +3,7 @@ title: "Online chromatic and scale-space microvessel-tracing analysis for transm
 collection: publications
 date: 2012-11-01
 venue: "Microvascular Research"
-authors: "Reyes-Aldasoro, Constantino Carlos and Björndahl, Meit A. and Akerman, Simon and Ibrahim, Jamila and Griffiths, Michael K. and Tozer, Gillian M."
+authors: "Constantino Carlos Reyes-Aldasoro, Meit A. Björndahl, Simon Akerman, Jamila Ibrahim, Michael K. Griffiths, Gillian M. Tozer"
 paperurl:
 type: Paper
 doi: 10.1016/j.mvr.2012.09.002

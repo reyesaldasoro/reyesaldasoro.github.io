@@ -3,7 +3,7 @@ title: "A combined algorithm for image segmentation using neural networks and 3D
 collection: publications
 date: 2000-01-01
 venue: "Revista Mexicana de Ingeniería Biomédica"
-authors: "Reyes-Aldasoro, Constantino Carlos and Algorri, M. E."
+authors: "Constantino Carlos Reyes-Aldasoro,  M. E. Algorri"
 paperurl: https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=3164
 type: Paper
 doi:

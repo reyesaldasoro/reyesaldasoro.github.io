@@ -3,7 +3,7 @@ title: "Maternal Hyperleptinemia Is Associated with Male Offspring's Altered Vas
 collection: publications
 date: 2016-01-01
 venue: "PLoS ONE"
-authors: "Pennington, Kathleen A. and Ramirez-Perez, Francisco I. and Pollock, Kelly E. and Talton, Omonseigho O. and Foote, Christopher A. and Reyes-Aldasoro, Constantino C. and Wu, Ho-Hsiang and Ji, Tieming and Martinez-Lemus, Luis A. and Schulz, Laura C."
+authors: "Kathleen A. Pennington, Francisco I. Ramirez-Perez, Kelly E. Pollock, Omonseigho O. Talton, Christopher A. Foote, Constantino C. Reyes-Aldasoro, Ho-Hsiang Wu, Tieming Ji, Luis A. Martinez-Lemus, Laura C. Schulz"
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155377
 type: Paper
 doi: 10.1371/journal.pone.0155377

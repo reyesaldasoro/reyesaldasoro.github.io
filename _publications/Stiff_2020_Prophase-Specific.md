@@ -3,7 +3,7 @@ title: "Prophase-Specific Perinuclear Actin Coordinates Centrosome Separation an
 collection: publications
 date: 2020-05-01
 venue: "Cell Reports"
-authors: "Stiff, Tom and Echegaray-Iturra, Fabio R. and Pink, Harry J. and Herbert, Alex and Reyes-Aldasoro, Constantino Carlos and Hochegger, Helfrid"
+authors: "Tom Stiff, Fabio R. Echegaray-Iturra, Harry J. Pink, Alex Herbert, Constantino Carlos Reyes-Aldasoro,  Helfrid Hochegger"
 paperurl:
 type: Paper
 doi: 10.1016/j.celrep.2020.107681

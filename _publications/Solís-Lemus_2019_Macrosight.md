@@ -3,7 +3,7 @@ title: "Macrosight A Novel Framework to Analyze the Shape and Movement of Intera
 collection: publications
 date: 2019-01-01
 venue: "Journal of Imaging"
-authors: "Solís-Lemus, José Alonso and Stramer, Brian and Slabaugh, Greg and Reyes-Aldasoro, Constantino Carlos"
+authors: "José Alonso Solís-Lemus, Brian Stramer, Greg Slabaugh, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2313-433X/5/1/17
 type: Paper
 doi: 10.3390/jimaging5010017

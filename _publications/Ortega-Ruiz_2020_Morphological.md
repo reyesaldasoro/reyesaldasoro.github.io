@@ -3,7 +3,7 @@ title: "Morphological Estimation of Cellularity on Neo-Adjuvant Treated Breast C
 collection: publications
 date: 2020-10-01
 venue: "Journal of Imaging"
-authors: "Ortega-Ruiz, Mauricio Alberto and Karabağ, Cefa and Garduño, Victor García and Reyes-Aldasoro, Constantino Carlos"
+authors: "Mauricio Alberto Ortega-Ruiz, Cefa  Karabağ, Victor García Garduño, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2313-433X/6/10/101
 type: Paper
 doi: 10.3390/jimaging6100101
