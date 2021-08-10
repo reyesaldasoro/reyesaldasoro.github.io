@@ -3,7 +3,7 @@ title: "Experimental Assessment of Color Deconvolution and Color Normalization f
 collection: publications
 date: 2020-11-01
 venue: Cancers
-authors: "Bianconi, Francesco and Kather, Jakob N. and Reyes-Aldasoro, Constantino Carlos"
+authors: "Francesco Bianconi,  Jakob N. Kather, Constantino Carlos  Reyes-Aldasoro"
 paperurl:
 type: Paper
 doi: 10.3390/cancers12113337

@@ -3,7 +3,7 @@ title: "Repelled from the wound, or randomly dispersed? Reverse migration behavi
 collection: publications
 date: 2012-12-01
 venue: "Journal of the Royal Society Interface"
-authors: "Holmes, Geoffrey R. and Anderson, Sean R. and Dixon, Giles and Robertson, Anne L. and Reyes-Aldasoro, Constantino Carlos, Stephen A. Billings, Stephen A. Renshaw,  and Kadirkamanathan, Visakan"
+authors: "Geoffrey R. Holmes,   Sean R. Anderson, Giles Dixon, Anne L. Robertson, Constantino Carlos Reyes-Aldasoro,  Stephen A. Billings, Stephen A. Renshaw,  Visakan Kadirkamanathan"
 paperurl: https://royalsocietypublishing.org/doi/10.1098/rsif.2012.0542
 type: Paper
 doi: 10.1098/rsif.2012.0542

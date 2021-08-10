@@ -3,8 +3,8 @@ title: "Arterial Stiffening in Western Diet-Fed Mice Is Associated with Increase
 collection: publications
 date: 2016-01-01
 venue: "Frontiers in Physiology"
-authors: "Foote, Christopher A. and Castorena-Gonzalez, Jorge A. and Ramirez-Perez, Francisco I. and Jia, Guanghong and Hill, Michael A. and Reyes-Aldasoro, Constantino C. and Sowers, James R.,  Luis A. Martinez-Lemus,"
-paperurl:
+authors: " Christopher A. Foote,  Jorge A. Castorena-Gonzalez,  Francisco I. Ramirez-Perez,  Guanghong Jia,  Michael A. Hill,  Constantino C.  Reyes-Aldasoro,  James R. Sowers,  Luis A. Martinez-Lemus,"
+paperurl: https://www.frontiersin.org/articles/10.3389/fphys.2016.00285/full
 type: Paper
 doi: 10.3389/fphys.2016.00285
 theme: "circulation, software, medicalimaging"

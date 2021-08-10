@@ -3,7 +3,7 @@ title: "A hybrid energy model for region based curve evolution - Application to 
 collection: publications
 date: 2017-06-01
 venue: "Computer Methods and Programs in Biomedicine"
-authors: "Jawaid, Muhammad Moazzam and Rajani, Ronak and Liatsis, Panos and Reyes-Aldasoro, Constantino Carlos and Slabaugh, Greg"
+authors: " Muhammad Moazzam Jawaid,  Ronak Rajani, Panos  Liatsis,  Constantino Carlos Reyes-Aldasoro,  Greg Slabaugh"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0169260716314298
 type: Paper
 doi: 10.1016/j.cmpb.2017.03.020

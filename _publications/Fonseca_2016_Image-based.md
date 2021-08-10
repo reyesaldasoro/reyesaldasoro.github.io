@@ -3,7 +3,7 @@ title: "Image-based investigation into the primary fabric of stress-transmitting
 collection: publications
 date: 2016-10-01
 venue: "Soils and Foundations"
-authors: "Fonseca, J. and Nadimi, S. and Reyes-Aldasoro, C. C. and O׳Sullivan, C. and Coop, M. R."
+authors: "J. Fonseca,   S. Nadimi,  C. C. Reyes-Aldasoro, C.  O׳Sullivan,  M. R. Coop"
 paperurl: https://www.sciencedirect.com/science/article/pii/S0038080616300920
 type: Paper
 doi: 10.1016/j.sandf.2016.08.007

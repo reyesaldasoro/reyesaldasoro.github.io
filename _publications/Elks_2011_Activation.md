@@ -3,7 +3,7 @@ title: "Activation of hypoxia-inducible factor-1α (Hif-1α) delays inflammation
 collection: publications
 date: 2011-07-01
 venue: "Blood"
-authors: "Elks, Philip M. and van Eeden, Fredericus J. and Dixon, Giles and Wang, Xingang and Reyes-Aldasoro, Constantino Carlos and Ingham, Philip W. and Whyte, Moira K. B. and Walmsley, Sarah R.,   Stephen A. Renshaw"
+authors: "Philip M. Elks, Fredericus J.  van Eeden,  Giles Dixon,  Xingang Wang,  Constantino Carlos Reyes-Aldasoro,  Philip W. Ingham,  Moira K. B. Whyte,  Sarah R.  Walmsley,   Stephen A. Renshaw"
 paperurl:
 type: Paper
 doi: 10.1182/blood-2010-12-324186

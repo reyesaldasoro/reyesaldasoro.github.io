@@ -3,7 +3,7 @@ title: "Radiography Classification: A Comparison between Eleven Convolutional Ne
 collection: publications
 date: 2020-10-19
 venue: "Fourth International Conference on Multimedia Computing, Networking and Applications (MCNA)"
-authors: "Ananda, Cefa Karabağ, Aram Ter-Sarkisov, Eduardo Alonso, Constantino Carlos Reyes-Aldasoro"
+authors: "Ananda Ananda, Cefa Karabağ, Aram Ter-Sarkisov, Eduardo Alonso, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://ieeexplore.ieee.org/document/9264285
 type: Conference
 doi: 10.1109/MCNA50957.2020.9264285

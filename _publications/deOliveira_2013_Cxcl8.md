@@ -3,7 +3,7 @@ title: "Cxcl8 (IL-8) mediates neutrophil recruitment and behavior in the zebrafi
 collection: publications
 date: 2013-04-01
 venue: "Journal of Immunology"
-authors: "de Oliveira, Sofia and Reyes-Aldasoro, Constantino C. and Candel, Sergio and Renshaw, Stephen A. and Mulero, Victoriano and Calado, Angelo"
+authors: "Sofia de Oliveira, Constantino C. Reyes-Aldasoro,  Sergio Candel,  Stephen A. Renshaw,  Victoriano  Mulero, Angelo Calado"
 paperurl: https://www.jimmunol.org/content/190/8/4349
 type: Paper
 doi: 10.4049/jimmunol.1203266
