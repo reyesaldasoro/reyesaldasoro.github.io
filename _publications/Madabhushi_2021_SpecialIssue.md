@@ -3,7 +3,7 @@ title: "Special Issue on Computational Pathology: An Overview"
 collection: publications
 date: 2021-06-01
 venue: "Medical Image Analysis"
-authors: Anant Madabhushi,  Constantino Carlos Reyes-Aldasoro"
+authors: Anant Madabhushi,  Constantino Carlos Reyes-Aldasoro
 paperurl: https://www.sciencedirect.com/science/article/pii/S1361841521001973
 type: Paper
 doi: 10.1016/j.media.2021.102151
