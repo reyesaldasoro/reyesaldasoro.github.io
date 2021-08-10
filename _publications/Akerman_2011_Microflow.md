@@ -3,7 +3,7 @@ title: "Microflow of fluorescently labelled red blood cells in tumours expressin
 collection: publications
 date: 2011-09-01
 venue: "Medical Engineering & Physics"
-authors: "Akerman, Simon and Reyes-Aldasoro, Constantino Carlos and Fisher, Matthew and Pettyjohn, Katie L. and Björndahl, Meit A. and Evans, Helen,  Gillian M. Tozer"
+authors: "Simon Akerman, Constantino Carlos Reyes-Aldasoro,  Matthew Fisher, Katie L.  Pettyjohn,  Meit A. Björndahl,  Helen Evans,  Gillian M. Tozer"
 paperurl:
 type: Paper
 doi: 10.1016/j.medengphy.2010.09.006
