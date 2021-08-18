@@ -8,7 +8,8 @@ header:
   teaser: circulation.jpg
 layout: archive
 ---
-{::options parse_block_html="true" /}
+
+
 
 <h2> Circulation and Microcirculation </h2>
 
