@@ -17,11 +17,10 @@ I have worked with experiments that investigate the circulation of cells at a mi
 
 <div style="text-align: center">
 <img src='tracing2.png' style='width: 25%'>
-</div>
+<img src='r50_proj_seg_tra.jpg' style='width: 25%'>
+<img src='Figure6CD31.jpg' style='width: 25%'>
 
-#  <p><img src="tracing2.png" alt="Trulli2" style="width:30%"></p>
-#<img src="r50_proj_seg_tra.jpg" alt="Trulli3" style="width:30%">
-# <img src="Figure6CD31.jpg" alt="Trulli4" style="width:30%">
+</div>
 
 {% include theme-team-members.html %}
 {% include theme-collaborators-members.html %}
