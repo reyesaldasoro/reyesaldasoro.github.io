@@ -13,9 +13,9 @@ layout: archive
 
 I have worked with experiments that investigate the circulation of cells at a microscopic level looking at cells as they move through vasculature and also at a macroscopic level analysing vascular function and vascular shapes.
 
-![Screenshot1](../images/tracing2.png)
-![Screenshot1](../images/r50_proj_seg_tra.jpg)
-![Screenshot1](../images/Figure6CD31.jpg)
+![Screenshot1](tracing2.png)
+![Screenshot1](r50_proj_seg_tra.jpg)
+![Screenshot1](Figure6CD31.jpg)
 
 
 
