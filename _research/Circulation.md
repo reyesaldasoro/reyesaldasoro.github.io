@@ -17,7 +17,7 @@ I have worked with experiments that investigate the circulation of cells at a mi
 ![Screenshot1](r50_proj_seg_tra.jpg)
 ![Screenshot1](Figure6CD31.jpg)
 
-
+ <img src="Figure6CD31.jpg" alt="Trulli" style="width:30%">
 
 {% include theme-team-members.html %}
 {% include theme-collaborators-members.html %}
