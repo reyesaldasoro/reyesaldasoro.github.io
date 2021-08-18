@@ -16,7 +16,7 @@ I have worked with experiments that investigate the circulation of cells at a mi
 
 
 <div style="text-align: center">
-<img src='images/tracing2.png' style='width: 25%'>
+<img src='../images/tracing2.png' style='width: 25%'>
 <img src='images/r50_proj_seg_tra.jpg' style='width: 25%'>
 <img src='images/Figure6CD31.jpg' style='width: 25%'>
 </div>
