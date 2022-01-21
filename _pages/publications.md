@@ -7,11 +7,11 @@ author_profile: true
 {% include base_path %}
 
 
-You can find the complete publication list on this <a href="https://scholar.google.co.uk/citations?hl=en&user=DLbXRxoAAAAJ&view_op=list_works">
-<span style="color:gray">Google Scholar profile</span></a>.
+You can find the complete publication list on my -> <a href="https://scholar.google.co.uk/citations?hl=en&user=DLbXRxoAAAAJ&view_op=list_works">
+<span style="color:gray">Google Scholar profile</span></a> <-.
 
 For a list of pre-prints on   bio<font color="red">R</font>xiv and med<font color="red">R</font>xiv,    
-please check the <a href="https://rxivist.org/authors/317101"> <span style="color:gray">Rxivist profile</span></a>.
+please check my -> <a href="https://rxivist.org/authors/317101"> <span style="color:gray">Rxivist profile</span></a> <-.
 
 <h2> Books, Edited Books, Book Chapters</h2>
 
