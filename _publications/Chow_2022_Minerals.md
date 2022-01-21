@@ -1,16 +1,16 @@
 ---
-title: "Microflow of fluorescently labelled red blood cells in tumours expressing single isoforms of VEGF and their response to vascular targeting agents"
+title: "Automatic Gemstone Classification Using Computer Vision"
 collection: publications
-date: 2011-09-01
-venue: "Medical Engineering & Physics"
-authors: "Simon Akerman, Constantino Carlos Reyes-Aldasoro,  Matthew Fisher, Katie L.  Pettyjohn,  Meit A. Björndahl,  Helen Evans,  Gillian M. Tozer"
-paperurl:
+date: 2021-12-31
+venue: "Minerals"
+authors: "Bona Hiu Yan Chow, Constantino Carlos Reyes-Aldasoro,"
+paperurl: https://www.mdpi.com/2075-163X/12/1/60
 type: Paper
-doi: 10.1016/j.medengphy.2010.09.006
-theme: "cancer, cell migration, software, circulation"
+doi:  10.3390/min12010060
+theme: "imageprocessing"
 resources: " "
 ---
-<h2> Abstract </h2>  <br> In this work we studied the functional differences between the microcirculation of murine tumours that express only single isoforms of vascular endothelial growth factor-A (VEGF), namely VEGF120 and VEGF188, and the effect of VEGF receptor tyrosine kinase (VEGF-R TK) inhibition on their functional response to the vascular disrupting agent, combretastatin A-4 phosphate (CA-4-P), using measurement of red blood cell (RBC) velocity by a 'keyhole' tracking algorithm. RBC velocities in VEGF188 tumours were unaffected by chronic treatment with a VEGF-R tyrosine kinase inhibitor, SU5416, whereas RBC velocities in VEGF120 tumours were significantly increased compared to control VEGF120 tumours. This effect was accompanied by a reduced tumour vascularisation. Pre-treatment of VEGF120 tumours with SU5416 made them much more resistant to CA-4-P treatment, with a RBC velocity response that was very similar to that of the more mature vasculature of the VEGF188 tumours. This study shows that vascular normalisation following anti-angiogenic treatment with a VEGF-R tyrosine kinase inhibitor reduced the response of a previously sensitive tumour line to CA-4-P.
+<h2> Abstract </h2>  <br> This paper presents a computer-vision-based methodology for automatic image-based classification of 2042 training images and 284 unseen (test) images divided into 68 categories of gemstones. A series of feature extraction techniques (33 including colour histograms in the RGB, HSV and CIELAB space, local binary pattern, Haralick texture and grey-level co-occurrence matrix properties) were used in combination with different machine-learning algorithms (Logistic Regression, Linear Discriminant Analysis, K-Nearest Neighbour, Decision Tree, Random Forest, Naive Bayes and Support Vector Machine). Deep-learning classification with ResNet-18 and ResNet-50 was also investigated. The optimal combination was provided by a Random Forest algorithm with the RGB eight-bin colour histogram and local binary pattern features, with an accuracy of 69.4% on unseen images; the algorithms required 0.0165 s to process the 284 test images. These results were compared against three expert gemmologists with at least 5 years of experience in gemstone identification, who obtained accuracies between 42.6% and 66.9% and took 42–175 min to classify the test images. As expected, the human experts took much longer than the computer vision algorithms, which in addition provided, albeit marginal, higher accuracy. Although these experiments included a relatively low number of images, the superiority of computer vision over humans is in line with what has been reported in other areas of study, and it is encouraging to further explore the application in gemmology and related areas.
 
 
 {% include paper-research-resources.html %}
