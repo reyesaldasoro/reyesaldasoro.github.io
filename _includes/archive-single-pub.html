@@ -151,6 +151,8 @@
         <img src="{{ "cover_rmib.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Medical Image Analysis" %}
         <img src="{{ "cover_MedIA.gif" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Lecture Notes in Computer Science" %}
+          <img src="{{ "cover_LNCS.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
