@@ -15,7 +15,7 @@ layout: archive
 
 I have worked with experiments that investigate the circulation of cells at different levels. <br>
 
-At a macroscopic level, the analysing of images of dorsal skin chamger allow the visualisation of implanted tumours where the vasculature is clearly visible. This allows the analysis of vascular function and vascular shapes, and the many changes that can happen when substances are administrated. <br>
+At a macroscopic level, the analysing of images of dorsal skin chambers allow the visualisation of implanted tumours where the vasculature is clearly visible. This allows the analysis of vascular function and vascular shapes, and the many changes that can happen when substances are administrated. <br>
 
 At a microscopic level, we can focus on cells as they move through vasculature; then we can see their routes, and the velocities at which they travel, and how these change when substances enter the vessels. <br>
 
