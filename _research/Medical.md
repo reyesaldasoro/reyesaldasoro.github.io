@@ -20,9 +20,9 @@ In addition to image-processing of images that are microscopical in nature, I ha
 
 
 <div style="text-align: center">
-<img src='../../images/geometricXrays.png'         style='width: 75%'> <br> <br>
-<img src='../../images/texture4.jpg'         style='width: 75%'> <br> <br>
-  <img src='../../images/texture6.jpg'         style='width: 75%'> <br> <br>
+<img src='../../images/geometricXrays.png'         style='width: 75%'> <br> <br><br>
+<img src='../../images/texture4.jpg'         style='width: 75%'> <br> <br><br>
+  <img src='../../images/texture6.jpg'         style='width: 75%'> <br> <br><br>
 </div>
 
 
