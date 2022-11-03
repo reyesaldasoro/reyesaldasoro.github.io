@@ -12,11 +12,13 @@ layout: archive
 
 <h2> Image Processing  </h2>
 
-Separate from work in medical and biomedical datasets, I have worked with a variety of other images, from gemstones, to human faces. <br>
+Separate from work in medical and biomedical datasets, I have worked with a variety of other images, from gemstones to human faces to ants and bees! <br>
 
 <div style="text-align: center">
-<img src='../../images/gemsMinerals.png'         style='width: 45%'> <br> <br>
+<img src='../../images/gemsMinerals.png'         style='width: 85%'> <br> <br>
 <img src='../../images/pittHopkins.jpg' style='width: 45%'> <br> <br>
+<img src='../../images/Ants6.gif' style='width: 45%'> <br> <br>
+  
 </div>
  
 
