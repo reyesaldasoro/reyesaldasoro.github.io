@@ -9,6 +9,20 @@ header:
 layout: archive
 ---
 
+
+
+<h2> Phonetics </h2>
+
+In collaboration with Jo Verhoeven, we have been analysing the patterns that emerge during speech using electropalatography. <br>
+
+
+
+<div style="text-align: center">
+<img src='../../images/FigureCompetition4.jpg' style='width: 45%'> <br> <br>
+<img src='../../images/phonetics.gif' style='width: 45%'> <br> <br>  
+</div>
+
+
 {% include theme-team-members.html %}
 {% include theme-collaborators-members.html %}
 {% include publication-list-theme.html %}
