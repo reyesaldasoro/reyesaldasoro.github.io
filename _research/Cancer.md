@@ -22,7 +22,7 @@ At a macroscopic level, the analysing of images of dorsal skin chamger allow the
 
 At a microscopic level, we can focus on cells as they move through vasculature; then we can see their routes, and the velocities at which they travel, and how these change when substances enter the vessels. <br>
 
-
+Research in this area is closely related to Microcirculation and Cell Migration; please explore the other research pages and the publications below. <br>
 
 <div style="text-align: center">
 <img src='../../images/Nuclear_envelope_of_one_cancerous_HeLa_cell.png'         style='width: 45%'> <br> <br>
