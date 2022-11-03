@@ -26,6 +26,7 @@ Research in this area is closely related to Microcirculation and Cell Migration;
 <div style="text-align: center">
 <img src='../../images/Nuclear_envelope_of_one_cancerous_HeLa_cell.png'         style='width: 65%'> <br> <br>
 <img src='../../images/cancerGrowth.png'         style='width: 65%'> <br> <br>
+<img src='../../images/cancer.jpg'         style='width: 65%'> <br> <br>  
 </div>
 
 
