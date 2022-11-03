@@ -18,7 +18,7 @@ Separate from work in medical and biomedical datasets, I have worked with a vari
 <img src='../../images/gemsMinerals.png'         style='width: 85%'> <br> <br>
 <img src='../../images/PittHopkins.jpg' style='width: 45%'> <br> <br>
 <img src='../../images/Ants6.gif' style='width: 45%'> <br> <br>
-  
+ <img src='../../images/ShellInSandSample2.jpg' style='width: 45%'> <br> <br> 
 </div>
  
 
