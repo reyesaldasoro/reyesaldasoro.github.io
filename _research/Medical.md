@@ -14,7 +14,7 @@ layout: archive
 
 <h2> Medical Imaging </h2>
 
-I group together here the work that is not microscopical in nature, that is the research performed in images acquired with magnetic resonance, computed tomography and x-rays. <br>
+In addition to image-processing of images that are microscopical in nature, I have experience with other acquisition modalities like magnetic resonance, computed tomography and x-rays. <br>
 
 
 
