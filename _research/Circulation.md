@@ -26,7 +26,7 @@ At a microscopic level, we can focus on cells as they move through vasculature; 
 <img src='../../images/r50_proj_seg_tra.jpg' style='width: 45%'> <br> <br>
 <img src='../../images/Figure6CD31.jpg'      style='width: 45%'>
 </div>
-
+ 
 
 {% include theme-team-members.html %}
 {% include theme-collaborators-members.html %}
