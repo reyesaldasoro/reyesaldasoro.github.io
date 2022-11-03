@@ -2,7 +2,7 @@
 title: "Asymmetries in speech articulation as reflected on palatograms: A meta-study"
 collection: publications
 date: 2019-08-01
-venue: "Proceedings of the 19th International Congress of Phonetic Sciences,"
+venue: "Proceedings of the 19th International Congress of Phonetic Sciences"
 authors: "Jo Verhoeven, Peter Mariën, Ilke De Clerck, Luc Daems, Constantino Carlos Reyes-Aldasoro, Naomi Rachel Miller"
 paperurl: https://openaccess.city.ac.uk/id/eprint/22692/   
 type: Conference
