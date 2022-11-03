@@ -19,10 +19,13 @@ Many of the experiments were conducted in animal models in  dorsal skin chambers
 
 I have also done volumetric analysis of cells as observed with electron microscopy. These images allow an exquisite detail to be observed in the cells and the three dimensional approach provides very interesting details of cells that are lost when only one slice is observed. <br>
 
+Besides images, I have also done data mining of PubMed and other databases to analyse the changes in research. Interestingly, cancer-related publications have grown from 6% to more than 16% in 70 years.
+
 Research in this area is closely related to Microcirculation and Cell Migration; please explore the other research pages and the publications below. <br>
 
 <div style="text-align: center">
-<img src='../../images/Nuclear_envelope_of_one_cancerous_HeLa_cell.png'         style='width: 45%'> <br> <br>
+<img src='../../images/Nuclear_envelope_of_one_cancerous_HeLa_cell.png'         style='width: 65%'> <br> <br>
+<img src='../../images/cancerGrowth.png'         style='width: 65%'> <br> <br>
 </div>
 
 
