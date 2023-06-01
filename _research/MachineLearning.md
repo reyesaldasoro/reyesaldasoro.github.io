@@ -13,7 +13,7 @@ layout: archive
 
 <h2> Machine Learning, AI, Deep Learning </h2>
 
-I have worked in the areas of Machine Learning, AI, Deep Learning for some time. Some of my first publications back in 1999 and 2000 were on Neural Networks, which were rather simple as compared with recent work. <br>
+I have worked in the areas of Machine Learning, AI, Deep Learning for some time. Some of my first publications back in 1999 and 2000 were on Neural Networks, which were rather simple (as shown in the architecture of the paper in Journal of Operations Research, 2000 shown below!) as compared with recent work. <br>
 
 
 
