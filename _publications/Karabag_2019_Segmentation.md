@@ -1,5 +1,5 @@
 ---
-title: "Segmentation And Modelling of Helanuclear Envelope"
+title: "Segmentation And Modelling of HeLa Nuclear Envelope"
 collection: publications
 date: 2019-04-08
 venue: "ISBI"

@@ -7,7 +7,7 @@ authors: "Rabeea Jaffari, Manzoor Ahmed Hashmani, Constantino Carlos Reyes-Aldas
 paperurl: https://www.mdpi.com/1424-8220/21/8/2803
 type: Paper
 doi: 10.3390/s21082803
-theme: "software, imageprocessing"
+theme: "software, imageprocessing, ML_AI_DL"
 ---
 
 <h2> Abstract </h2>  <br>

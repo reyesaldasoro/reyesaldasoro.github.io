@@ -7,7 +7,7 @@ authors: Youssef Arafat,  Constantino Carlos Reyes-Aldasoro"
 paperurl: https://link.springer.com/chapter/10.1007/978-3-031-12053-4_61
 type: Paper
 doi: 10.1007/978-3-031-12053-4_61
-theme: "cancer, medicalimaging"
+theme: "cancer, medicalimaging, ML_AI_DL"
 ---
 <h2> Abstract </h2>   <br>  
 Background: Cancer-related research, as indicated by the number of entries in Medline, the National Library of Medicine of the USA, has dominated the medical literature. An important component of this research is based on the use of computational techniques to analyse the data produced by the many acquisition modalities. This paper presents a review of the computational image analysis techniques that have been applied to cancer. The review was performed through automated mining of Medline/PubMed entries with a combination of keywords. In addition, the programming languages and software platforms through which these techniques are applied were also reviewed.

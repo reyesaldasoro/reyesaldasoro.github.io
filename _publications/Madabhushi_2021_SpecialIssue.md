@@ -7,7 +7,7 @@ authors: Anant Madabhushi,  Constantino Carlos Reyes-Aldasoro
 paperurl: https://www.sciencedirect.com/science/article/pii/S1361841521001973
 type: Paper
 doi: 10.1016/j.media.2021.102151
-theme: "cancer, computationalpathology"
+theme: "cancer, computationalpathology, ML_AI_DL"
 ---
 <h2> Abstract </h2>   <br>  
 The field of Digital Pathology has grown considerably in the past few years. The early years focused primarily on the scanning and remote viewing of histopathological images. However, as the use of tele-pathology has become widespread, the emphasis on digital pathology has increasingly moved towards the application of image analysis and artificial intelligence techniques to maximize the meaningful information that can be extracted from tissue sample with the final aim of aiding the diagnosis of the pathologist. Interestingly, with advancements in computational algorithms for digital pathology, the types of problems that researchers have embarked on have evolved from focusing solely on decision support for the pathologist to also to begin to prognosticate disease outcome, predict tumor biology and also therapeutic response.

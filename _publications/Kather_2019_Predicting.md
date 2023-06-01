@@ -7,7 +7,7 @@ authors: "Jakob Nikolas Kather, Johannes Krisam, Pornpimol Charoentong, Tom Lued
 paperurl: https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002730
 type: Paper
 doi: 10.1371/journal.pmed.1002730
-theme: "cancer, computational pathology, software"
+theme: "cancer, computational pathology, software, ML_AI_DL"
 resources: " "
 ---
 

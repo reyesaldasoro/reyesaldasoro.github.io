@@ -7,7 +7,7 @@ authors: "Ananda Ananda, Kwun Ho Ngan, Cefa Karabağ, Aram Ter-Sarkisov, Eduardo
 paperurl: https://www.mdpi.com/1424-8220/21/16/5381
 type: Journal
 doi: 10.3390/s21165381
-theme: "radiology, medicalimaging"
+theme: "radiology, medicalimaging, ML_AI_DL"
 ---
 
 <h2> Abstract </h2>  <br>

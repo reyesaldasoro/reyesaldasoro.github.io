@@ -7,7 +7,7 @@ authors: "Nathan Olliverre, Guang Yang, Greg Slabaugh,  Constantino Carlos Reyes
 paperurl: https://link.springer.com/chapter/10.1007/978-3-030-00536-8_14
 type: Conference
 doi: 10.1007/978-3-030-00536-8_14
-theme: "software, medicalimaging"
+theme: "software, medicalimaging, ML_AI_DL"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>

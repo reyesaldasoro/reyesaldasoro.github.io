@@ -7,7 +7,7 @@ authors: "Adam White, Kwun Ho Ngan, James Phelan, Kevin Ryan, Saman Sadeghi Afge
 paperurl: https://link.springer.com/article/10.1007/s10994-023-06333-w#citeas
 type: Paper
 doi: 10.1007/s10994-023-06333-w
-theme: "imageprocessing, machineLearning"
+theme: "imageprocessing, ML_AI_DL"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>

@@ -7,7 +7,7 @@ authors: "Riad Ibadulla, Thomas M. Chen, Constantino Carlos Reyes-Aldasoro"
 paperurl:
 type: Pre-print
 doi:  10.48550/arXiv.2210.16914
-theme: "imageprocessing"
+theme: "imageprocessing, ML_AI_DL"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>

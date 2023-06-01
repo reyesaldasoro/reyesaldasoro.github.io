@@ -6,7 +6,7 @@ venue: arXiv
 authors: "Ajna Ram, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://arxiv.org/abs/2004.03624
 type: Pre-print
-theme: "imageprocessing, medicalimaging"
+theme: "imageprocessing, medicalimaging, ML_AI_DL"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>

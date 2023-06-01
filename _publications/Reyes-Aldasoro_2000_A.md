@@ -7,7 +7,7 @@ authors: "Constantino Carlos Reyes-Aldasoro,  M. E. Algorri"
 paperurl: https://www.medigraphic.com/cgi-bin/new/resumenI.cgi?IDARTICULO=3164
 type: Paper
 doi:
-theme: "software, medicalimaging"
+theme: "software, medicalimaging, ML_AI_DL"
 resources: " "
 ---
 

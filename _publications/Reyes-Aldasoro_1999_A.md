@@ -7,7 +7,7 @@ authors: "C. C. Reyes-Aldasoro, A. R. Ganguly, G. Lemus, A. and Gupta"
 paperurl: https://doi.org/10.1057/palgrave.jors.2600658
 type: Paper
 doi: https://doi.org/10.1057/palgrave.jors.2600658
-theme: "datamining, software"
+theme: "datamining, software, ML_AI_DL"
 resources: " "
 ---
 
