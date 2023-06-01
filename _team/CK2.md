@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: CK.jpg
 tags: "post-doc"
-tagline: "Honorary Research Fellow"
+tagline: "Lecturer in Computer Science"
 subject: "Volumetric Analysis of HeLa cells observed with Electron Microscopy"
 date-start: 2020-10-01
 date-end:  2023-09-01
