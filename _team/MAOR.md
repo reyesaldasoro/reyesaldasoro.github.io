@@ -12,7 +12,7 @@ date-end:  2020-09-01
 twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Edgar Roman-Rangel'
 collaborators: 'Jakob Kather'
-theme: "cancer"
+theme: "cancer, ML_AI_DL"
 email: 'mauricio.ortega@city.ac.uk'
 cv: ''
 ---

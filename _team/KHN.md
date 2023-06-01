@@ -13,7 +13,7 @@ twitter: 'khngan4'
 supervisors: "Dr Constantino Carlos Reyes-Aldasoro and Dr Artur D'Avila Garcez"
 collaborators: 'Karen Knapp'
 email: 'kwun-ho.ngan@city.ac.uk'
-theme: "medicalimaging"
+theme: "medicalimaging, ML_AI_DL"
 cv: ''
 ---
 {::options parse_block_html="true" /}

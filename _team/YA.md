@@ -12,7 +12,7 @@ date-end:  2020-09-01
 twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Rob Noble'
 collaborators: ''
-theme: "medicalimaging, cancer"
+theme: "medicalimaging, cancer, ML_AI_DL"
 email: ''
 cv: ''
 ---

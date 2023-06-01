@@ -12,7 +12,7 @@ date-end:  2020-09-01
 twitter: ''
 supervisors: 'Prof Tom Chen and  Constantino Carlos Reyes-Aldasoro'
 collaborators: ''
-theme: "imageprocessing, medicalimaging"
+theme: "imageprocessing, medicalimaging, ML_AI_DL"
 email: ''
 cv: ''
 ---
