@@ -155,6 +155,8 @@
           <img src="{{ "cover_LNCS.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "AI" %}
           <img src="{{ "cover_AI_mdpi.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Oncology News" %}
+              <img src="{{ "cover_oncologyNews.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% endif %}
