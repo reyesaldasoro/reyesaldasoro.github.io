@@ -12,7 +12,7 @@ email: 'c.kanthou@sheffield.ac.uk'
 orcid: https://orcid.org/0000-0002-5643-4743
 uri: https://www.sheffield.ac.uk/medicine/research/research-themes/cancer
 googlescholar: https://scholar.google.com/citations?hl=en&user=2IfKC1AAAAAJ
-theme: "cancer, microcirculation"
+theme: "cancer, microcirculation, microscopy"
 ---
 <p align= "justify">
 

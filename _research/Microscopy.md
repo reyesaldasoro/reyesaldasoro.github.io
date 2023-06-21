@@ -18,7 +18,7 @@ I have worked with data from Electron, Light, Fluorescence, Confocal and Multiph
 
 
 <div style="text-align: center">
-<img src='../../images/SheffMicroscopes.jpg' style='width: 45%'> <br> <br>
+<img src='../../images/SheffMicroscopes.jpg' style='width: 65%'> <br> <br>
 </div>
 
 {% include theme-team-members.html %}
