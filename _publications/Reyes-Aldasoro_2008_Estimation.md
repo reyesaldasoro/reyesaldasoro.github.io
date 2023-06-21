@@ -7,7 +7,7 @@ authors: "Constantino Carlos Reyes-Aldasoro, Ian Wilson, Vivien E. Prise, Paul R
 paperurl:
 type: Paper
 doi: 10.1080/10739680701436350
-theme: "cancer, cell migration, software, circulation"
+theme: "cancer, cell migration, software, circulation, microscopy"
 resources: " "
 ---
 <h2> Abstract </h2>  <br> OBJECTIVE: To develop an image processing-based method to quantify the rate of extravasation of fluorescent contrast agents from tumor microvessels, and to investigate the effect of the tumor vascular disrupting agent combretastatin A-4-P (CA-4-P) on apparent tumor vascular permeability to 40 kDa fluorescein isothiocyanate (FITC) labeled dextra"

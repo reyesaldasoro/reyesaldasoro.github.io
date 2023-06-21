@@ -7,7 +7,7 @@ authors: "C. Karabağ, M.L. Jones, C.J. Peddie, A.E. Weston, L.M. Collinson, C.C
 paperurl: https://ieeexplore.ieee.org/document/8759151
 type: Conference
 doi: 10.1109/ISBI.2019.8759151
-theme: "cancer, medicalimaging"
+theme: "cancer, medicalimaging, microscopy"
 resources: " "
 ---
 <h2> Abstract </h2>  <br>
