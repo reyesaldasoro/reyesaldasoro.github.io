@@ -10,7 +10,7 @@ tagline: "School of Medicine, University of Sheffield"
 subject: "Professor in Tumour Vascular Biology at the University of Sheffield School of Medicine"
 email: 'c.kanthou@sheffield.ac.uk'
 uri: https://www.researchgate.net/profile/Gillian-Tozer-2
-theme: "cancer, microcirculation"
+theme: "cancer, microcirculation, microscopy"
 ---
 <p align= "justify">
 
