@@ -1,11 +1,11 @@
 ---
-title: "Machine Learning, AI, Deep Learning"
+title: "Microscopy"
 type: "ML_AI_DL"
 collection: research
 date: 2013-09-01
 author_profile: true
 header:
-  teaser: ML_AI_DL.png
+  teaser: SheffMicroscopes.jpg
 layout: archive
 ---
 
