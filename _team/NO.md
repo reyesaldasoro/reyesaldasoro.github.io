@@ -4,7 +4,7 @@ authorname: "NO"
 collection: team
 header:
   teaser: NO.jpg
-tags: phd
+tags: alumni
 tagline: "PhD Student<br>City, University of London"
 subject: "Multi-Voxel MR Spectroscopy Analysis of Brain Tumour Patients"
 date-start: 2017-10-01
