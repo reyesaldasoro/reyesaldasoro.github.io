@@ -1,8 +1,8 @@
 ---
 title: "Analysis of immune cell function using in vivo cell shape analysis and tracking"
 collection: publications
-date: 2008-01-01
-venue: "Journal of Microscopy"
+date: 2009-09-07
+venue: "4th IAPR International Conference on Pattern Recognition in Bioinformatics"
 authors: "C. C. Reyes-Aldasoro, Y Zhao, D Coca, S. A. Billings, V. Kadirkamanathan, G. M. Tozer, S. A. Renshaw"
 paperurl: https://openaccess.city.ac.uk/id/eprint/4647
 type: Conference
