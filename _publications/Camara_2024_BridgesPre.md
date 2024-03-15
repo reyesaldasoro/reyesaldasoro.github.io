@@ -5,7 +5,7 @@ date: 2024-01-09
 venue: "Engrxiv"
 authors: "Alfredo Camara, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://engrxiv.org/preprint/view/3465
-type: Conference
+type: Pre-print
 doi: 10.31224/3465
 theme: "imageprocessing, ML_AI_DL"
 ---
