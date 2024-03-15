@@ -163,8 +163,14 @@
           <img src="{{ "cover_MachineLearning.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
       {% elsif post.venue == "Geomechanics from Micro to Macro" %}
           <img src="{{ "cover_Geomatics.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
-      {% elsif post.venue == " Journal of King Saud University-Computer and Information Sciences" %}
+      {% elsif post.venue == "Journal of King Saud University-Computer and Information Sciences" %}
           <img src="{{ "cover_JKSU.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Engrxiv" %}
+          <img src="{{ "cover_engrxiv.png" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "IEEE Access" %}
+          <img src="{{ "cover_Access.jpg" | prepend: "/images/" | prepend: base_path }}" alt="">
+      {% elsif post.venue == "Frontiers in Aging Neuroscience" %}
+          <img src="{{ "cover_frontiers.png" | prepend: "/images/" | prepend: base_path }}" alt="">
 
       {% else %}
         <img src="{{ "journal.png" | prepend: "/images/" | prepend: base_path }}" alt="">
