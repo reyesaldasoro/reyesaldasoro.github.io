@@ -20,18 +20,13 @@ I have been teaching for a long *long* time and I have delivered many *many* mod
  * EE3505 	Computer Systems and Networks
  * EE2425  	Object-Oriented Programming
 
- <h3>UNAM Instituto de Investigacines Biomedicas (2016)</h3>
+ <h2> Matlab: Four Matlab tutorials based on the book <a href="https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9651&itemId=1118657551">
+Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</a>.</h2>
 
-* Biomedical Image Analysis with Matlab  
-
-
-<p>Four Matlab tutorials based on the book <a href="https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9651&itemId=1118657551">
-Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</a>.</p>
-
-* Tutorial 1: Introduction to Matlab</h4>
+* Tutorial 1: Introduction to Matlab
 <space><space> * <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.m"> Matlab File </a>
-* <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.pdf"> PDF File </a>
-* <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a>
+<space><space> * <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.pdf"> PDF File </a>
+<space><space> * <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a>
 <br><br>
 
 
@@ -55,6 +50,9 @@ Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</
 <li><a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_PublicationQualityFigures.html"> HTML File </a></li>
 <br><br>
 
+<h3>UNAM Instituto de Investigacines Biomedicas (2016)</h3>
+
+* Biomedical Image Analysis with Matlab  
 
 
 <h3>BMVA Summer School</h3>
