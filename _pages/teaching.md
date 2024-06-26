@@ -20,13 +20,13 @@ I have been teaching for a long *long* time and I have delivered many *many* mod
  * EE3505 	Computer Systems and Networks
  * EE2425  	Object-Oriented Programming
 
-  ### Matlab: Four Matlab tutorials based on the book <a href="https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9651&itemId=1118657551">
-Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</a>.</h2>
+## Matlab: Four Matlab tutorials based on the book <a href="https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9651&itemId=1118657551">
+Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</a>.
 
 ### Tutorial 1: Introduction to Matlab
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.m"> Matlab File </a>
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.pdf"> PDF File </a>
-####  <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a>
+#### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a>
 <br><br>
 
 ## Tutorial 2: Introduction to 1D Signals
@@ -36,9 +36,9 @@ Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</
 <br><br>
 
 ### Tutorial 3: Images in Matlab
-####<a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.m"> Matlab File </a>
-####<a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.pdf"> PDF File </a>
-####<a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.html"> HTML File </a>
+#### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.m"> Matlab File </a>
+#### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.pdf"> PDF File </a>
+#### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.html"> HTML File </a>
 <br><br>
 
 
