@@ -25,7 +25,8 @@ I have been teaching for a long *long* time and I have delivered many *many* mod
 * Biomedical Image Analysis with Matlab  
 
 
-<p>The material used in the Matlab Data Science Preparation Session can be accessed here.</p>
+<p>Four Matlab tutorials based on the book <a href="https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9651&itemId=1118657551">
+Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</a>.</p>
 
 <h2> Tutorial 1: Introduction to Matlab</h2>
 <li><a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.m"> Matlab File </a></li>
