@@ -27,26 +27,25 @@ Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.m"> Matlab File </a>
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.pdf"> PDF File </a>
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a>
-<br><br>
+<br>
 
-## Tutorial 2: Introduction to 1D Signals
+### Tutorial 2: Introduction to 1D Signals
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_1D_SignalsInMatlab.m"> Matlab File </a>
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_1D_SignalsInMatlab.pdf"> PDF File </a>
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_1D_SignalsInMatlab.html"> HTML File </a>
-<br><br>
+<br>
 
 ### Tutorial 3: Images in Matlab
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.m"> Matlab File </a>
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.pdf"> PDF File </a>
 #### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_ImagesInMatlab.html"> HTML File </a>
-<br><br>
-
+<br>
 
 ### Tutorial 4: Publication-Quality Figures in Matlab
-####<a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_PublicationQualityFigures.m"> Matlab File </a>
-####<a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_PublicationQualityFigures.pdf"> PDF File </a>
-####<a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_PublicationQualityFigures.html"> HTML File </a>
-<br><br>
+#### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_PublicationQualityFigures.m"> Matlab File </a>
+#### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_PublicationQualityFigures.pdf"> PDF File </a>
+#### <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_PublicationQualityFigures.html"> HTML File </a>
+<br>
 
 
 <h3>UNAM Instituto de Investigacines Biomedicas (2016)</h3>
