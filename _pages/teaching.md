@@ -24,6 +24,38 @@ I have been teaching for a long *long* time and I have delivered many *many* mod
 
 * Biomedical Image Analysis with Matlab  
 
+
+<p>The material used in the Matlab Data Science Preparation Session can be accessed here.</p>
+
+<h2> Tutorial 1: Introduction to Matlab</h2>
+<li><a href="tutorials/Tutorial_IntroductionToMatlab.m"> Matlab File </a></li>
+<li><a href="tutorials/Tutorial_IntroductionToMatlab.pdf"> PDF File </a></li>
+<li><a href="tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a></li>
+<br><br>
+
+
+
+<h2> Tutorial 2: Introduction to 1D Signals</h2>
+<li><a href="tutorials/Tutorial_1D_SignalsInMatlab.m"> Matlab File </a></li>
+<li><a href="tutorials/Tutorial_1D_SignalsInMatlab.pdf"> PDF File </a></li>
+<li><a href="tutorials/Tutorial_1D_SignalsInMatlab.html"> HTML File </a></li>
+<br><br>
+
+<h2> Tutorial 3: Images in Matlab</h2>
+<li><a href="tutorials/Tutorial_ImagesInMatlab.m"> Matlab File </a></li>
+<li><a href="tutorials/Tutorial_ImagesInMatlab.pdf"> PDF File </a></li>
+<li><a href="tutorials/Tutorial_ImagesInMatlab.html"> HTML File </a></li>
+<br><br>
+
+
+<h2> Tutorial 4: Publication-Quality Figures in Matlab </h2>
+<li><a href="tutorials/Tutorial_PublicationQualityFigures.m"> Matlab File </a></li>
+<li><a href="tutorials/Tutorial_PublicationQualityFigures.pdf"> PDF File </a></li>
+<li><a href="tutorials/Tutorial_PublicationQualityFigures.html"> HTML File </a></li>
+<br><br>
+
+
+
 <h3>BMVA Summer School</h3>
 
 * Introduction to Biomedical Imaging
