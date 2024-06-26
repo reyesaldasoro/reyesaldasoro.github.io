@@ -28,10 +28,10 @@ I have been teaching for a long *long* time and I have delivered many *many* mod
 <p>Four Matlab tutorials based on the book <a href="https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=9651&itemId=1118657551">
 Biomedical Image Analysis Recipes in MATLAB: For Life Scientists and Engineers</a>.</p>
 
-<h4> Tutorial 1: Introduction to Matlab</h4>
-* <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.m"> Matlab File </a>
+* Tutorial 1: Introduction to Matlab</h4>
+<space><space> * <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.m"> Matlab File </a>
 * <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.pdf"> PDF File </a>
- *<a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a>
+* <a href="http://www.staff.city.ac.uk/~sbbk034/tutorials/Tutorial_IntroductionToMatlab.html"> HTML File </a>
 <br><br>
 
 
