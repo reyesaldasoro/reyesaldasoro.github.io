@@ -19,9 +19,9 @@ image_sliders:
 ### About Me
 
 
-I am a Senior Lecturer at the School of Engineering and Mathematical Sciences at [City, University of London](https://www.city.ac.uk/). I am part of the [Department of Computer Science](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/computer-science) within the school of School of Mathematics, Computer Science & Engineering. I am a member of the [giCentre](https://www.gicentre.net/) and my research focus is on the analysis, interpretation and visualisation of data, primarily related with biomedical experimentation.
+I am a Senior Lecturer at the School of Science and Technology at [City St George's, University of London](https://www.city.ac.uk/). I am part of the [Department of Computer Science](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/computer-science). I am a member of the [giCentre](https://www.gicentre.net/) and my research focus is on the analysis, interpretation and visualisation of data, primarily related with biomedical experimentation.
 
-I have supervised to completion 8 Ph.D. students (Yin, Blazakis, Solis-Lemus, Jawaid, Leandrou, Karabag, Olliverre, Ananda) and I am currently supervising 5 (Ibadulla, Arafat, Ortega-Ruiz, Aden, Selvarathnam). 
+I have supervised to completion 8 Ph.D. students (Yin, Blazakis, Solis-Lemus, Jawaid, Leandrou, Karabag, Olliverre, Ananda) and I am currently supervising 5, 3 as first supervisor (Ibadulla, Arafat, Ortega-Ruiz) and 2 as second supervisor (Aden, Selvarathnam).
 
 
 
