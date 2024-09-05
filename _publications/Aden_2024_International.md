@@ -1,8 +1,8 @@
 ---
 title: "International Classification of Diseases Prediction from MIMIIC-III Clinical Text Using Pre-Trained ClinicalBERT and NLP Deep Learning Models Achieving State of the Art"
 collection: publications
-date: 2021-12-31
-venue: "Minerals"
+date: 2024-05-10
+venue: "Big Data and Cognitive Computing"
 authors: "Ilyas Aden, Christopher H T Child, Constantino Carlos Reyes-Aldasoro,"
 paperurl: https://www.mdpi.com/2504-2289/8/5/47
 type: Paper
