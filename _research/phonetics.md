@@ -13,13 +13,13 @@ layout: archive
 
 <h2> Phonetics </h2>
 
-In collaboration with Jo Verhoeven, we have been analysing the patterns that emerge during speech using electropalatography. <br>
+Analysis and visualisation of phonetics datasets. In collaboration with Jo Verhoeven, we have been analysing the patterns that emerge during speech using electropalatography and micro-computed tomography. <br>
 
 
 
 <div style="text-align: center">
-<img src='../../images/FigureCompetition4.jpg' style='width: 45%'> <br> <br>
 <img src='../../images/phonetics.gif' style='width: 45%'> <br> <br>  
+<img src='../../images/FigureCompetition4.jpg' style='width: 45%'> <br> <br>
 </div>
 
 
