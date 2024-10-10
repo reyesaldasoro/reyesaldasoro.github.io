@@ -12,7 +12,7 @@ layout: archive
 
 <h2> Cell Migration </h2>
 
-I have significant experience in analysing the movement of red blood cells in dorsal skin chambers and white blood cells, especially neutrophils and macrophages moving in zebrafish embryos. This experience has been also used in tracking small crustaceans and even cars.
+I have significant experience in the processing, visualsation and analysis of the movement of red blood cells in dorsal skin chambers and white blood cells, especially neutrophils and macrophages moving in zebrafish embryos. This experience has been also used in tracking small crustaceans and even cars.
 <br>
 
 
