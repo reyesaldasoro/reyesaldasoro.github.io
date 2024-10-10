@@ -13,7 +13,7 @@ layout: archive
 
 <h2> Cancer </h2>
 
-I have significant experience in analysing data from cancer-related experiments as observed with a variety of techniques; from light microscopy to fluorescence to multiphoton microscopy to electron microscopy. <br>
+I have significant experience in processing, analysing and visualising data from cancer-related experiments as observed with a variety of techniques; from light microscopy to fluorescence to multiphoton microscopy to electron microscopy. <br>
 
 Many of the experiments were conducted in animal models in  dorsal skin chambers, which allow in vivo repeated observations. Others were from tissue extracted and immunostained for CD31, H&E and other stains. <br>
 
