@@ -13,7 +13,7 @@ layout: archive
 
 <h2> Phonetics </h2>
 
-Analysis and visualisation of phonetics datasets. In collaboration with Jo Verhoeven, we have been analysing the patterns that emerge during speech using electropalatography and micro-computed tomography. <br>
+I have experience in processing, visualising and analysing multimodal datasets that are obtained from phonetics. In collaboration with Jo Verhoeven, we have been analysing the patterns that emerge during speech using electropalatography and micro-computed tomography. <br>
 
 
 
