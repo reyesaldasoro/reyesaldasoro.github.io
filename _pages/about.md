@@ -21,7 +21,7 @@ image_sliders:
 
 I am a Senior Lecturer at the School of Science and Technology at [City St George's, University of London](https://www.city.ac.uk/). I am part of the [Department of Computer Science](https://www.city.ac.uk/about/schools/mathematics-computer-science-engineering/computer-science). I am a member of the [giCentre](https://www.gicentre.net/) and [CitAI St George's](https://cit-ai.net/) my research focus is on the processing, analysis, interpretation and visualisation of data, primarily related with biomedical experimentation.
 
-I have supervised to completion 8 Ph.D. students (Yin, Blazakis, Solis-Lemus, Jawaid, Leandrou, Karabag, Olliverre, Ananda) and I am currently supervising 5, 4 as first supervisor (Ibadulla, Arafat, Ortega-Ruiz, Brito-Pacheco) and 2 as second supervisor (Aden, Selvarathnam).
+I have supervised to completion 8 Ph.D. students (Yin, Blazakis, Solis-Lemus, Jawaid, Leandrou, Karabag, Olliverre, Ananda) and I am currently supervising 6, 4 as first supervisor (Ibadulla, Arafat, Ortega-Ruiz, Brito-Pacheco) and 2 as second supervisor (Aden, Selvarathnam).
 
 
 
