@@ -3,7 +3,7 @@ title: "Computational Image Analysis Techniques, Programming Languages and Softw
 collection: publications
 date: 2022-07-25
 venue: "Lecture Notes in Computer Science"
-authors: Youssef Arafat,  Constantino Carlos Reyes-Aldasoro"
+authors: "Youssef Arafat,  Constantino Carlos Reyes-Aldasoro"
 paperurl: https://link.springer.com/chapter/10.1007/978-3-031-12053-4_61
 type: Paper
 doi: 10.1007/978-3-031-12053-4_61

@@ -3,7 +3,7 @@ title: "Fibre tracing in biomedical images: An objective comparison between seve
 collection: publications
 date: 2025-04-10
 venue: "PLOS One"
-authors: Youssef Arafat,   Cristina Cuesta-Apausa, Esther Castellano, Constantino Carlos Reyes-Aldasoro"
+authors: "Youssef Arafat,   Cristina Cuesta-Apausa, Esther Castellano, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0320006
 type: Paper
 doi: 10.1371/journal.pone.0320006
