@@ -3,7 +3,7 @@ title: "International Classification of Diseases Prediction from MIMIIC-III Clin
 collection: publications
 date: 2024-05-10
 venue: "Big Data and Cognitive Computing"
-authors: "Ilyas Aden, Christopher H T Child, Constantino Carlos Reyes-Aldasoro,"
+authors: "Ilyas Aden, Christopher H T Child, Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2504-2289/8/5/47
 type: Paper
 doi:  10.3390/bdcc8050047
