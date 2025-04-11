@@ -3,7 +3,7 @@ title: "FatNet: High-Resolution Kernels for Classification Using Fully Convoluti
 collection: publications
 date: 2023-03-01
 venue: "AI"
-authors: Riad Ibadulla, Thomas M. Chen,  Constantino Carlos Reyes-Aldasoro"
+authors: "Riad Ibadulla, Thomas M. Chen,  Constantino Carlos Reyes-Aldasoro"
 paperurl: https://www.mdpi.com/2673-2688/4/2/18
 type: Paper
 doi: 10.3390/ai4020018
