@@ -3,7 +3,7 @@ title: "Pulses of Class I PI3kinase activity identify the release and recapture 
 collection: publications
 date: 2024-02-29
 venue: "bioRxiv"
-authors: Clare Felicia Muir, Constantino Carlos Reyes-Aldasoro, Felix Ellett, Tomasz Prajsnar, Yin Xin Ho, Audrey Bernut, Catherine A Loynes, Stone Elworthy, Kieran A Bowden, Ashley J Cadby, Lynne Prince, Jason S King, Alison M Condliffe, Stephen Renshaw"
+authors: "Clare Felicia Muir, Constantino Carlos Reyes-Aldasoro, Felix Ellett, Tomasz Prajsnar, Yin Xin Ho, Audrey Bernut, Catherine A Loynes, Stone Elworthy, Kieran A Bowden, Ashley J Cadby, Lynne Prince, Jason S King, Alison M Condliffe, Stephen Renshaw"
 paperurl: https://www.biorxiv.org/content/10.1101/2024.02.29.582694v1.abstract
 type: Pre-Print
 doi: 10.1101/2024.02.29.582694
