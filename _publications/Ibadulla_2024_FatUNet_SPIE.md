@@ -3,7 +3,7 @@ title: "Fat-U-Net: Non-Contracting U-Net for Free-Space Optical Neural Networks"
 collection: publications
 date: 2024-01-09
 venue: "AI and Optical Data Sciences V"
-authors: Riad Ibadulla, Constantino Carlos Reyes-Aldasoro, Thomas M. Chen"
+authors: "Riad Ibadulla, Constantino Carlos Reyes-Aldasoro, Thomas M. Chen"
 paperurl: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12903/1290308/Fat-U-Net--non-contracting-U-Net-for-free/10.1117/12.3008618.short
 type: Conference
 doi: 10.1117/12.3008618
