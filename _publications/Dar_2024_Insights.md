@@ -3,7 +3,7 @@ title: "Insights from EEG analysis of evoked memory recalls using deep learning 
 collection: publications
 date: 2024-07-24
 venue: "Scientific Reports"
-authors: "Muhammad Najam Dar, Muhammad Usman Akram, Ahmad Rauf Subhani, Sajid Gul Khawaja, Constantino Carlos Reyes-Aldasoro,  Sarah Gul",
+authors: "Muhammad Najam Dar, Muhammad Usman Akram, Ahmad Rauf Subhani, Sajid Gul Khawaja, Constantino Carlos Reyes-Aldasoro,  Sarah Gul"
 paperurl: https://www.nature.com/articles/s41598-024-61832-7
 type: Paper
 doi: 10.1038/s41598-024-61832-77
