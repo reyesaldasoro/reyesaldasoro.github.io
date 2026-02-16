@@ -7,7 +7,7 @@ author_profile: true
 
 <h2> Address information </h2>
 <br>
-giCentre, Department of Computer Science<br>
+Department of Computer Science<br>
 School of Mathematics, Computer Science and Engineering<br>
 City, University of London<br>
 280 St John St, Greater, London EC1V 4PB<br>
