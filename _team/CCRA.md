@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: CCRA.png
 tags: PI
-tagline: Senior Lecturer in Biomedical Image Analysis
+tagline: Reader in Biomedical Image Analysis
 date: 2021-05-06
 email: 'reyes@city.ac.uk'
 cv: ""
