@@ -5,7 +5,7 @@ date: 2026-01-15
 venue: "AI History and Basics: From Symbolism to Neural Networks"
 authors: "Constantino Carlos Reyes-Aldasoro, Eduardo Alonso"
 paperurl:
-type: Paper
+type: Book Chapter
 doi: 10.1007/978-3-032-05080-9_1
 theme: "Machine Learning"
 resources: " "
