@@ -6,7 +6,7 @@ header:
   teaser: ACC.jpg
 tags: collaborator
 date-start: 2001-01-01
-tagline: "Profesor Titular (equivalent to Senior Lecturer) at Universidad Politecnica de Madrid"
+tagline: "Profesor Titular Universidad Politecnica de Madrid"
 subject: "Computational Mechanics"
 email: 'alfredo.camara@upm.es'
 googlescholar: https://scholar.google.com/citations?user=Wx8tJGMAAAAJ&hl=en
