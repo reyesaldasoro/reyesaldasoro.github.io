@@ -7,8 +7,8 @@ header:
 tags: "alumni"
 tagline: "PhD Student<br>Alumni, City, University of London"
 subject: "Volumetric Analysis of HeLa cells observed with Electron Microscopy"
-date-start: 2017-10-01
-date-end:  2020-09-01
+date-start: 2014-06-01
+date-end:  2021-06-01
 twitter: 'KarabagCefa'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: 'Martin Jones and Lucy Collinson'

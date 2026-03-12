@@ -7,8 +7,8 @@ header:
 tags: phd
 tagline: "PhD Student<br> City, University of London"
 subject: "Analysis of Histopathological Images"
-date-start: 2017-10-01
-date-end:  2020-09-01
+date-start: 2021-04-01
+date-end:  2025-08-01
 twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Rob Noble'
 collaborators: ''

@@ -7,8 +7,8 @@ header:
 tags: "post-doc"
 tagline: "Lecturer in Computer Science"
 subject: "Volumetric Analysis of HeLa cells observed with Electron Microscopy"
-date-start: 2020-10-01
-date-end:  2023-09-01
+date-start: 2021-10-01
+date-end:  2022-09-01
 twitter: 'KarabagCefa'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: 'Martin Jones and Lucy Collinson'

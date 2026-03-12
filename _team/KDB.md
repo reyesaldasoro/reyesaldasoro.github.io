@@ -7,8 +7,8 @@ header:
 tags: PhD
 tagline: "PhD Student<br>Alumni, City, University of London"
 subject: "Topological and Geometric Analysis of HeLa cells"
-date-start: 2015-10-01
-date-end:  2019-09-01
+date-start: 2023-02-01
+date-end:  2023-08-01
 twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Panos Giannopoulous'
 collaborators: 'Martin Jones'

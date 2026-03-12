@@ -7,8 +7,8 @@ header:
 tags: alumni
 tagline: "PhD Student<br>Alumni, City, University of London"
 subject: " Detection, Localization and Quantification of Non-Calcified Coronary Plaques in Contrast Enhanced CTA"
-date-start: 2017-10-01
-date-end:  2020-09-01
+date-start: 2014-10-01
+date-end:  2027-09-01
 twitter: ''
 supervisors: 'Dr Greg Slabaugh and Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: ''
