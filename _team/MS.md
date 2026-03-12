@@ -14,7 +14,7 @@ linkedin: ''
 supervisors: 'Prof Muttukrishnan Rajarajan and Dr Constantino Carlos Reyes-Aldasoro'
 collaborators: ''
 email: ''
-theme: "MachineLearning"
+theme: "ML_AI_DL"
 cv: ''
 ---
 {::options parse_block_html="true" /}
