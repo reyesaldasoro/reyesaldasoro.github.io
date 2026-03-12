@@ -3,7 +3,7 @@ title: "Daniel Brito-Pacheco"
 authorname: "DBP"
 collection: team
 header:
-  teaser: DBP.png
+  teaser: DBP.jpg
 tags: phd
 tagline: "PhD Student<br>, City, University of London"
 subject: "Application of Geometric, Topological and Artificial Intelligence Techniques for the Analysis of Two and Three Dimensional Biomedical Images"
