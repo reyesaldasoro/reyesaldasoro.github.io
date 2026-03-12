@@ -8,7 +8,7 @@ tags: collaborator
 date-start: 2001-01-01
 tagline: "Professor Manuel Salto-Tellez (MD-LMS, FRCPath, FRCPI) is the Professor of Integrative Pathology at The Institute for Cancer Research, London"
 subject: "Cancer"
-email: 'alfredo.camara@upm.es'
+email: 'manuel.salto-tellez@icr.ac.uk'
 uri: https://www.icr.ac.uk/research-and-discoveries/find-a-researcher/test-researcher-profile-detail/professor-manuel-salto-tellez
 theme: "cancer"
 ---
