@@ -7,8 +7,8 @@ header:
 tags: alumni
 tagline: "PhD Student<br>Alumni, University of Sussex"
 subject: "Computational methods of cell motility with applications to neutrophil migration"
-date-start: 2017-10-01
-date-end:  2020-09-01
+date-start: 2012-10-01
+date-end:  2014-09-01
 twitter: ''
 supervisors: 'Prof Anotida Madzvamuse and Dr Constantino Carlos Reyes-Aldasoro'
 theme: "cell migration, software"

@@ -1,6 +1,6 @@
 ---
 title: "Riad Ibadulla"
-authorname: "NO"
+authorname: "RI"
 collection: team
 header:
   teaser: RI.jpg
