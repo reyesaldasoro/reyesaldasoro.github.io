@@ -3,7 +3,7 @@ title: "Ananda Ananda"
 authorname: "AA"
 collection: team
 header:
-  teaser: AA.jpg
+  teaser: AA.png
 tags: alumni
 tagline: "PhD Student<br>City, University of London"
 subject: "Analysis of fractures with radiographs"
