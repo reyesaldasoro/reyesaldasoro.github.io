@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: DBP.jpg
 tags: phd
-tagline: "PhD Student<br>, City, University of London"
+tagline: "PhD Student,<br> City St George's, University of London"
 subject: "Application of Geometric, Topological and Artificial Intelligence Techniques for the Analysis of Two and Three Dimensional Biomedical Images"
 date-start: 2024-10-01
 date-end:  2028-09-30
