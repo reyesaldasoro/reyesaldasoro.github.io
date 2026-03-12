@@ -45,25 +45,26 @@ author_profile: true
 </div>
 
 <hr-bold>
-<h2>Internship students</h2>
-<hr><br>
-<div class="grid">
-<div class="wrapper">
-  {% for post in site.team %}
-    {% if post.tags contains 'internship' %}
-      {% include archive-single-proj.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-</div>
-</div>
-
-<hr-bold>
 <h2>Alumni</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
   {% for post in site.team %}
     {% if post.tags contains 'alumni' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+</div>
+</div>
+
+
+<hr-bold>
+<h2>Internship students</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team %}
+    {% if post.tags contains 'internship' %}
       {% include archive-single-proj.html type="grid" %}
     {% endif %}
   {% endfor %}
