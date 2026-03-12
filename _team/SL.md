@@ -1,14 +1,14 @@
 ---
 title: "Stephanos Leandrou"
-authorname: "NO"
+authorname: "SL"
 collection: team
 header:
-  teaser: NO.jpg
+  teaser: SL.jpg
 tags: alumni
 tagline: "PhD Student<br>City, University of London"
 subject: "Quantitative texture analysis on MRI in the assessment of Alzheimer’s disease"
-date-start: 2017-10-01
-date-end:  2020-09-01
+date-start: 2015-10-01
+date-end:  2019-09-01
 twitter: ''
 supervisors: 'Prof Constantinos Patichis, Prof Panicos Kyriacou and  Constantino Carlos Reyes-Aldasoro'
 collaborators: ''
