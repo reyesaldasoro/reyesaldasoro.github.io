@@ -15,6 +15,7 @@ theme: "cell migration, software"
 collaborators: ''
 email: ''
 cv: ''
+linkedin: ''
 ---
 {::options parse_block_html="true" /}
 
