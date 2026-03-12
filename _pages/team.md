@@ -18,18 +18,6 @@ author_profile: true
 </div>
 </div>
 
-<hr-bold>
-<h2>Post-doctoral researchers</h2>
-<hr><br>
-<div class="grid">
-<div class="wrapper">
-  {% for post in site.team %}
-    {% if post.tags contains 'post-doc' %}
-      {% include archive-single-proj.html type="grid" %}
-    {% endif %}
-  {% endfor %}
-  </div>
-  </div>
 
 <hr-bold>
 <h2>PhD students</h2>
@@ -43,6 +31,20 @@ author_profile: true
   {% endfor %}
 </div>
 </div>
+
+<hr-bold>
+<h2>Post-doctoral researchers</h2>
+<hr><br>
+<div class="grid">
+<div class="wrapper">
+  {% for post in site.team %}
+    {% if post.tags contains 'post-doc' %}
+      {% include archive-single-proj.html type="grid" %}
+    {% endif %}
+  {% endfor %}
+  </div>
+  </div>
+
 
 <hr-bold>
 <h2>Alumni</h2>
