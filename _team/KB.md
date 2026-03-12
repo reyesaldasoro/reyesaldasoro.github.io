@@ -15,7 +15,7 @@ theme: "cell migration, software"
 collaborators: ''
 email: ''
 cv: ''
-linkedin: ''
+linkedin: 'konstantinos-blazakis-b1308932'
 ---
 {::options parse_block_html="true" /}
 
