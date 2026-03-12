@@ -6,7 +6,7 @@ venue: "Scientific Reports"
 authors: "Muhammad Najam Dar, Muhammad Usman Akram, Ahmad Rauf Subhani, Sajid Gul Khawaja, Constantino Carlos Reyes-Aldasoro,  Sarah Gul"
 paperurl: https://www.nature.com/articles/s41598-024-61832-7
 type: Paper
-doi: 10.1038/s41598-024-61832-77
+doi: 10.1038/s41598-024-61832-7
 theme: "medicalimaging,ML_AI_DL"
 ---
 <h2> Abstract </h2>   <br>  
