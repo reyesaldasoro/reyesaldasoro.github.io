@@ -11,7 +11,7 @@ date-start: 2021-04-01
 date-end:  2025-08-01
 twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Rob Noble'
-collaborators: 'maiques,castellano'
+collaborators: 'Oscar Maiques, María Esther Castellano Sánchez'
 theme: "medicalimaging, cancer, ML_AI_DL"
 email: ''
 cv: ''
