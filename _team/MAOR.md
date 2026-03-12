@@ -4,11 +4,11 @@ authorname: "MAOR"
 collection: team
 header:
   teaser: MAOR.jpg
-tags: phd
+tags: alumni
 tagline: "PhD Student<br>City, University of London"
 subject: "Analysis of Histopathological Images "
-date-start: 2017-10-01
-date-end:  2020-09-01
+date-start: 2018-02-01
+date-end:  2025-06-01
 twitter: ''
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Edgar Roman-Rangel'
 collaborators: 'Jakob Kather'

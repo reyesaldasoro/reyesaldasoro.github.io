@@ -4,7 +4,7 @@ authorname: "YA"
 collection: team
 header:
   teaser: YA.jpg
-tags: phd
+tags: alumni
 tagline: "PhD Student<br> City, University of London"
 subject: "Analysis of Histopathological Images"
 date-start: 2021-04-01
