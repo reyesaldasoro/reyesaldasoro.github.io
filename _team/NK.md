@@ -19,6 +19,3 @@ cv: ''
 {::options parse_block_html="true" /}
 
 <p align= "justify">
-
-
-Now Associate Professor at the Department of Computer Systems Engineering of [Mehran University of Technology](https://cs.muet.edu.pk/staff-members/468/), Pakistan.
