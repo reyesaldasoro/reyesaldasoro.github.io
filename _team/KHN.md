@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: KHN.jpg
 tags: "post-doc"
-tagline: "Research Associate"
+tagline: "Analysis of wrist fractures radiographs <br>	Nov 2019	– Jul   2021 <br> Funding: SST-City"
 subject: "Analysis of fractures in radiographs"
 date-start: 2019-11-01
 date-end:  2021-07-01

@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: CK.jpg
 tags: "post-doc"
-tagline: "Lecturer in Computer Science"
+tagline: "Semantic Segmentation of HeLa cells <br>Dec 2020	– Jun 2021 <br> Funding: SST-City"
 subject: "Volumetric Analysis of HeLa cells observed with Electron Microscopy"
 date-start: 2021-10-01
 date-end:  2022-09-01
