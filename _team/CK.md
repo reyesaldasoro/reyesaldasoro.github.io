@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: CK.jpg
 tags: "alumni"
-tagline: "PhD Student<br>Alumni, City, University of London"
+tagline: "PhD Student<br> City, University of London"
 subject: "Volumetric Analysis of HeLa cells observed with Electron Microscopy"
 date-start: 2014-06-01
 date-end:  2021-06-01

@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: MMJ.jpg
 tags: alumni
-tagline: "PhD Student<br>Alumni, City, University of London"
+tagline: "PhD Student<br> City, University of London"
 subject: " Detection, Localization and Quantification of Non-Calcified Coronary Plaques in Contrast Enhanced CTA"
 date-start: 2014-10-01
 date-end:  2027-09-01

@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: JASL.png
 tags: alumni
-tagline: "PhD Student<br>Alumni, City, University of London"
+tagline: "PhD Student<br> City, University of London"
 subject: "Automated analysis of moving patterns in migrating cells’ movement"
 date-start: 2015-10-01
 date-end:  2019-09-01

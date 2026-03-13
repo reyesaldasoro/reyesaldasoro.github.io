@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: TY.jpg
 tags: alumni
-tagline: "PhD Student<br>Alumni, University of Sussex"
+tagline: "PhD Student<br> University of Sussex"
 subject: "A robust and artifact resistant algorithm of ultrawideband imaging system for breast cancer detection"
 date-start: 2011-10-01
 date-end:  2014-09-01
