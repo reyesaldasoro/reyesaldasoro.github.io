@@ -5,7 +5,7 @@ collection: team
 header:
   teaser: NRM.jpg
 tags: "post-doc"
-tagline: Analysis of Electropalatography <br>	Oct 2017	– Mar 2022 <br> Funding:Leverhulme Trust"
+tagline: Analysis of Electropalatography <br>	Oct 2017	– Mar 2022 <br> Funding:Leverhulme Trust
 subject: "Electropalatography"
 date-start: 2017-10-01
 date-end:  2021-02-01
