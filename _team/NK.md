@@ -1,5 +1,5 @@
 ---
-title: "Nadia Khodae"
+title: "Nadia Khodaei"
 authorname: "NK"
 collection: team
 header:
