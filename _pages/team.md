@@ -61,7 +61,7 @@ author_profile: true
 
 
 <hr-bold>
-<h2>Internship students</h2>
+<h2></h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
