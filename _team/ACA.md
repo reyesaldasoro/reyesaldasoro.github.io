@@ -4,8 +4,8 @@ authorname: "ACA"
 collection: team
 header:
   teaser: ACA.png
-tags: alumni
-tagline: "Research Assistant<br>Alumni, University of Sussex"
+tags: post-doc
+tagline: "Research Assistant <br>	May 2011	– Aug 2011 <br> Funding: University of Sussex"
 subject: "Behavior Analysis of Ants from Video Sequences"
 date-start: 2011-05-01
 date-end:  2011-08-01
