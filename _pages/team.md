@@ -33,7 +33,7 @@ author_profile: true
 </div>
 
 <hr-bold>
-<h2>Post-doctoral researchers</h2>
+<h2>Researcher Assistants</h2>
 <hr><br>
 <div class="grid">
 <div class="wrapper">
