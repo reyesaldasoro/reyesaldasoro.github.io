@@ -29,8 +29,8 @@ main:
   - title: "PhD Examinations"
     url: /phdexaminations/
 
-  - title: "Positions"
-    url: /positions/
+#  - title: "Positions"
+#    url: /positions/
 
 #  - title: "Resources"
 #    url: /resources/
@@ -47,8 +47,8 @@ main:
   - title: "Contact"
     url: /contact/
 
-  - title: "CV"
-    url: https://reyesaldasoro.github.io/files/CV_Reyes_2021_05_06.pdf
+#  - title: "CV"
+#    url: https://reyesaldasoro.github.io/files/CV_Reyes_2021_05_06.pdf
 
 
 # Projs:
