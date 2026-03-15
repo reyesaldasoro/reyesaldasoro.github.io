@@ -38,7 +38,7 @@ author_profile: true
 <tr><td>Nottingham </td><td>PhD</td><td>                    05/09/2023 </td><td>R LI 	</td></tr>
 <tr><td>University of Calcutta, India </td><td>PhD</td><td>  27/11/2023 </td><td>S GHOSHAL 	</td></tr>
 <tr><td>University of Adelaide, Australia </td><td>PhD</td><td>  05/09/2024 </td><td>M ZENG 	</td></tr>
-<tr><td>	Leeds	</td><td>23/01/2025	</td><td>PhD</td><td>J KEIGHLEY 	</td></tr>
-<tr><td>MUET, Pakistan</td><td>	18/08/2025</td><td>PhD</td><td>	M SHAIKH	</td></tr>
+<tr><td>	Leeds	</td><td>PhD</td><td> 23/01/2025	</td><td>J KEIGHLEY 	</td></tr>
+<tr><td>MUET, Pakistan</td><td>	PhD</td><td> 18/08/2025</td><td>	M SHAIKH	</td></tr>
 <tr><td>	University of Calcutta, India</td><td>PhD</td><td>	12/01/2026</td><td>	P CHATTERJEE	</td></tr>
 </table>
