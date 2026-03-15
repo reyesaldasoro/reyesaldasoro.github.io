@@ -12,7 +12,7 @@ date-end:  2028-09-30
 twitter: ''
 linkedin: 'daniel-brito-pacheco-78b34a1bb/'
 supervisors: 'Dr Constantino Carlos Reyes-Aldasoro and Dr Panos Giannopoulos'
-collaborators: 'Martin Jones'
+collaborators: 'Martin Jones, Manuel Salto-Tellez'
 email: ''
 theme: "cell biology, cancer"
 cv: ''
